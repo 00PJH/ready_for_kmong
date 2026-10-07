@@ -1,0 +1,1842 @@
+[
+  {
+    "gigId": 681054,
+    "currentCategoryId": 669,
+    "title": "업무 효율 확 올리는 실무용 AI 프롬프트 맞춤 셋팅",
+    "price": 66000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gArIv1751696587.jpg"
+    ],
+    "seller": {
+      "userId": 148598,
+      "nickname": "반걸음",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KeQm31688982010.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183171926_gjiy5n",
+    "kmongAd": {
+      "adId": 170948953,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 471437,
+    "currentCategoryId": 669,
+    "title": "AI 영상/일러스트 직접 할수있게해드립니다.설치세팅",
+    "price": 20000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xdND31688931738.jpg"
+    ],
+    "seller": {
+      "userId": 2237308,
+      "nickname": "birdflower",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0gjFu1684318086.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 82
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183171928_96l79v",
+    "kmongAd": {
+      "adId": 170940067,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 822146,
+    "currentCategoryId": 669,
+    "title": "AI 스포츠 데이터 분석 프롬프트 패키지",
+    "price": 349000,
+    "advertisementType": "ROOKIE",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JOUq81789416815.jpg"
+    ],
+    "seller": {
+      "userId": 3219418,
+      "nickname": "스마트계약소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/eIhqn1785858429.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172807_5eldsr",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": "CPT"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 810370,
+    "currentCategoryId": 669,
+    "title": "대학(원)생 전용 공모전 5단계 AI 프롬프트",
+    "price": 29000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ew0Zk1787501244.jpg"
+    ],
+    "seller": {
+      "userId": 5289425,
+      "nickname": "콘테스트랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tBcGH1787494064.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172809_aklvwr",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 551034,
+    "currentCategoryId": 669,
+    "title": "Stable diffusion 설치부터 생성까지",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mJsdm1708485018.jpg"
+    ],
+    "seller": {
+      "userId": 2968779,
+      "nickname": "AIveloper",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Y7hi01746253793.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172810_bs4d6h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 668150,
+    "currentCategoryId": 669,
+    "title": "5분완성, 고품질 자기소개서 작성 프롬프트",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/g58Ek1747233933.jpg"
+    ],
+    "seller": {
+      "userId": 2532219,
+      "nickname": "칩인사이더",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/GhnOW1742472002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 3.5,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172810_h5fhg9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 703144,
+    "currentCategoryId": 669,
+    "title": "카드뉴스 자동화 GPT 프롬프트+Canva 템플릿",
+    "price": 6000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Y8QqI1758514613.jpg"
+    ],
+    "seller": {
+      "userId": 238287,
+      "nickname": "SofiLAB",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Yrjqx1745395078.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172811_1qxdhw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 791077,
+    "currentCategoryId": 669,
+    "title": "챗GPT 프롬프트 - AI 티 안 나는 콘텐츠 4종",
+    "price": 19000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IlZ2y1783614509.jpg"
+    ],
+    "seller": {
+      "userId": 5140547,
+      "nickname": "SAVYX",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/B3K7y1783507588.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172812_4ubayy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 808823,
+    "currentCategoryId": 669,
+    "title": "3D 아이소메트릭 ai 프롬프트",
+    "price": 9000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hEMgp1787200874.jpg"
+    ],
+    "seller": {
+      "userId": 5284789,
+      "nickname": "모브스킬",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/6dZTp1787199877.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172813_a6l481",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 498250,
+    "currentCategoryId": 669,
+    "title": "1060+개 ChatGPT 프롬프트로 전문가 되기",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Cc0Do1692609449.jpg"
+    ],
+    "seller": {
+      "userId": 2867524,
+      "nickname": "USDongsan",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/O9E971691070678.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.7,
+      "reviewCount": 90
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172813_iqyve8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 706801,
+    "currentCategoryId": 669,
+    "title": "마케팅팀 전용 블로그 자동화프롬프트 킷 제작합니다",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/AzVa01768820035.jpg"
+    ],
+    "seller": {
+      "userId": 2274788,
+      "nickname": "제갈자룡",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kCRXA1768819678.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172814_64htnm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 812099,
+    "currentCategoryId": 669,
+    "title": "업무에 바로 쓰는 ChatGPT 프롬프트 설계",
+    "price": 149000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9hn491787759026.png"
+    ],
+    "seller": {
+      "userId": 5294667,
+      "nickname": "바이브빌더랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/046_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172815_cuyyd2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 775694,
+    "currentCategoryId": 669,
+    "title": "업무용 GPT 프롬프트 설계",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/oQwYC1779850261.jpg"
+    ],
+    "seller": {
+      "userId": 4408616,
+      "nickname": "프롬프트코어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/62mO91779845522.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172815_j56f9h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 816890,
+    "currentCategoryId": 669,
+    "title": "AI 고객응대 문구와 업무 프롬프트 제작",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2xhs81788623791.jpg"
+    ],
+    "seller": {
+      "userId": 5308872,
+      "nickname": "정돈엑셀",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/6cEgJ1788623142.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172816_jn27lm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 807209,
+    "currentCategoryId": 669,
+    "title": "반복 업무 진단하고 AI 자동화 설계도 그려 드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8wuL81790297856.png"
+    ],
+    "seller": {
+      "userId": 5256434,
+      "nickname": "스피드콘텐츠랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/HKOsk1790723982.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172816_85ddef",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 802928,
+    "currentCategoryId": 669,
+    "title": "앱.웹 UI 전문가 리뷰 - Atlas Review",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yb3MT1786048399.jpg"
+    ],
+    "seller": {
+      "userId": 5232718,
+      "nickname": "치농",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/157_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172817_od0usq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 802259,
+    "currentCategoryId": 669,
+    "title": "프롬프트엔지니어링 심화 컨설팅",
+    "price": 1200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lqZm71785909108.png"
+    ],
+    "seller": {
+      "userId": 4966647,
+      "nickname": "루카스이니셔티브",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/011_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172817_wjftnb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 801758,
+    "currentCategoryId": 669,
+    "title": "AI 프롬프트 제작 앱 웹사이트 기획",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tCpy61785823721.jpg"
+    ],
+    "seller": {
+      "userId": 5221301,
+      "nickname": "이화람",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/87nAx1785748060.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172818_xid7hj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 799198,
+    "currentCategoryId": 669,
+    "title": "업무 맞춤 AI 지시문(프롬프트)을 제작해 드립니다",
+    "price": 33000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/CQFDp1785328305.png"
+    ],
+    "seller": {
+      "userId": 1220957,
+      "nickname": "알리망떼",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CvlkM1785762449.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172818_p9oyx8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 795239,
+    "currentCategoryId": 669,
+    "title": "AI 프롬프트 설계 최적화 컨설팅",
+    "price": 29000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Kptk11784576931.png"
+    ],
+    "seller": {
+      "userId": 4966647,
+      "nickname": "루카스이니셔티브",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/011_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172819_soopuh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 820394,
+    "currentCategoryId": 669,
+    "title": "프롬프트 엔지니어링 컨설팅해드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/44owA1789106670.png"
+    ],
+    "seller": {
+      "userId": 734743,
+      "nickname": "디알소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/02yiA1729840920.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172819_o94mao",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 794111,
+    "currentCategoryId": 669,
+    "title": "AI 주식블로그 자동화 프롬프트팩 드립니다",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cclzZ1784346852.jpg"
+    ],
+    "seller": {
+      "userId": 5204319,
+      "nickname": "Veqtio",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/136_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172819_qdeoym",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 791880,
+    "currentCategoryId": 669,
+    "title": "AI 프롬프트 치트키 300선",
+    "price": 59000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/L1oRD1783844502.jpg"
+    ],
+    "seller": {
+      "userId": 5194621,
+      "nickname": "부업을엔조이하게",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/oyW9d1783845285.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172820_hmcevj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 823661,
+    "currentCategoryId": 669,
+    "title": "AI 프롬프트 로 자동화 해드립니다",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MdqjM1789622336.jpg"
+    ],
+    "seller": {
+      "userId": 5326019,
+      "nickname": "프롬프트의신",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kfXAr1789623128.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172820_53c45y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 786390,
+    "currentCategoryId": 669,
+    "title": "12년차 삼성전자 출신 엔지니어의 AI 프롬프트 최적화",
+    "price": 9000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5B7n91783837724.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172821_k7jj5r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 784983,
+    "currentCategoryId": 669,
+    "title": "서비스 등록 문구 AI 프롬프트팩",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mMGXK1782731395.jpg"
+    ],
+    "seller": {
+      "userId": 5136422,
+      "nickname": "AICos",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/pDjkS1782869348.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172821_0lgct7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 777447,
+    "currentCategoryId": 669,
+    "title": "ChatGPT 프롬프트 엔지니어링 바이블 (전자책)",
+    "price": 8000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xVepf1780314912.png"
+    ],
+    "seller": {
+      "userId": 5002643,
+      "nickname": "Gugymoi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/196_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172821_wtv4wg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 773130,
+    "currentCategoryId": 669,
+    "title": "ChatGPT Claude 프롬프트 시스템 맞춤 설계",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hep8x1779127410.jpg"
+    ],
+    "seller": {
+      "userId": 5065871,
+      "nickname": "프롬프트설계소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tWcWg1779113554.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172822_4otfxa",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 767856,
+    "currentCategoryId": 669,
+    "title": "ChatGPT/Claude 프롬프트 설계 + AI 업무",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hsYaL1777531155.jpg"
+    ],
+    "seller": {
+      "userId": 3200709,
+      "nickname": "AI백엔드프롬프트엔지니어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/074_blue.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172822_say4xm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 748598,
+    "currentCategoryId": 669,
+    "title": "AI 프롬프트로 스마트스토어 상품설명 자동완성",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Ru8Gh1772353422.jpg"
+    ],
+    "seller": {
+      "userId": 4916159,
+      "nickname": "프롬마스터",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZA7UF1772250986.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172823_t8bb56",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 723241,
+    "currentCategoryId": 669,
+    "title": "전문가 AI이미지 명령어 생성 보조 도구",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wjrsC1765425872.jpg"
+    ],
+    "seller": {
+      "userId": 4581917,
+      "nickname": "wavecore",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4gacz1761958910.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172823_s7nibj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 718208,
+    "currentCategoryId": 669,
+    "title": "AI 모델 맞춤 프롬프트 제작 서비스",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VHhR71763884254.jpg"
+    ],
+    "seller": {
+      "userId": 1280183,
+      "nickname": "눈높이코딩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nUWTM1763878198.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172824_xw1vtw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 711933,
+    "currentCategoryId": 669,
+    "title": "업무 특화 AI 프롬프트 설계",
+    "price": 29000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vU2pz1761749950.jpg"
+    ],
+    "seller": {
+      "userId": 2916599,
+      "nickname": "신뢰코딩337",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jZAp11693132226.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172824_k8tr58",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 708900,
+    "currentCategoryId": 669,
+    "title": "AI 이미지 생성툴 설치부터 실무활용까지",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JdlnM1760691089.jpg"
+    ],
+    "seller": {
+      "userId": 4698938,
+      "nickname": "민트케익",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/218_red.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172824_5qa88f",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 690148,
+    "currentCategoryId": 669,
+    "title": "기업 / 사업장 소개용 커스텀 GPT 제작",
+    "price": 700000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/w7mrB1754295401.jpg"
+    ],
+    "seller": {
+      "userId": 4570684,
+      "nickname": "아오이mk2",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/XIeun1754530839.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172828_m2mcs3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 687060,
+    "currentCategoryId": 669,
+    "title": "AI가 제안하는 독창적인 게임 아이디어 생성 프롬포트",
+    "price": 6000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WAbch1753224015.png"
+    ],
+    "seller": {
+      "userId": 4552283,
+      "nickname": "코딩죠아",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/192_red.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172829_mquoqs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 560664,
+    "currentCategoryId": 669,
+    "title": "Langchain LLM",
+    "price": 400000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JdLhl1711318810.png"
+    ],
+    "seller": {
+      "userId": 616424,
+      "nickname": "풀스택게임개발자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/LtvOo1576297262.",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172830_dcw1s6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 543766,
+    "currentCategoryId": 669,
+    "title": "1065개 미드저니 프롬프트만으로 AI이미지 전문가",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ClMZA1706267634.jpg"
+    ],
+    "seller": {
+      "userId": 2867524,
+      "nickname": "USDongsan",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/O9E971691070678.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.6,
+      "reviewCount": 7
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172830_b57859",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 524475,
+    "currentCategoryId": 669,
+    "title": "Ai 일러스트 설치 및 세팅/모든 오류 해결",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FypW41700846670.jpg"
+    ],
+    "seller": {
+      "userId": 987993,
+      "nickname": "화이트닝",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Wpcqq1709285606.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172831_dxf7n3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 489632,
+    "currentCategoryId": 669,
+    "title": "AI 그림 설치 대행 누구나 쉽게 그리기",
+    "price": 25000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/p5dVq1690450576.jpg"
+    ],
+    "seller": {
+      "userId": 2744594,
+      "nickname": "에이펭귄",
+      "grade": "MASTER",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/XLNMS1712830024.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 6
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 669,
+      "subCategoryName": "프롬프트 설계(엔지니어링)",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183172831_llx3py",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  }
+]

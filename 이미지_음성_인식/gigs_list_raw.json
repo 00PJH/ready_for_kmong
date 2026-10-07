@@ -1,0 +1,3544 @@
+[
+  {
+    "gigId": 720814,
+    "currentCategoryId": 670,
+    "title": "PDF.이미지.OCR 추출.문서정리 빠르게 도와드려요",
+    "price": 79000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9e5rI1782260356.jpg"
+    ],
+    "seller": {
+      "userId": 1236404,
+      "nickname": "RALPHDEV",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nTx4I1789134800.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183688994_hrb704",
+    "kmongAd": {
+      "adId": 170949289,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 652956,
+    "currentCategoryId": 670,
+    "title": "영상처리.컴퓨터비전.VLM.YOLO.비전AI전문가입니다",
+    "price": 299000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/onzoI1758979777.jpg"
+    ],
+    "seller": {
+      "userId": 1236404,
+      "nickname": "RALPHDEV",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nTx4I1789134800.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 12
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": true,
+    "isQualityGuaranteed": true,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183688996_18akiq",
+    "kmongAd": {
+      "adId": 170949288,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 608202,
+    "currentCategoryId": 670,
+    "title": "AI 얼굴인식 프로그램코드포함",
+    "price": 3000000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zGtvQ1727855075.png"
+    ],
+    "seller": {
+      "userId": 647265,
+      "nickname": "AI현업개발자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/uzL6J1639102613.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183688997_f521lk",
+    "kmongAd": {
+      "adId": 170949076,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 663206,
+    "currentCategoryId": 670,
+    "title": "python OCR 처리 시스템",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/NEg871745580981.jpg"
+    ],
+    "seller": {
+      "userId": 1197613,
+      "nickname": "코파일럿",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J1Ckf1750436177.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 5
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690060_rl0cii",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 674283,
+    "currentCategoryId": 670,
+    "title": "맞춤형 OCR 서비스",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iL8pg1782180481.jpg"
+    ],
+    "seller": {
+      "userId": 2450739,
+      "nickname": "heoina",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cvswd1672726880.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.7,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690062_hr1ct3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 718218,
+    "currentCategoryId": 670,
+    "title": "AI 이미지·음성 인식 맞춤 개발",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/N2vxg1763886655.jpg"
+    ],
+    "seller": {
+      "userId": 1280183,
+      "nickname": "눈높이코딩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nUWTM1763878198.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690062_uyyqss",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 719679,
+    "currentCategoryId": 670,
+    "title": "Vision AI ML, DNN SW개발",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3KPSm1764253902.png"
+    ],
+    "seller": {
+      "userId": 756093,
+      "nickname": "VisionML",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/i7CkS1764253210.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690063_pjbf6w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 715713,
+    "currentCategoryId": 670,
+    "title": "신호처리/정밀 측정 알고리즘 ",
+    "price": 9999000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EYb9r1779871608.jpg"
+    ],
+    "seller": {
+      "userId": 437521,
+      "nickname": "이편리한세상",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZmPJY1780247198.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690064_rr35sl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 698450,
+    "currentCategoryId": 670,
+    "title": "딥러닝 기반 객체 인식·이미지 분류 AI 모델 개발",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/YSz4A1756901002.jpg"
+    ],
+    "seller": {
+      "userId": 4611109,
+      "nickname": "DevAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/EPMzi1756899377.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690065_bfaqk9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 696945,
+    "currentCategoryId": 670,
+    "title": "Vision Algorithm",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OKGJm1756982231.jpg"
+    ],
+    "seller": {
+      "userId": 192090,
+      "nickname": "JBM",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/W6oF31680489351.PNG",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690065_g67yjg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 693112,
+    "currentCategoryId": 670,
+    "title": "AI 비전 LiDAR·카메라 기반 객체 검출·추적·",
+    "price": 1320000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aILSH1755225693.jpg"
+    ],
+    "seller": {
+      "userId": 1963243,
+      "nickname": "Beter",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/q1DJz1661309830.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690066_sfmlpm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 692424,
+    "currentCategoryId": 670,
+    "title": "물품 카운팅 카메라 프로그램",
+    "price": 40000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/y2Jo41755007422.jpg"
+    ],
+    "seller": {
+      "userId": 4555261,
+      "nickname": "장비PC프로그램전문가",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/155_red.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690066_gtnnjh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 687804,
+    "currentCategoryId": 670,
+    "title": "음성 인식 기술 활용 개발",
+    "price": 1100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yuhkl1788496627.jpg"
+    ],
+    "seller": {
+      "userId": 1865164,
+      "nickname": "빌더스게이트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/teZRl1755650482.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690067_r9joh1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 680008,
+    "currentCategoryId": 670,
+    "title": "AI 시각인식 영상인식 기능 개발",
+    "price": 4990000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uEzoA1751015705.jpg"
+    ],
+    "seller": {
+      "userId": 2149864,
+      "nickname": "continent",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fC8ai1656899027.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690067_3ehrvv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 678058,
+    "currentCategoryId": 670,
+    "title": "지능형 CCTV 개발",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/6np5m1750401529.png"
+    ],
+    "seller": {
+      "userId": 2329664,
+      "nickname": "깨비우스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Om78M1679401690.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690067_he8e97",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 677254,
+    "currentCategoryId": 670,
+    "title": "이미지/영상/객체인식/OCR 모델 개발",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vw9bc1750163212.png"
+    ],
+    "seller": {
+      "userId": 4442471,
+      "nickname": "야무진코끼리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/204_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690068_fhf4rc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 675337,
+    "currentCategoryId": 670,
+    "title": "맞춤형 영상감시/NVR Agentic AI",
+    "price": 3300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yr4wQ1750575442.jpg"
+    ],
+    "seller": {
+      "userId": 1416847,
+      "nickname": "DeepResearch",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jhgTX1750731607.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690068_st04hc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 669087,
+    "currentCategoryId": 670,
+    "title": "문서스캔, AI-OCR, 개인정보마스킹 대행",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RXq2h1747636158.jpg"
+    ],
+    "seller": {
+      "userId": 1406751,
+      "nickname": "디지털조이AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fM7Iv1784531087.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690069_c4ii9c",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 668198,
+    "currentCategoryId": 670,
+    "title": "산업용 자동 결함 탐지 시스템",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/s2U8Y1747273672.jpg"
+    ],
+    "seller": {
+      "userId": 2157922,
+      "nickname": "고마운안내인5125",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0Uolf1749266348.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690069_r0vy2m",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 667054,
+    "currentCategoryId": 670,
+    "title": "Vision AI - OCR 개발해드립니다.",
+    "price": 2500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Sc2DG1746948454.jpg"
+    ],
+    "seller": {
+      "userId": 2378190,
+      "nickname": "오데트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/LlP8a1787247681.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690069_1hqk86",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 665022,
+    "currentCategoryId": 670,
+    "title": "계약서/영수증/세금계산서 AI OCR 자동화",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RkwpS1776053617.jpg"
+    ],
+    "seller": {
+      "userId": 2841512,
+      "nickname": "에이치브이엔",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ssbBe1763270963.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690070_ij6egk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 798221,
+    "currentCategoryId": 670,
+    "title": "서버 업로드 없는 로컬 STT 음성 변환 프로그램",
+    "price": 19000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/g6k8n1785162444.jpg"
+    ],
+    "seller": {
+      "userId": 1903386,
+      "nickname": "라이영",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/9be8J1785165546.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690070_bokguv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 823368,
+    "currentCategoryId": 670,
+    "title": "OCR 문서 추출과 검수용 결과표를 만듭니다",
+    "price": 27000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Tjj5w1789571346.jpg"
+    ],
+    "seller": {
+      "userId": 1964416,
+      "nickname": "sueundeveloper",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/OSdXU1721536953.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690071_xurars",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 821408,
+    "currentCategoryId": 670,
+    "title": "이미지 영상 AI 객체 탐지 분석 모델 개발",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HfvSw1789307188.jpg"
+    ],
+    "seller": {
+      "userId": 132373,
+      "nickname": "Bauhous",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sR95P1751473665.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690071_clh32h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 821110,
+    "currentCategoryId": 670,
+    "title": "이미지 영상 분석 AI 객체 인식 수량 집계 개발",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ve4Hw1789282759.jpg"
+    ],
+    "seller": {
+      "userId": 368236,
+      "nickname": "문서비전AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/i0IzO1789262896.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690072_g9lf52",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 820915,
+    "currentCategoryId": 670,
+    "title": "음성인식 STT/응용 시스템 맞춤 개발",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GVgs41789603709.jpg"
+    ],
+    "seller": {
+      "userId": 5089626,
+      "nickname": "BeeLLM",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/UOMfO1789541458.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690072_q3vfpd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 816437,
+    "currentCategoryId": 670,
+    "title": "이미지 객체탐지 AI 모델 학습 - 성능 실측 리포트",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/CxNBG1788528128.png"
+    ],
+    "seller": {
+      "userId": 3516066,
+      "nickname": "스튜디오행간",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/EFOIL1778824552.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690072_mbevj5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 805959,
+    "currentCategoryId": 670,
+    "title": "계약서.영수증.설문지 AI OCR 문서 자동화",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qBx4A1786614584.png"
+    ],
+    "seller": {
+      "userId": 660473,
+      "nickname": "앤팩토리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/eS9Oc1786612426.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690073_v2bpdl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 805821,
+    "currentCategoryId": 670,
+    "title": "병원 동의서.문진표 종이서류 AI 데이터화",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/30beV1786612802.png"
+    ],
+    "seller": {
+      "userId": 660473,
+      "nickname": "앤팩토리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/eS9Oc1786612426.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690073_imp1dp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 799953,
+    "currentCategoryId": 670,
+    "title": "음성파일 자동 받아쓰기 핵심 요약 시스템을 맞춤 제작",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eQcqj1785481214.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690074_l9pgmc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 799949,
+    "currentCategoryId": 670,
+    "title": "이미지 PDF 문서를 데이터로 바꾸는 OCR 자동화",
+    "price": 790000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/24WfC1785478671.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690074_9jiyht",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 189117,
+    "currentCategoryId": 670,
+    "title": "객체 검출, 추적, 추정 프로그램 개발해 드립니다",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iGBSk1592286875.jpg"
+    ],
+    "seller": {
+      "userId": 787922,
+      "nickname": "홍앤천",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/gZo0L1616389104.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 6
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690074_d3cb8c",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 797376,
+    "currentCategoryId": 670,
+    "title": "영상 기반 자동 검출 시스템 개발",
+    "price": 2500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ekQbL1785028277.png"
+    ],
+    "seller": {
+      "userId": 3734753,
+      "nickname": "FillGaps",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/n9CDu1777893859.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690075_2p63ce",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 789024,
+    "currentCategoryId": 670,
+    "title": "OpenCV 영상처리 프로그램 개발",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/N638K1783236158.png"
+    ],
+    "seller": {
+      "userId": 2966997,
+      "nickname": "아득한살구꽃4445",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690075_42werr",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 786395,
+    "currentCategoryId": 670,
+    "title": "12년차 삼성전자 출신 엔지니어의 OCR 및 음성 인식",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Smnmu1783837768.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690077_qrhl5k",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 776980,
+    "currentCategoryId": 670,
+    "title": "컴퓨터비전 온디바이스 AI 프로그램 개발합니다",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OBt7y1780210711.jpg"
+    ],
+    "seller": {
+      "userId": 1923274,
+      "nickname": "비저언",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JIWZ31780209106.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690077_g4mnjb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 768085,
+    "currentCategoryId": 670,
+    "title": "SigLIP2 기반 고속 이미지 분류 app",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GB5kL1779493130.jpg"
+    ],
+    "seller": {
+      "userId": 5034693,
+      "nickname": "아담소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/8QSNX1779432308.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690077_7h7e8u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 758113,
+    "currentCategoryId": 670,
+    "title": "머신비전 AI 비전검사 소프트웨어 개발",
+    "price": 1490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3oTHP1776062644.jpg"
+    ],
+    "seller": {
+      "userId": 3288833,
+      "nickname": "데브링크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/vpoLQ1705902852.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690078_6fftdf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 752647,
+    "currentCategoryId": 670,
+    "title": "비전 이미지 생성 프로그램",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mRfPg1774438706.jpg"
+    ],
+    "seller": {
+      "userId": 4197436,
+      "nickname": "wAterMelon265",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/u11oQ1758717368.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690078_imemc7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 732341,
+    "currentCategoryId": 670,
+    "title": "실시간 VoicetoText 서비스 구현 및 최적화",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/il9Me1768040637.jpg"
+    ],
+    "seller": {
+      "userId": 2474104,
+      "nickname": "원숙한모험자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ti1ES1673709176.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690079_41giw2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 465695,
+    "currentCategoryId": 670,
+    "title": "Python/MATLAB/C/알고리즘 최적화",
+    "price": 9999000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Y0ROP1682490782.jpg"
+    ],
+    "seller": {
+      "userId": 437521,
+      "nickname": "이편리한세상",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZmPJY1780247198.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690079_fwibc2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 527971,
+    "currentCategoryId": 670,
+    "title": "포렌식 이미지 워터마킹 기술 개발",
+    "price": 30000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ITtZr1701905198.jpg"
+    ],
+    "seller": {
+      "userId": 2286359,
+      "nickname": "테크스피어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YT61E1701335073.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690080_hghjm2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 527594,
+    "currentCategoryId": 670,
+    "title": "얼굴보정 기능 모듈 개발",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aoFHp1701818818.jpg"
+    ],
+    "seller": {
+      "userId": 2286359,
+      "nickname": "테크스피어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YT61E1701335073.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690080_f29w88",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 525679,
+    "currentCategoryId": 670,
+    "title": "비젼 AI 비전 AI 데이터 분석 및 AI개발",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QDxDD1764686911.jpg"
+    ],
+    "seller": {
+      "userId": 1390316,
+      "nickname": "BITSroAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h4c991766202097.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690080_3xg3j5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 525561,
+    "currentCategoryId": 670,
+    "title": "인공지능 이미지 프로세싱 / 딥러닝 / 이미지 보정",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9p8SD1701215629.jpg"
+    ],
+    "seller": {
+      "userId": 2286359,
+      "nickname": "테크스피어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YT61E1701335073.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690081_kuo4al",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  },
+  {
+    "gigId": 514497,
+    "currentCategoryId": 670,
+    "title": "영상처리/딥러닝 솔루션 개발",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sxjS01750575855.jpg"
+    ],
+    "seller": {
+      "userId": 1416847,
+      "nickname": "DeepResearch",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jhgTX1750731607.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690081_0uap4g",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 46
+  },
+  {
+    "gigId": 506808,
+    "currentCategoryId": 670,
+    "title": "컴퓨터비전/머신러닝/딥러닝",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/6BJ7h1695131695.png"
+    ],
+    "seller": {
+      "userId": 2969025,
+      "nickname": "AllThatAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/UZbDQ1788788847.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690082_h7up9m",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 47
+  },
+  {
+    "gigId": 499484,
+    "currentCategoryId": 670,
+    "title": "Image 인공지능 YOLO 저에게로 오세요",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/e9qpo1751013603.png"
+    ],
+    "seller": {
+      "userId": 2913494,
+      "nickname": "딥소프트개발",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hew441704797336.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 9
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690082_e4xh3i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 48
+  },
+  {
+    "gigId": 494657,
+    "currentCategoryId": 670,
+    "title": "이미지 ocr 맞춤 처리 개발",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/01V3l1691506296.jpg"
+    ],
+    "seller": {
+      "userId": 2873382,
+      "nickname": "AI아빠",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/qjlRk1699416319.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 11
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690083_nsxvqk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 49
+  },
+  {
+    "gigId": 650339,
+    "currentCategoryId": 670,
+    "title": "인터랙티브 콘텐츠 제작",
+    "price": 2000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VP5t91776075431.jpg"
+    ],
+    "seller": {
+      "userId": 487004,
+      "nickname": "비욘드더스타",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ErCtR1741856975.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183690083_kmy8m5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 50
+  },
+  {
+    "gigId": 458440,
+    "currentCategoryId": 670,
+    "title": "인공지능을 활용한 이미지 분류/객체탐지 알고리즘 개발",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TlXN41680202579.png"
+    ],
+    "seller": {
+      "userId": 373538,
+      "nickname": "내바강",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/iV3bGKcJL0n51522291819.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.3,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728334_42v98i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 51
+  },
+  {
+    "gigId": 452933,
+    "currentCategoryId": 670,
+    "title": "AI 연구개발 컨설팅 LLM Agent Vision",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0BmTz1788879550.jpg"
+    ],
+    "seller": {
+      "userId": 943886,
+      "nickname": "해피AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lBYXU1746600761.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728336_gxfek3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 52
+  },
+  {
+    "gigId": 426841,
+    "currentCategoryId": 670,
+    "title": "이미지 검사와 객체탐지 AI 도입 가능성을 진단합니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VXH8Q1735385355.jpg"
+    ],
+    "seller": {
+      "userId": 2405050,
+      "nickname": "loveai",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/m1vfQ1735385663.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 19
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728337_26k1h9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 53
+  },
+  {
+    "gigId": 422008,
+    "currentCategoryId": 670,
+    "title": "영상처리 C++ 코드 프로그램, MFC 프로그램 개발",
+    "price": 7000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/n2v191669011470.png"
+    ],
+    "seller": {
+      "userId": 2371674,
+      "nickname": "등푸른해결사1826",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Onqab1668705707.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728337_djmq1r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 54
+  },
+  {
+    "gigId": 415982,
+    "currentCategoryId": 670,
+    "title": "Computer Vision",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eDLrz1779695814.jpg"
+    ],
+    "seller": {
+      "userId": 1617361,
+      "nickname": "동타니안",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rd0Wc1647583632.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728338_5iscus",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 55
+  },
+  {
+    "gigId": 397158,
+    "currentCategoryId": 670,
+    "title": "비전 프로그램 개발해 드립니다.",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LBuoS1782657046.jpg"
+    ],
+    "seller": {
+      "userId": 1617361,
+      "nickname": "동타니안",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rd0Wc1647583632.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728338_si4wli",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 56
+  },
+  {
+    "gigId": 387234,
+    "currentCategoryId": 670,
+    "title": "영상처리, 딥러닝 응용프로그램 개발해 드립니다.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qQSFQ1653302607.jpg"
+    ],
+    "seller": {
+      "userId": 2080925,
+      "nickname": "상상p",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Q9eT51710656001.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728339_o582k5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 57
+  },
+  {
+    "gigId": 188241,
+    "currentCategoryId": 670,
+    "title": "영상처리를 이용한 프로그램 개발해 드립니다.",
+    "price": 800000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TAzNn1592286927.jpg"
+    ],
+    "seller": {
+      "userId": 787922,
+      "nickname": "홍앤천",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/gZo0L1616389104.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728340_dqvy06",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 58
+  },
+  {
+    "gigId": 545265,
+    "currentCategoryId": 670,
+    "title": "비전 AI 기반 실시간 영상처리 소프트웨어 개발",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JcEJS1764687411.jpg"
+    ],
+    "seller": {
+      "userId": 1390316,
+      "nickname": "BITSroAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h4c991766202097.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728340_04vntm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 59
+  },
+  {
+    "gigId": 662808,
+    "currentCategoryId": 670,
+    "title": "VISION AI 시나리오 개발  딥러닝 ,머신런닝",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Z6PwX1745475282.png"
+    ],
+    "seller": {
+      "userId": 2307659,
+      "nickname": "사랑스러운화이트8371",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jWHBc1745301383.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728341_7403nx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 60
+  },
+  {
+    "gigId": 646677,
+    "currentCategoryId": 670,
+    "title": "LabView 랩뷰 제어계측 및 비젼 처리 도전",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RKzuM1740744388.jpg"
+    ],
+    "seller": {
+      "userId": 4227849,
+      "nickname": "친절한엔지니어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/s3oGw1740730308.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728341_6eyepc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 61
+  },
+  {
+    "gigId": 642291,
+    "currentCategoryId": 670,
+    "title": "머신비전 영상처리 장비제어",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RoKB81739494925.jpg"
+    ],
+    "seller": {
+      "userId": 4065174,
+      "nickname": "스펙트라랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/x1w631739775626.PNG",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728342_54pilt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 62
+  },
+  {
+    "gigId": 639237,
+    "currentCategoryId": 670,
+    "title": "유사 이미지 검색 엔진 개발",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uNYSt1738599467.png"
+    ],
+    "seller": {
+      "userId": 697876,
+      "nickname": "지식공유",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mvK0h1738984417.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728342_1rbxlf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 63
+  },
+  {
+    "gigId": 629737,
+    "currentCategoryId": 670,
+    "title": "컴퓨터비전 객체검출 이미지 Data Annotation",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rcRiC1735560262.png"
+    ],
+    "seller": {
+      "userId": 4091447,
+      "nickname": "그로우인",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PGwP71749133350.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728343_gg409d",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 64
+  },
+  {
+    "gigId": 608037,
+    "currentCategoryId": 670,
+    "title": "AI 기반 음성 도메인 코어 기술 개발",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hpzhd1727802515.jpg"
+    ],
+    "seller": {
+      "userId": 2668197,
+      "nickname": "SpeechAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/BLifn1727799526.jfif",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728343_1augv5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 65
+  },
+  {
+    "gigId": 607691,
+    "currentCategoryId": 670,
+    "title": "인공지능 이미지 인식",
+    "price": 9999000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rw5fb1727683417.jpg"
+    ],
+    "seller": {
+      "userId": 2286359,
+      "nickname": "테크스피어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YT61E1701335073.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728344_tji2mh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 66
+  },
+  {
+    "gigId": 607017,
+    "currentCategoryId": 670,
+    "title": "비전 AI 개발 및 응용",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jJyzx1727340659.png"
+    ],
+    "seller": {
+      "userId": 2713605,
+      "nickname": "주식회사퀸트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jgxpi1684224485.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728344_77187v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 67
+  },
+  {
+    "gigId": 606263,
+    "currentCategoryId": 670,
+    "title": "이미지 / 영상 처리 with AI or Classic",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ZOMt11727270140.jpg"
+    ],
+    "seller": {
+      "userId": 3342901,
+      "nickname": "LOOOKUP",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7gic41726206868.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728345_925chd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 68
+  },
+  {
+    "gigId": 604422,
+    "currentCategoryId": 670,
+    "title": "AI 기반 이상 감지 / 불량 탐지 솔루션 개발",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Rf04M1726185837.jpg"
+    ],
+    "seller": {
+      "userId": 3028409,
+      "nickname": "제조AI솔루션개발",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/FGT211725979363.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728345_3j944n",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 69
+  },
+  {
+    "gigId": 588478,
+    "currentCategoryId": 670,
+    "title": "이미지처리 머신러닝 딥러닝 알파 솔루션",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iSXTH1741362026.jpg"
+    ],
+    "seller": {
+      "userId": 3674906,
+      "nickname": "알파코더",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/QjEQC1721912006.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 7
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728346_j1n7b2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 70
+  },
+  {
+    "gigId": 581278,
+    "currentCategoryId": 670,
+    "title": "서울대 AI 박사와 함께하는 지능형 모니터링 앱 개발",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/q1r591718857597.jpg"
+    ],
+    "seller": {
+      "userId": 3661102,
+      "nickname": "인트엣지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Tp93n1718252645.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728346_enmv3u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 71
+  },
+  {
+    "gigId": 574171,
+    "currentCategoryId": 670,
+    "title": "영상/이미지 비전솔루션/AI model 활용 App개발",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JYPoo1715784687.png"
+    ],
+    "seller": {
+      "userId": 2094288,
+      "nickname": "번역과프로그래밍",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hk6O11787368909.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728346_vlh09i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 72
+  },
+  {
+    "gigId": 563021,
+    "currentCategoryId": 670,
+    "title": "인공지능 얼굴 꾸미기 및 미래 예측 활용 시스템",
+    "price": 10000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iZrB41712117173.jpg"
+    ],
+    "seller": {
+      "userId": 2286359,
+      "nickname": "테크스피어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YT61E1701335073.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728347_ke0xtp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 73
+  },
+  {
+    "gigId": 554988,
+    "currentCategoryId": 670,
+    "title": "컴퓨터비전/ 영상처리 /AI 프로그램 개발 합니다",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/s0upE1711064502.jpg"
+    ],
+    "seller": {
+      "userId": 2080925,
+      "nickname": "상상p",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Q9eT51710656001.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728347_yk7msk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 74
+  },
+  {
+    "gigId": 546799,
+    "currentCategoryId": 670,
+    "title": "유사 이미지 검색 서비스",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9ENvN1707135544.png"
+    ],
+    "seller": {
+      "userId": 3273156,
+      "nickname": "rainman",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/8hkMm1705631762.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728348_2590ay",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 75
+  },
+  {
+    "gigId": 534496,
+    "currentCategoryId": 670,
+    "title": "사람, 얼굴인식 딥러닝 + ML, 알고리즘, SW개발",
+    "price": 2200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/b1X4Y1750170431.jpg"
+    ],
+    "seller": {
+      "userId": 1416847,
+      "nickname": "DeepResearch",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jhgTX1750731607.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728348_qahnaw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 76
+  },
+  {
+    "gigId": 828080,
+    "currentCategoryId": 670,
+    "title": "AI 회의록 자동 작성 프로그램 개발 STT 요약",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mDJml1790385570.jpg"
+    ],
+    "seller": {
+      "userId": 495414,
+      "nickname": "솔랩스에이아이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4WYV51790400090.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 670,
+      "subCategoryName": "이미지·음성 인식",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183728349_w85vnv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 77
+  }
+]

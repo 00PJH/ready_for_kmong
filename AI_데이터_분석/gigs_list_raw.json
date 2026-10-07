@@ -1,0 +1,2072 @@
+[
+  {
+    "gigId": 773053,
+    "currentCategoryId": 674,
+    "title": "AI로또 빅데이터 통계 분석 및 추첨 프로그램",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8VO1B1779101818.jpg"
+    ],
+    "seller": {
+      "userId": 894405,
+      "nickname": "알파구소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Ee3Rg1748247726.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514093_8tsbnm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 239438,
+    "currentCategoryId": 674,
+    "title": "매트랩을 통한 데이터 분석 및 머신 러닝 딥러닝",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gugh91702308861.jpg"
+    ],
+    "seller": {
+      "userId": 1016259,
+      "nickname": "낭만공돌이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/j7g1s1690902795.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 42
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514096_8797x2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 461308,
+    "currentCategoryId": 674,
+    "title": "인공지능AI모델링 추천예측모델/고객분석/제안서/보고서용",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/37TOY1786310115.jpg"
+    ],
+    "seller": {
+      "userId": 358792,
+      "nickname": "닥터윤선생",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bwUqq1751963433.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 9
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514096_7l3si7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 755606,
+    "currentCategoryId": 674,
+    "title": "데이터 통계 분석(Bayesian.시계열.인과추론)",
+    "price": 45000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wmtU01774245176.jpg"
+    ],
+    "seller": {
+      "userId": 4967907,
+      "nickname": "BayesLab",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bhduR1774245081.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514097_v9ola1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 597433,
+    "currentCategoryId": 674,
+    "title": "AI/ML/통계 모델 시각화 분석",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vi70t1723622027.png"
+    ],
+    "seller": {
+      "userId": 2922909,
+      "nickname": "DSMark",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PuWY91693366318.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 23
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514101_029osu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 84149,
+    "currentCategoryId": 674,
+    "title": "AI 딥러닝 빅데이터 머신러닝 인공지능 데이터분석",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2VwLI1604976109.png"
+    ],
+    "seller": {
+      "userId": 262296,
+      "nickname": "데이터",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZzW3U1519399982.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 95
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514102_atuqxw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 693128,
+    "currentCategoryId": 674,
+    "title": "고급 통계 및 머신러닝",
+    "price": 28000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/P6w8v1755517551.jpg"
+    ],
+    "seller": {
+      "userId": 2060002,
+      "nickname": "향긋한마음3518",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2hcSF1713798989.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.6,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514102_8wa8w2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 384183,
+    "currentCategoryId": 674,
+    "title": "Python 데이터 분석 및 머신 러닝, 자동화",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zCK0G1702307968.jpg"
+    ],
+    "seller": {
+      "userId": 1016259,
+      "nickname": "낭만공돌이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/j7g1s1690902795.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.7,
+      "reviewCount": 16
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514103_0489hk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 732504,
+    "currentCategoryId": 674,
+    "title": "데이터 분석, 통계 분석, ML 모델링",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5Z8Ed1768572799.jpg"
+    ],
+    "seller": {
+      "userId": 4559103,
+      "nickname": "LionelMessi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/66YAa1768114307.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514103_2fjimj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 760866,
+    "currentCategoryId": 674,
+    "title": "Sim2Real synthetic 데이터셋 제작",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tgKcH1775631246.jpg"
+    ],
+    "seller": {
+      "userId": 4995875,
+      "nickname": "Ridgeline",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/iS8UV1775627143.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514104_h34wb2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 722732,
+    "currentCategoryId": 674,
+    "title": "면접/발표가 불안한가요 인공지능으로 분석해드립니다",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aCm9O1765959714.jpg"
+    ],
+    "seller": {
+      "userId": 2693339,
+      "nickname": "jjxxmiin",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DiKxj1716089659.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514104_fx9yg8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 761552,
+    "currentCategoryId": 674,
+    "title": "AI 회사 매출/수요 예측 (데이터분석 및 컨설팅)",
+    "price": 780000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IRm921776080054.jpg"
+    ],
+    "seller": {
+      "userId": 2234875,
+      "nickname": "나는야인공지능전문가",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/zJioF1752296346.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514104_o8dbln",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 779936,
+    "currentCategoryId": 674,
+    "title": "AI를 활용한 데이터분석 및 리포팅",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/CPazd1780985617.png"
+    ],
+    "seller": {
+      "userId": 5101007,
+      "nickname": "플랫폼데이터분석가",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/072_purple.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514105_nmu4db",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 781547,
+    "currentCategoryId": 674,
+    "title": "데이터 기반 쿠팡 ROAS AI 프로그램",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eRWej1782627417.jpg"
+    ],
+    "seller": {
+      "userId": 5134317,
+      "nickname": "오브맥",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KpAlA1784031738.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514105_fsshy4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 786389,
+    "currentCategoryId": 674,
+    "title": "12년차 삼성전자 출신 엔지니어의 남다른 데이터 분석",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IkjaO1783837894.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514106_p82l10",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 788647,
+    "currentCategoryId": 674,
+    "title": "pSEO 운영자가 직접 분석하는 GSC 데이터 리포트",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/oj5Au1783090492.jpg"
+    ],
+    "seller": {
+      "userId": 2400958,
+      "nickname": "nasni",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/233_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514106_d8t6d8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 799558,
+    "currentCategoryId": 674,
+    "title": "리뷰 설문 상담 텍스트를 AI로 분석해 핵심",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zSec21785395396.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514107_qpp0pg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 800973,
+    "currentCategoryId": 674,
+    "title": "스마트스토어 아이템 진입 가능성 24시간 리포트 진단",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vxzR11785988302.png"
+    ],
+    "seller": {
+      "userId": 4551541,
+      "nickname": "안형규데이터연구소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/uOn6o1784385016.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514107_x21wtm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 801620,
+    "currentCategoryId": 674,
+    "title": "스마트스토어 리뷰 AI 분석 리포트 제작해 드립니다",
+    "price": 33000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JTZ4C1785810985.jpg"
+    ],
+    "seller": {
+      "userId": 216754,
+      "nickname": "GenieProgram",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PH4F71509437372.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514107_oniu2b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 802738,
+    "currentCategoryId": 674,
+    "title": "AI 분석 결과를 웹 대시보드로 구현해 드립니다",
+    "price": 590000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jqowW1785999273.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514108_2wrya6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 810464,
+    "currentCategoryId": 674,
+    "title": "데이터를 성과로 연결하는 AI 데이터 전문가",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3d6je1787537640.jpg"
+    ],
+    "seller": {
+      "userId": 1835256,
+      "nickname": "데이터마에스트로",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/HwALq1787537380.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514108_8sb9md",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 812549,
+    "currentCategoryId": 674,
+    "title": "고객 리뷰 설문 CSV AI 분석 리포트",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eK8cZ1787836525.png"
+    ],
+    "seller": {
+      "userId": 5296087,
+      "nickname": "우뚝소나무",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/122_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514109_bll9bu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 813422,
+    "currentCategoryId": 674,
+    "title": "AI 데이터 분석 리포트 자동화해드립니다",
+    "price": 400000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SkGAw1788021516.png"
+    ],
+    "seller": {
+      "userId": 734743,
+      "nickname": "디알소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/02yiA1729840920.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514109_9op3uy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 813523,
+    "currentCategoryId": 674,
+    "title": "데이터 속의 숨은 그룹을 찾고 특성을 해석합니다.",
+    "price": 220000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bxdKq1788068543.jpg"
+    ],
+    "seller": {
+      "userId": 1006736,
+      "nickname": "유한회사클라스트로바니에",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TN6mn1742632167.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514109_bba78h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 813563,
+    "currentCategoryId": 674,
+    "title": "데이터 변수 간 인과관계와 영향도를 분석해드립니다",
+    "price": 440000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LtMMd1788075332.jpg"
+    ],
+    "seller": {
+      "userId": 1006736,
+      "nickname": "유한회사클라스트로바니에",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TN6mn1742632167.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514110_2hnm2t",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 816007,
+    "currentCategoryId": 674,
+    "title": "미국주식 재무제표 자동 분석 AI Stock 프로그",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vUiBJ1788479161.jpg"
+    ],
+    "seller": {
+      "userId": 5300563,
+      "nickname": "글로벌에이전시",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/101_red.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514110_wt69ir",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 824752,
+    "currentCategoryId": 674,
+    "title": "회사 데이터 말로 묻는 AI 분석 시스템",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/kJHzN1789802123.png"
+    ],
+    "seller": {
+      "userId": 1931916,
+      "nickname": "신중한감자6902",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514111_yh6aq4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 536590,
+    "currentCategoryId": 674,
+    "title": "모든 데이터분석/머신/딥러닝 프로젝트 및 모델개발합니다",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vrpXM1706176945.jpg"
+    ],
+    "seller": {
+      "userId": 669802,
+      "nickname": "오정훈캐글",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/zmCOd1679076841.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 34
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514111_ggbw0i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 146341,
+    "currentCategoryId": 674,
+    "title": "머신러닝/딥러닝 기반 데이터 분석 전과정을 해드립니다.",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ajbCt1648440305.png"
+    ],
+    "seller": {
+      "userId": 616451,
+      "nickname": "mok348",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/IzpBk1550537767.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 105
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514111_f3dute",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 367585,
+    "currentCategoryId": 674,
+    "title": "모든 ML, DL 맞춤형 분석 진행해 드립니다.",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LbBId1669966604.jpg"
+    ],
+    "seller": {
+      "userId": 662188,
+      "nickname": "olleh",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tbW1O1617087160.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 39
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514112_md2wde",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 376517,
+    "currentCategoryId": 674,
+    "title": "데이터 분석 모델이나 코드변환해 드립니다.",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Qx29z1648627384.jpg"
+    ],
+    "seller": {
+      "userId": 283944,
+      "nickname": "김승욱",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/acwcd1706683812.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 8
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514112_1kh3t5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 448275,
+    "currentCategoryId": 674,
+    "title": "머신러닝 딥러닝 모델 개발 및 Data 분석",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cu3hn1677229284.jpg"
+    ],
+    "seller": {
+      "userId": 882102,
+      "nickname": "마라톤",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lYYEJ1657621933.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514113_eruhp7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 458684,
+    "currentCategoryId": 674,
+    "title": "데이터 분석, AI 도입, 머신러닝 딥러닝 모델링",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2ESgB1680284338.png"
+    ],
+    "seller": {
+      "userId": 1803811,
+      "nickname": "pdeveloper",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/49BVD1675773730.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514113_538ofx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 481944,
+    "currentCategoryId": 674,
+    "title": "파이썬을 활용한 모든 머신러닝 기반 분석을 해드립니다.",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Xj8NP1687766846.png"
+    ],
+    "seller": {
+      "userId": 616451,
+      "nickname": "mok348",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/IzpBk1550537767.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514113_ts2v9y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 491941,
+    "currentCategoryId": 674,
+    "title": "데이터 분석, AI 도입, 머신러닝 딥러닝 모델링",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0CK5T1690761921.jpg"
+    ],
+    "seller": {
+      "userId": 2845227,
+      "nickname": "페르모나AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nSPmy1689842587.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514114_s52t28",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 515265,
+    "currentCategoryId": 674,
+    "title": "머신러닝 회귀모형 구축이 필요하시다면",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Whj641698151397.jpg"
+    ],
+    "seller": {
+      "userId": 1877759,
+      "nickname": "신경가소성",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/UOVl01710310594.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 8
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514114_ogpca7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 756922,
+    "currentCategoryId": 674,
+    "title": "2022 개정 교육과정 공통수학1 전용 자동 분석기",
+    "price": 129000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OjPxG1774520905.jpg"
+    ],
+    "seller": {
+      "userId": 4973846,
+      "nickname": "더픽Thepeak",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RdWrc1774523804.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514115_2v1ssj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 607174,
+    "currentCategoryId": 674,
+    "title": "인공지능 모델 분석 / 오픈소스 분석 / 리포트 제공",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mqPjG1727408642.jpg"
+    ],
+    "seller": {
+      "userId": 2693339,
+      "nickname": "jjxxmiin",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DiKxj1716089659.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514115_gnlhij",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 632294,
+    "currentCategoryId": 674,
+    "title": "AI 모델 학습 및 개발 분석 서버 구축",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mzdJo1736315214.jpg"
+    ],
+    "seller": {
+      "userId": 4101570,
+      "nickname": "주식회사네피리티",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bn09O1736209238.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514116_kqwol5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 678264,
+    "currentCategoryId": 674,
+    "title": "엑셀/CSV 데이터 분석해서 리포트로 만들어드립니다",
+    "price": 70000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XkL7v1750488305.jpg"
+    ],
+    "seller": {
+      "userId": 4229793,
+      "nickname": "소소한개발",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/zJSzw1740895656.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514116_4uwl9t",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 707636,
+    "currentCategoryId": 674,
+    "title": "산업안전 관리 웹앱 구축 —법령분석 점검/리포트 자동화",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SuQ4w1760344954.jpg"
+    ],
+    "seller": {
+      "userId": 4690947,
+      "nickname": "타야야야잇",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DZXcY1760339832.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514116_eootu4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 710844,
+    "currentCategoryId": 674,
+    "title": "스마트팩토리 AI 예지보전 이상탐지 예측모델링",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/b3eW01788879494.jpg"
+    ],
+    "seller": {
+      "userId": 943886,
+      "nickname": "해피AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lBYXU1746600761.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514117_w67aqk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 712779,
+    "currentCategoryId": 674,
+    "title": "데이터 분석·ML/DL·통계 원스톱",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lNarT1762153344.jpg"
+    ],
+    "seller": {
+      "userId": 4720309,
+      "nickname": "steffie",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sg7AG1764593237.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514117_rpggv4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 718350,
+    "currentCategoryId": 674,
+    "title": "머신러닝 딥러닝 기반 데이터 분석 토탈 솔루션",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RwqKP1764052037.jpg"
+    ],
+    "seller": {
+      "userId": 251127,
+      "nickname": "외국계분석가",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/UBGVj1780830701.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514118_9ke369",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 745091,
+    "currentCategoryId": 674,
+    "title": "데이터 분석 전공 + AI개발 경력 / 데이터 시각화",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0leYD1772586468.jpg"
+    ],
+    "seller": {
+      "userId": 4898835,
+      "nickname": "에이아이닥터",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0ErH91771322698.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 674,
+      "subCategoryName": "AI 데이터 분석",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185514118_rku9h8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  }
+]

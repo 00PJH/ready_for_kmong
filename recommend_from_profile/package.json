@@ -1,0 +1,13 @@
+{
+  "name": "defense-nlp-ai-demo",
+  "version": "1.2.0",
+  "description": "AI 기반 국방 뉴스 자동 분류 및 인텔리전스 데모 대시보드",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}

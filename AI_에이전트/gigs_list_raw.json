@@ -1,0 +1,7270 @@
+[
+  {
+    "gigId": 537399,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트/자동화/GPT/MCP 등 제작합니다",
+    "price": 5500000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TfaMI1747153384.jpg"
+    ],
+    "seller": {
+      "userId": 154593,
+      "nickname": "로치오",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/aeNV11701408672.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184721526_vdmlp2",
+    "kmongAd": {
+      "adId": 170950474,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 758595,
+    "currentCategoryId": 673,
+    "title": "클로드코드 모바일 원격 및 자동화 세팅해드립니다",
+    "price": 9000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5pI0T1775022029.jpg"
+    ],
+    "seller": {
+      "userId": 20561,
+      "nickname": "팬더84",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h1q3K1774684856.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 24
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184721528_wsovcl",
+    "kmongAd": {
+      "adId": 170949886,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 747248,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 오픈클로 인공지능봇 세팅해드립니다",
+    "price": 119000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2EM7u1783816494.png"
+    ],
+    "seller": {
+      "userId": 4231722,
+      "nickname": "neoworks",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J0jVG1783423683.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.5,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184721529_qxor2b",
+    "kmongAd": {
+      "adId": 170949531,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 794757,
+    "currentCategoryId": 673,
+    "title": "원격으로 클로드코드+모바일+MCP 세팅해드립니다.",
+    "price": 50000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3FZwD1784510795.jpg"
+    ],
+    "seller": {
+      "userId": 4126488,
+      "nickname": "알코딩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ntrMv1785603191.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184721529_18r0fj",
+    "kmongAd": {
+      "adId": 170950826,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 728111,
+    "currentCategoryId": 673,
+    "title": "LLM 기반 AI Agent 개발",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rXQDv1766909936.jpg"
+    ],
+    "seller": {
+      "userId": 4774589,
+      "nickname": "CUBETHON",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/181_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 5
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722769_omun2e",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 745946,
+    "currentCategoryId": 673,
+    "title": "오픈클로 - 헤르메스 설치 세팅 비쌀 이유 없어요",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TZXNp1783003960.jpg"
+    ],
+    "seller": {
+      "userId": 758071,
+      "nickname": "잘부탁합니드앙",
+      "grade": "MASTER",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sLUvn1783349133.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 96
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722770_wk46om",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 747972,
+    "currentCategoryId": 673,
+    "title": "프리미엄 오픈클로 / 24시간 AI 비서",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Kx1ft1774237724.jpg"
+    ],
+    "seller": {
+      "userId": 690732,
+      "nickname": "바이브메이커",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/97AXq1772105673.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722771_cafc0s",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 766893,
+    "currentCategoryId": 673,
+    "title": "n8n 업무 자동화 구축해드립니다(AI 에이전트)",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/K37Od1777289038.jpg"
+    ],
+    "seller": {
+      "userId": 4518395,
+      "nickname": "JINAILAB",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2gu411761814395.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722772_1jm62h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 731444,
+    "currentCategoryId": 673,
+    "title": "MS 코파일럿 스튜디오 기반 에이전트Agent 개발",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HzKGk1767795243.jpg"
+    ],
+    "seller": {
+      "userId": 669586,
+      "nickname": "이엔아이소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KWvph1767792968.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722773_cg569q",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 782508,
+    "currentCategoryId": 673,
+    "title": "AI 업무 자동화 워크플로우 구축해 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hLHWF1781624728.png"
+    ],
+    "seller": {
+      "userId": 2730154,
+      "nickname": "stacia",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZcVdI1704354876.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722774_ihp5km",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 762280,
+    "currentCategoryId": 673,
+    "title": "Openclaw/HermesAgent 비쌀 이유 없음",
+    "price": 54000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cwh4r1776015385.jpg"
+    ],
+    "seller": {
+      "userId": 4656879,
+      "nickname": "Curatingram",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/6w9z01788689370.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722774_qn2uex",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 767441,
+    "currentCategoryId": 673,
+    "title": "오픈클로 보다 더 똑똑한 헤르메스 설치해드립니다",
+    "price": 60000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/o1hhu1777443200.jpg"
+    ],
+    "seller": {
+      "userId": 4459703,
+      "nickname": "StudioChae",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0KEWO1777454039.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 6
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722775_kvlci8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 773500,
+    "currentCategoryId": 673,
+    "title": "AI 자동화 및 에이전트 만들어 드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/r7q9E1779198981.jpg"
+    ],
+    "seller": {
+      "userId": 2730154,
+      "nickname": "stacia",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZcVdI1704354876.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722776_hcf8lq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 789540,
+    "currentCategoryId": 673,
+    "title": "AI가 논문을 찾고 / 검증하고 / 정리합니다.",
+    "price": 22000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8rw0w1783333093.jpg"
+    ],
+    "seller": {
+      "userId": 3922472,
+      "nickname": "100percentAi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/GrpZi1783252342.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722776_097u3a",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 739961,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 설치부터 세팅까지 한번에 (전자책제공)",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yaKjW1774939172.jpg"
+    ],
+    "seller": {
+      "userId": 4559319,
+      "nickname": "닭튀김",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/039_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 32
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722777_9072b7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 772717,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 원격설치+로컬LLM 토큰절약 세팅",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Ed1101779025562.jpg"
+    ],
+    "seller": {
+      "userId": 245482,
+      "nickname": "앱도사",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/y3CDF1510110844.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722777_oacfya",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 676935,
+    "currentCategoryId": 673,
+    "title": "AI Agent/ChatGPT/LLM/MCP 맞춤형개발",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gJJVh1750081616.jpg"
+    ],
+    "seller": {
+      "userId": 662188,
+      "nickname": "olleh",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tbW1O1617087160.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 9
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722778_ydom7f",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 746515,
+    "currentCategoryId": 673,
+    "title": "오픈클로(openclaw) 단순 설치에 돈 쓰지 마세요",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VeURl1771783147.jpg"
+    ],
+    "seller": {
+      "userId": 2421524,
+      "nickname": "HeyRatty",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/k0LiG1771755427.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 5
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722778_017678",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 699680,
+    "currentCategoryId": 673,
+    "title": "n8n을 통한 업무 자동화, 나만의 에이전트 구축",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HTvkD1757344120.jpg"
+    ],
+    "seller": {
+      "userId": 2351053,
+      "nickname": "DevFlow",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2w3oT1758232568.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722779_4iq8i4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 736694,
+    "currentCategoryId": 673,
+    "title": "업무 흐름 자동화 도구 맞춤제작",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bOows1785378445.png"
+    ],
+    "seller": {
+      "userId": 971406,
+      "nickname": "Whitening",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/G0z631699845535.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722779_4i205q",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 743562,
+    "currentCategoryId": 673,
+    "title": "(원클릭) OpenClaw ai비서 자동설치 프로그램",
+    "price": 120000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/J4DIZ1770792048.jpg"
+    ],
+    "seller": {
+      "userId": 4374535,
+      "nickname": "오리진입니다",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/y2qVr1771243202.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722780_eyunpe",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 673603,
+    "currentCategoryId": 673,
+    "title": "사내 문서 검색과 근거 답변 AI를 구축합니다",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iaqvG1749018901.jpg"
+    ],
+    "seller": {
+      "userId": 2405050,
+      "nickname": "loveai",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/m1vfQ1735385663.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722780_f8gbab",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 704549,
+    "currentCategoryId": 673,
+    "title": "#챗봇.RAG.에이전트.랭체인.LLM훈련 전문가입니다#",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gwnNj1758983686.jpg"
+    ],
+    "seller": {
+      "userId": 1236404,
+      "nickname": "RALPHDEV",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nTx4I1789134800.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722781_1jpdku",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 745823,
+    "currentCategoryId": 673,
+    "title": "비개발자를 위한 오픈클로 1대1 실습 강의 (설치포함)",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cFDgs1771517547.jpg"
+    ],
+    "seller": {
+      "userId": 2693684,
+      "nickname": "에이전트랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fJxj31771517295.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722781_6h8tot",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 749966,
+    "currentCategoryId": 673,
+    "title": "오픈클로 완벽설치 및세팅",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/7XK7X1772702462.jpg"
+    ],
+    "seller": {
+      "userId": 3963633,
+      "nickname": "라크네사진관",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lO4lo1771333966.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722782_n3bhs7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 753462,
+    "currentCategoryId": 673,
+    "title": "오픈클로 설치 대행 Windows/Mac 텔레그램 연동",
+    "price": 29000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gwIdy1773663906.jpg"
+    ],
+    "seller": {
+      "userId": 65636,
+      "nickname": "herohunking",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/5W1cz1653957760.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722784_d6c7ym",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 767440,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 도입/MCP 연결/업무 자동화",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IXDss1777433874.jpg"
+    ],
+    "seller": {
+      "userId": 728979,
+      "nickname": "HAEDO",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Nhfgj1710230928.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722785_6w2uii",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 769320,
+    "currentCategoryId": 673,
+    "title": "오픈클로 AI 에이전트 설치 및 세팅",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gQ7ZL1778118497.jpg"
+    ],
+    "seller": {
+      "userId": 690614,
+      "nickname": "플로젠",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/t1kom1777267823.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722786_r2gbog",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 524220,
+    "currentCategoryId": 673,
+    "title": "현업 업무를 파악해 AI 에이전트 팀을 구축합니다",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5mhY51791292241.jpg"
+    ],
+    "seller": {
+      "userId": 1520541,
+      "nickname": "지정의",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Gcxdb1676263534.JPG",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722786_cic6g9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 576353,
+    "currentCategoryId": 673,
+    "title": "고객 응대 가능한 AI 음성 에이전트 제작해드려요.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sa2fe1730706906.jpg"
+    ],
+    "seller": {
+      "userId": 218051,
+      "nickname": "VRAIn",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lC6DQ1626413938.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722787_a4y10m",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 646831,
+    "currentCategoryId": 673,
+    "title": "나만의 GPT/맞춤형 AI/나만의 AI Agent",
+    "price": 199000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Z0fw11740832589.jpg"
+    ],
+    "seller": {
+      "userId": 537451,
+      "nickname": "acradin",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rMtTprGtr1Zr1542621292.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722787_6lvrfk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 656430,
+    "currentCategoryId": 673,
+    "title": "맞춤형 AI 에이전트 24시간 일하는 디지털 인력 구축",
+    "price": 8000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uMr8r1752151153.jpg"
+    ],
+    "seller": {
+      "userId": 2221088,
+      "nickname": "5살차이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/s9sa81784109196.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722788_d82488",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 658736,
+    "currentCategoryId": 673,
+    "title": "AI 챗봇,AI agent,AI 자동화 서비스 구축",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/BRiKU1744334914.png"
+    ],
+    "seller": {
+      "userId": 2953648,
+      "nickname": "미래학자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RVXRH1706234448.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722788_sx0ktw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 680166,
+    "currentCategoryId": 673,
+    "title": "이력서 자동 수집 및 분석 AI 에이전트",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FHjO11751090133.jpg"
+    ],
+    "seller": {
+      "userId": 561168,
+      "nickname": "리얼데이터",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/heMOg1675511492.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722788_uc19ee",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 687169,
+    "currentCategoryId": 673,
+    "title": "AI에이젼트를 제작드립니다. 아임웹, 웹플로우 가능",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lNuD91753254950.jpg"
+    ],
+    "seller": {
+      "userId": 178423,
+      "nickname": "Planing",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ru1Mr1558678618.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722789_4kqgvy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 688353,
+    "currentCategoryId": 673,
+    "title": "지시만 하세요. 당신의 마음을 읽고 먼저 움직입니다.",
+    "price": 3300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/AUrk91783412521.jpg"
+    ],
+    "seller": {
+      "userId": 1865164,
+      "nickname": "빌더스게이트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/teZRl1755650482.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722789_i7mlfu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 693367,
+    "currentCategoryId": 673,
+    "title": "AI 챗봇 에이전트 웹챗봇 간단히 만들어 드립니다.",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mglMr1755323784.jpg"
+    ],
+    "seller": {
+      "userId": 1100526,
+      "nickname": "핸드메이드앱",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2RcKa1684728276.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722790_toyqg3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 702195,
+    "currentCategoryId": 673,
+    "title": "AI AGENT / LLM / AI 챗봇 맞춤개발",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wcjZv1758121838.jpg"
+    ],
+    "seller": {
+      "userId": 3379245,
+      "nickname": "Heyden",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Owl8o1758114666.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722790_nahcbj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 702967,
+    "currentCategoryId": 673,
+    "title": "AI 기반 Text2SQL 변환 서비스",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qhzPo1758431736.png"
+    ],
+    "seller": {
+      "userId": 183854,
+      "nickname": "chaca",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wrAPX1694329731.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722791_4icrmn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 712204,
+    "currentCategoryId": 673,
+    "title": "AI 기반 자동 보고/분석 서비스",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/DTGpU1761872659.jpg"
+    ],
+    "seller": {
+      "userId": 639464,
+      "nickname": "CQDS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/I4PCs1761867998.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722791_3vcf9a",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 716692,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트로 업무 자동화 시스템 구축해드립니다",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/nP6cL1789305984.jpg"
+    ],
+    "seller": {
+      "userId": 132373,
+      "nickname": "Bauhous",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sR95P1751473665.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722791_xonhdv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 725756,
+    "currentCategoryId": 673,
+    "title": "AI 멀티 에이전트 시스템 구축",
+    "price": 880000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JfOCY1767157507.jpg"
+    ],
+    "seller": {
+      "userId": 272432,
+      "nickname": "블루태그",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/HaDtG1566384875.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722792_ynjcae",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 726248,
+    "currentCategoryId": 673,
+    "title": "생성형 AI 기반 봇/프로그램 제작해드립니다.",
+    "price": 50000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/J5SWx1766298262.png"
+    ],
+    "seller": {
+      "userId": 2735623,
+      "nickname": "통속의뇌",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lnnvf1685252927.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722793_9x48v1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 730537,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 개발 - 백엔드/프론트/에이전트 개발",
+    "price": 700000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/S3Cdx1768090223.jpg"
+    ],
+    "seller": {
+      "userId": 4319777,
+      "nickname": "나노바나나우유",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3QLbJ1768603848.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722794_xxn33w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 741536,
+    "currentCategoryId": 673,
+    "title": "GPT+Claude AI 챗봇 제작 (RAG/카카오톡)",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FwJE11770295588.jpg"
+    ],
+    "seller": {
+      "userId": 4774851,
+      "nickname": "싸이원",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nc6k11764847053.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722795_5yd272",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  },
+  {
+    "gigId": 743053,
+    "currentCategoryId": 673,
+    "title": "오픈클로(OpenClaw) 설치 및 세팅",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HKarI1771397326.jpg"
+    ],
+    "seller": {
+      "userId": 411364,
+      "nickname": "AI자동화개발팀",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JD84c1770662190.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722795_18owb4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 46
+  },
+  {
+    "gigId": 745903,
+    "currentCategoryId": 673,
+    "title": "(AI엔지니어/풀스택) 오픈클로 완벽 설치 및 최적화",
+    "price": 70000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/y1P7X1772166759.jpg"
+    ],
+    "seller": {
+      "userId": 3855739,
+      "nickname": "시냅스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2TldQ1772112590.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722796_hc2scq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 47
+  },
+  {
+    "gigId": 746864,
+    "currentCategoryId": 673,
+    "title": "GPT/OpenClaw 자동화 구축",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/evklc1771844635.jpg"
+    ],
+    "seller": {
+      "userId": 2588420,
+      "nickname": "남대천끼리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jDKH51771847015.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722796_i77alw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 48
+  },
+  {
+    "gigId": 746867,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트로 업무 자동화 구축",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tqepM1771846991.jpg"
+    ],
+    "seller": {
+      "userId": 648118,
+      "nickname": "제타시스템회사",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cpAgL1737013648.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722796_eburoq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 49
+  },
+  {
+    "gigId": 747109,
+    "currentCategoryId": 673,
+    "title": "(Master 세팅) 오픈클로 ai 비서 완벽 구축",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xbsEQ1771913052.jpg"
+    ],
+    "seller": {
+      "userId": 4783759,
+      "nickname": "젤다",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3JZxA1765259131.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184722797_av6yv5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 50
+  },
+  {
+    "gigId": 747513,
+    "currentCategoryId": 673,
+    "title": "보안 안전하게 클라우드에 오픈클로/openclaw 설치",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2Pdkf1772006194.jpg"
+    ],
+    "seller": {
+      "userId": 2863028,
+      "nickname": "언더더데스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TTtd81753585429.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762026_mrshj3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 51
+  },
+  {
+    "gigId": 747587,
+    "currentCategoryId": 673,
+    "title": "나의 AI 비서 OpenClaw를 설치해드립니다.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ppf131772028902.jpg"
+    ],
+    "seller": {
+      "userId": 891399,
+      "nickname": "노마드지토",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/glHtX1784354292.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762029_rb86je",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 52
+  },
+  {
+    "gigId": 747700,
+    "currentCategoryId": 673,
+    "title": "AI 오픈클로 세팅A-Z까지",
+    "price": 120000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/u8iGA1786457901.jpg"
+    ],
+    "seller": {
+      "userId": 622764,
+      "nickname": "Sage",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Pibdv1786461178.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762030_pwveby",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 53
+  },
+  {
+    "gigId": 747995,
+    "currentCategoryId": 673,
+    "title": "  MVP(AI 에이전트 OR 웹페이지) 구축",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bdcMv1772615270.jpg"
+    ],
+    "seller": {
+      "userId": 1594474,
+      "nickname": "Builder123",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762031_sprjkt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 54
+  },
+  {
+    "gigId": 748190,
+    "currentCategoryId": 673,
+    "title": "오픈클로 세팅 - 어렵다는 말에 속지 마세요",
+    "price": 70000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MJmiG1772180805.jpg"
+    ],
+    "seller": {
+      "userId": 2997227,
+      "nickname": "카라멜스튜디오AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nJG6j1770615969.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762031_8olqmh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 55
+  },
+  {
+    "gigId": 749090,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 설치부터 보안점검/실사용까지 완벽세팅",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jIr2j1775354296.jpg"
+    ],
+    "seller": {
+      "userId": 1833410,
+      "nickname": "DanielDetroit",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/j5PRE1750060540.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762032_kaogky",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 56
+  },
+  {
+    "gigId": 749965,
+    "currentCategoryId": 673,
+    "title": "서버/로컬 오픈클로 설치 대행 + 토큰 서비스 제공",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/W5Rnu1772703084.jpg"
+    ],
+    "seller": {
+      "userId": 1331525,
+      "nickname": "소담스러운가자미9958",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/zuPJC1663144280.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762033_iag6j5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 57
+  },
+  {
+    "gigId": 750072,
+    "currentCategoryId": 673,
+    "title": "Openclaw 설치/활용가이드(오픈클로 ai비서)",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sIYDf1772757195.jpg"
+    ],
+    "seller": {
+      "userId": 2006569,
+      "nickname": "Uzzano",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jnzU01772111519.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762033_8huvpq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 58
+  },
+  {
+    "gigId": 750136,
+    "currentCategoryId": 673,
+    "title": "기업용 프라이빗 AI 자동화 플랫폼 (AI DEPOT)",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uqoEZ1772768456.jpg"
+    ],
+    "seller": {
+      "userId": 551391,
+      "nickname": "컴네트워크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/q4Cak1544684332.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762034_kw7ao2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 59
+  },
+  {
+    "gigId": 750404,
+    "currentCategoryId": 673,
+    "title": "오픈클로 완벽세팅 (openclaw)",
+    "price": 40000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1Ddjg1773556565.jpg"
+    ],
+    "seller": {
+      "userId": 617341,
+      "nickname": "오픈클로비서공장",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/UA3pV1772855081.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762035_5qsewd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 60
+  },
+  {
+    "gigId": 751372,
+    "currentCategoryId": 673,
+    "title": "AI 웹소설 작가 에이전트Claude/Gemi",
+    "price": 130000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8AZ311773122295.jpg"
+    ],
+    "seller": {
+      "userId": 4676395,
+      "nickname": "ummbiz",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/073_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762035_p61n1v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 61
+  },
+  {
+    "gigId": 751772,
+    "currentCategoryId": 673,
+    "title": "나 대신 일하는 AI Agent 시스템 구축하기",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/DK9Gp1773291399.jpg"
+    ],
+    "seller": {
+      "userId": 2318686,
+      "nickname": "포너즈",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/l0Sf41773290543.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762036_myvppf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 62
+  },
+  {
+    "gigId": 751849,
+    "currentCategoryId": 673,
+    "title": "openclaw 빠르게 세팅 (개인PC없이도 가능)",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rFV9s1773233122.jpg"
+    ],
+    "seller": {
+      "userId": 4826368,
+      "nickname": "surfaceJay",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4hhY91767711861.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762036_rqecld",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 63
+  },
+  {
+    "gigId": 752227,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 및 자동화",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/N8LWr1773326258.jpg"
+    ],
+    "seller": {
+      "userId": 1433353,
+      "nickname": "defyworks",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Enfmo1644720896.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762037_03lm41",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 64
+  },
+  {
+    "gigId": 752735,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 구축 - Make.com 공식 전문가",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/r4HL01773473135.jpg"
+    ],
+    "seller": {
+      "userId": 4216026,
+      "nickname": "랩스플로우",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/62CD51741611232.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762038_qaoh9i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 65
+  },
+  {
+    "gigId": 752842,
+    "currentCategoryId": 673,
+    "title": "업종 맞춤 AI SaaS 구축 - 에이전트 전문가",
+    "price": 2000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0ELIH1773501683.jpg"
+    ],
+    "seller": {
+      "userId": 4216026,
+      "nickname": "랩스플로우",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/62CD51741611232.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762038_t1dl85",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 66
+  },
+  {
+    "gigId": 752937,
+    "currentCategoryId": 673,
+    "title": "오픈클로(OpenClaw) - 나의 비서를 고용하세요",
+    "price": 110000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FpEKh1773558610.jpg"
+    ],
+    "seller": {
+      "userId": 603943,
+      "nickname": "나누리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/BToNP1700807140.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762038_ve6u4l",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 67
+  },
+  {
+    "gigId": 754546,
+    "currentCategoryId": 673,
+    "title": "(데이터 분석 전문) AI 에이전트를 개발 해드립니다.",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/6tCq81774341558.jpg"
+    ],
+    "seller": {
+      "userId": 492481,
+      "nickname": "statprogramer",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fTkg71539234139.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762039_gm44xo",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 68
+  },
+  {
+    "gigId": 755215,
+    "currentCategoryId": 673,
+    "title": "오픈클로(OpenClaw) 설치 및 자동화 구축",
+    "price": 140000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/S7szv1774095402.jpg"
+    ],
+    "seller": {
+      "userId": 1180232,
+      "nickname": "백슬래시파트너스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/igDRs1784165924.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762039_kp60x6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 69
+  },
+  {
+    "gigId": 756119,
+    "currentCategoryId": 673,
+    "title": "영상제작 agent를 통한 영상제작 자동화 제작",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/41h3J1774344513.jpg"
+    ],
+    "seller": {
+      "userId": 2017395,
+      "nickname": "두요DUYO",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/B9Uj01740391369.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762040_wvaydn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 70
+  },
+  {
+    "gigId": 756282,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 설치와 설정을 진행해 드립니다",
+    "price": 29000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/W15E71788734594.jpg"
+    ],
+    "seller": {
+      "userId": 1964416,
+      "nickname": "sueundeveloper",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/OSdXU1721536953.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762040_7bmn3w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 71
+  },
+  {
+    "gigId": 756296,
+    "currentCategoryId": 673,
+    "title": "AI Agent 구축",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UhtMV1774417667.jpg"
+    ],
+    "seller": {
+      "userId": 4335885,
+      "nickname": "와이필드",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/OSoBe1753669956.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762040_nawdko",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 72
+  },
+  {
+    "gigId": 756313,
+    "currentCategoryId": 673,
+    "title": "오픈클로 서버 호스팅 세팅 - 그냥 사용만 하세요",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Vu3Et1774406913.png"
+    ],
+    "seller": {
+      "userId": 567385,
+      "nickname": "윈소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JzJ7C1739338279.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762041_7xilbk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 73
+  },
+  {
+    "gigId": 759324,
+    "currentCategoryId": 673,
+    "title": "오픈클로 쉬운설치+완벽보안+크레딧+파일직접 설치지원",
+    "price": 132000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QSVLK1778053316.jpg"
+    ],
+    "seller": {
+      "userId": 4982070,
+      "nickname": "LINKTO",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/26w6p1775202665.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762041_ky3xxs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 74
+  },
+  {
+    "gigId": 761882,
+    "currentCategoryId": 673,
+    "title": "에이전트 서버 / AI 챗봇 제작해드립니다.",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zFgzJ1775877798.png"
+    ],
+    "seller": {
+      "userId": 2366017,
+      "nickname": "MARCHUM",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nQ8AS1785199571.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762042_ghqyax",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 75
+  },
+  {
+    "gigId": 762476,
+    "currentCategoryId": 673,
+    "title": "3차원 지도 제작 - 웹기반",
+    "price": 15000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1f8t61776072196.jpg"
+    ],
+    "seller": {
+      "userId": 2593413,
+      "nickname": "호수조아",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bi4PC1776072097.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762042_jl9j8b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 76
+  },
+  {
+    "gigId": 763799,
+    "currentCategoryId": 673,
+    "title": "Ai 에이전트 개발",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wEx8s1776597304.jpg"
+    ],
+    "seller": {
+      "userId": 4994544,
+      "nickname": "CogniQ",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/x9M061776305924.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762043_i8ctfk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 77
+  },
+  {
+    "gigId": 764294,
+    "currentCategoryId": 673,
+    "title": "AI 챗봇/에이전트/업무 자동화를 빠르게 개발해드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/s2XEO1776529447.jpg"
+    ],
+    "seller": {
+      "userId": 4813191,
+      "nickname": "Alocasia",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tF6sj1775537519.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762043_ohswic",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 78
+  },
+  {
+    "gigId": 764547,
+    "currentCategoryId": 673,
+    "title": "AI 업무 자동화 에이전트 구축 / 함수호출+자율실행",
+    "price": 2750000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MQ41X1776615602.jpg"
+    ],
+    "seller": {
+      "userId": 4981280,
+      "nickname": "JuneBay",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/z1I7s1782121771.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762043_3cn9j9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 79
+  },
+  {
+    "gigId": 764845,
+    "currentCategoryId": 673,
+    "title": "Cluade/Codex 하네스 Agent 구현 및 운영",
+    "price": 70000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xYoGt1776696571.jpg"
+    ],
+    "seller": {
+      "userId": 4078547,
+      "nickname": "AutoHunting",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PyHI21776789541.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762044_pmc5ha",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 80
+  },
+  {
+    "gigId": 765457,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 MCP 서버 구축 업무 자동화",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5Lj8i1776849524.jpg"
+    ],
+    "seller": {
+      "userId": 3679318,
+      "nickname": "스피어랩스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/S3EdM1776613370.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762044_6dl6w7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 81
+  },
+  {
+    "gigId": 765539,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 개발 챗GPT LLM MCP 맞춤형 개발",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8Dndu1790398354.jpg"
+    ],
+    "seller": {
+      "userId": 495414,
+      "nickname": "솔랩스에이아이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4WYV51790400090.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762045_dfy7l8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 82
+  },
+  {
+    "gigId": 766439,
+    "currentCategoryId": 673,
+    "title": "AI Agent 하네스 교육(성능 고도화)",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WROVu1777180644.jpg"
+    ],
+    "seller": {
+      "userId": 2558882,
+      "nickname": "AI및데이터전문",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/K8FEz1677281237.JPG",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762045_r0qg2c",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 83
+  },
+  {
+    "gigId": 766780,
+    "currentCategoryId": 673,
+    "title": "AWS 에서 사용하는 오픈클로",
+    "price": 60000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IKJf71777272740.jpg"
+    ],
+    "seller": {
+      "userId": 571129,
+      "nickname": "조교",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mXhoW1765846338.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762046_tq6h64",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 84
+  },
+  {
+    "gigId": 767748,
+    "currentCategoryId": 673,
+    "title": "AI로 만든 웹사이트 배포부터 결제까지",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zbUMR1777514975.jpg"
+    ],
+    "seller": {
+      "userId": 2376521,
+      "nickname": "다이나믹핏",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mRSp11789100413.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762046_fqni0n",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 85
+  },
+  {
+    "gigId": 768472,
+    "currentCategoryId": 673,
+    "title": "이력서 자동 수집 및 분석 AI 에이전트",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3OMB51777787519.jpg"
+    ],
+    "seller": {
+      "userId": 4480428,
+      "nickname": "TRAILER",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7svGr1777612334.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762046_chqubu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 86
+  },
+  {
+    "gigId": 768474,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 포함 AI Agent 설정 및 AS",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lQLAK1777787318.jpg"
+    ],
+    "seller": {
+      "userId": 831025,
+      "nickname": "그린블루",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JTSil1595916412.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762047_svranu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 87
+  },
+  {
+    "gigId": 768864,
+    "currentCategoryId": 673,
+    "title": "업무 효율 UP 중소기업 AI 비서 세팅 (스킬포함)",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/B91ee1777906552.jpg"
+    ],
+    "seller": {
+      "userId": 4168045,
+      "nickname": "데브마케터",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Xz5cl1768386206.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762047_wgiunc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 88
+  },
+  {
+    "gigId": 769070,
+    "currentCategoryId": 673,
+    "title": "블로그 글쓰기 프로그램",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/srowZ1777975332.jpg"
+    ],
+    "seller": {
+      "userId": 1025242,
+      "nickname": "뚝딱자동화",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/56rQ41751262690.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762048_f0s82v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 89
+  },
+  {
+    "gigId": 769760,
+    "currentCategoryId": 673,
+    "title": "나만의 SNS AI 에이전트 비서 구축",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yhUX91778156603.jpg"
+    ],
+    "seller": {
+      "userId": 4490719,
+      "nickname": "spear34000",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Y7kVZ1750337735.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762048_w6wxl4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 90
+  },
+  {
+    "gigId": 770060,
+    "currentCategoryId": 673,
+    "title": "헤르메스 에이전트 원격 설치부터 세팅까지",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4UCYB1778224068.jpg"
+    ],
+    "seller": {
+      "userId": 3963633,
+      "nickname": "라크네사진관",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lO4lo1771333966.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762048_afex3w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 91
+  },
+  {
+    "gigId": 770615,
+    "currentCategoryId": 673,
+    "title": "AI웹앱 오류 수정해드립니다",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/C4lV01778432118.jpg"
+    ],
+    "seller": {
+      "userId": 4703975,
+      "nickname": "드론코딩자입니다",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fY3481760981118.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762049_w4qrm6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 92
+  },
+  {
+    "gigId": 772200,
+    "currentCategoryId": 673,
+    "title": "Hermes agent AI 업무 자동화 시스템 구축",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KUydN1778841134.jpg"
+    ],
+    "seller": {
+      "userId": 75595,
+      "nickname": "노AI랩스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dRMJL1752667661.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762049_q7kg8x",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 93
+  },
+  {
+    "gigId": 776891,
+    "currentCategoryId": 673,
+    "title": "사장님 대신 전화받는 AI 음성봇 만들어드립니다",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hl5JF1780163659.png"
+    ],
+    "seller": {
+      "userId": 4998196,
+      "nickname": "름랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/MbRev1775721853.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762050_6umsm8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 94
+  },
+  {
+    "gigId": 777251,
+    "currentCategoryId": 673,
+    "title": "AI 콜봇 전화응대 예약접수 시스템 구축 CRM 자동화",
+    "price": 539000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LSf5A1783936179.jpg"
+    ],
+    "seller": {
+      "userId": 2283512,
+      "nickname": "FlowPilot",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YR0N41784094998.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762050_avst9b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 95
+  },
+  {
+    "gigId": 779082,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 업무 자동화 세팅",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Cgj8V1780754042.jpg"
+    ],
+    "seller": {
+      "userId": 5078174,
+      "nickname": "새초롬한라벤더7516",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/063_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762051_mwr20h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 96
+  },
+  {
+    "gigId": 779280,
+    "currentCategoryId": 673,
+    "title": "AI 기반 거래내역 분석 프로그램",
+    "price": 990000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/YB8s91780843374.png"
+    ],
+    "seller": {
+      "userId": 1197613,
+      "nickname": "코파일럿",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J1Ckf1750436177.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762051_gh4dt5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 97
+  },
+  {
+    "gigId": 779453,
+    "currentCategoryId": 673,
+    "title": "나만의 개인 비서 헤르메스 에이전트 세팅해드립니다",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TdjFV1780893660.jpg"
+    ],
+    "seller": {
+      "userId": 623408,
+      "nickname": "동영김",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/otUdN1780891924.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762051_ywud02",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 98
+  },
+  {
+    "gigId": 780022,
+    "currentCategoryId": 673,
+    "title": "반복 업무를 AI가 대신합니다 맞춤형 AI 에이전트",
+    "price": 250000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/98yDX1780997849.jpg"
+    ],
+    "seller": {
+      "userId": 425571,
+      "nickname": "예주아AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/HM85h1780996582.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762052_prkxhh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 99
+  },
+  {
+    "gigId": 780182,
+    "currentCategoryId": 673,
+    "title": "비즈니스 자동화를 위한 맞춤형 AI 에이전트 및 파이프",
+    "price": 80000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4n4aK1781052632.jpg"
+    ],
+    "seller": {
+      "userId": 529606,
+      "nickname": "외길개발자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sq90O1774248600.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184762052_hnoupi",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 100
+  },
+  {
+    "gigId": 780248,
+    "currentCategoryId": 673,
+    "title": "내 업무에 맞춘 AI 비서 세팅",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lX2xs1781064578.jpg"
+    ],
+    "seller": {
+      "userId": 2519432,
+      "nickname": "AI자동화전문가김개선",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wZU9P1771897810.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799589_og0tr0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 101
+  },
+  {
+    "gigId": 780465,
+    "currentCategoryId": 673,
+    "title": "업무를 자동화하는 AI 에이전트 챗봇 만들어드립니다",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tNumS1781098499.jpg"
+    ],
+    "seller": {
+      "userId": 1874297,
+      "nickname": "Across",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/yRn1o1704882321.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799590_uwu329",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 102
+  },
+  {
+    "gigId": 781233,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 업무 자동화 서비스",
+    "price": 299000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hQvPI1781319175.jpg"
+    ],
+    "seller": {
+      "userId": 4955724,
+      "nickname": "HERMESJINI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/020_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799591_qsb4k0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 103
+  },
+  {
+    "gigId": 781297,
+    "currentCategoryId": 673,
+    "title": "AI Agent/RAG 챗봇 개발 전문가",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/BdVzr1781347764.png"
+    ],
+    "seller": {
+      "userId": 2161099,
+      "nickname": "SQLPropassional",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kjoDn1657324603.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799592_lefjxh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 104
+  },
+  {
+    "gigId": 781582,
+    "currentCategoryId": 673,
+    "title": "AI 과외 AX 컨설팅 맞춤 AI 에이전트 자동화 구축",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fHZGK1781447139.png"
+    ],
+    "seller": {
+      "userId": 4653648,
+      "nickname": "TniveLab",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/019_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799593_fw0x8q",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 105
+  },
+  {
+    "gigId": 782120,
+    "currentCategoryId": 673,
+    "title": "AI 설치 대행 / 오픈클로 헤르메스 클로드코드 코덱스",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/f74TN1782195713.jpg"
+    ],
+    "seller": {
+      "userId": 3264648,
+      "nickname": "소담AI스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Var211778020779.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799593_rw6ufo",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 106
+  },
+  {
+    "gigId": 783748,
+    "currentCategoryId": 673,
+    "title": "AI 기반 비즈니스 맞춤 솔루션 개발",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UcF2o1781920574.jpg"
+    ],
+    "seller": {
+      "userId": 715693,
+      "nickname": "맥가이버그룹",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7wi9T1781851124.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799594_rjerbs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 107
+  },
+  {
+    "gigId": 786393,
+    "currentCategoryId": 673,
+    "title": "12년차 삼성전자 출신 엔지니어의 에이전트 AI 시스템",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/U3ICV1783837851.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799594_2vgy3v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 108
+  },
+  {
+    "gigId": 786494,
+    "currentCategoryId": 673,
+    "title": "GPT 기반 자율형 AI 에이전트 개발해드립니다",
+    "price": 2000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UgrAJ1782575978.png"
+    ],
+    "seller": {
+      "userId": 1960761,
+      "nickname": "개발팀대니얼",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/poaFC1764828263.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799595_yq6202",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 109
+  },
+  {
+    "gigId": 787098,
+    "currentCategoryId": 673,
+    "title": "모든 종류의 비즈니스 자동화 대신 해드립니다.",
+    "price": 165000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5BjjD1789612303.jpg"
+    ],
+    "seller": {
+      "userId": 623890,
+      "nickname": "StellaDev",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/WzCml1768459889.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799595_k21k1b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 110
+  },
+  {
+    "gigId": 787995,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트를 개발해 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KVSyI1782962456.jpg"
+    ],
+    "seller": {
+      "userId": 2261007,
+      "nickname": "무세0613",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4vPEx1782964585.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799595_iqay0y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 111
+  },
+  {
+    "gigId": 790551,
+    "currentCategoryId": 673,
+    "title": "ChatGPT.Codex가 업무를 기억하도록 AI 작업",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FXiAV1783507063.jpg"
+    ],
+    "seller": {
+      "userId": 2302546,
+      "nickname": "SionJang",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Wvo6D1783503521.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799596_lgjlgg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 112
+  },
+  {
+    "gigId": 791739,
+    "currentCategoryId": 673,
+    "title": "회사 문서 기반 AI 검색과 업무 에이전트를 구축합니다",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zJlH21783841255.jpg"
+    ],
+    "seller": {
+      "userId": 5181807,
+      "nickname": "Nuguseo",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CSLxl1782919242.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799596_w96eu6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 113
+  },
+  {
+    "gigId": 793193,
+    "currentCategoryId": 673,
+    "title": "구매 마감 자동화 AI 에이전트 (집계 검증 보고서)",
+    "price": 759000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WXHGb1784104845.jpg"
+    ],
+    "seller": {
+      "userId": 4981280,
+      "nickname": "JuneBay",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/z1I7s1782121771.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799597_yf2eb5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 114
+  },
+  {
+    "gigId": 793840,
+    "currentCategoryId": 673,
+    "title": "AI Agent/업무자동화 및 맞춤형 웹 서비스 개발",
+    "price": 450000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bdNg51784266766.jpg"
+    ],
+    "seller": {
+      "userId": 714243,
+      "nickname": "AgentDD",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/6RW7y9moLK7j1563172712.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799597_v6yoqi",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 115
+  },
+  {
+    "gigId": 796794,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 MCP 업무 자동화를 구축합니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/YrcDV1784864460.jpg"
+    ],
+    "seller": {
+      "userId": 2141361,
+      "nickname": "JadenA",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tjvYy1785229541.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799597_8cq5v1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 116
+  },
+  {
+    "gigId": 797381,
+    "currentCategoryId": 673,
+    "title": "업무 자율 실행 AI 에이전트 구축",
+    "price": 2500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/txA2M1785028230.png"
+    ],
+    "seller": {
+      "userId": 3734753,
+      "nickname": "FillGaps",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/n9CDu1777893859.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799598_yydmyl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 117
+  },
+  {
+    "gigId": 799037,
+    "currentCategoryId": 673,
+    "title": "LLM Agent / RAG /AI 자동화 시스템 개발",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/R1fpd1785308008.jpg"
+    ],
+    "seller": {
+      "userId": 1977176,
+      "nickname": "따스한여름4836",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799598_pxa4po",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 118
+  },
+  {
+    "gigId": 799928,
+    "currentCategoryId": 673,
+    "title": "반복 업무를 처리하는 맞춤형 AI 에이전트를 제작",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/C2uki1785476989.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799599_9c3amd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 119
+  },
+  {
+    "gigId": 800019,
+    "currentCategoryId": 673,
+    "title": "챗봇 개발 및 운영 환경 구축",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ZwQFT1785487945.png"
+    ],
+    "seller": {
+      "userId": 3597110,
+      "nickname": "조용한장미1570",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/179_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799599_cege0o",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 120
+  },
+  {
+    "gigId": 800891,
+    "currentCategoryId": 673,
+    "title": "업무용 AI 에이전트를 설정하고 검증해 드립니다",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hGQRw1785671455.jpg"
+    ],
+    "seller": {
+      "userId": 203488,
+      "nickname": "Productibe",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/gi0g31785659770.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799599_m6g1l5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 121
+  },
+  {
+    "gigId": 801109,
+    "currentCategoryId": 673,
+    "title": "기업 맞춤 AI 서비스 및 AI Agent를 개발",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/6us9M1785726764.jpg"
+    ],
+    "seller": {
+      "userId": 880348,
+      "nickname": "rootworks",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Ww0EP1785727087.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799600_addg6e",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 122
+  },
+  {
+    "gigId": 801324,
+    "currentCategoryId": 673,
+    "title": "AI 챗봇 LLM RAG 에이전트 개발",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JiayC1785746869.png"
+    ],
+    "seller": {
+      "userId": 3297416,
+      "nickname": "korai",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/T5qod1740230997.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799600_qjdujd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 123
+  },
+  {
+    "gigId": 801585,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트/MCP 서버 구축 (클로드/GPT 연동)",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SDBby1785803840.png"
+    ],
+    "seller": {
+      "userId": 4661363,
+      "nickname": "turtleYJ",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RupSm1758512129.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799600_mqeegb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 124
+  },
+  {
+    "gigId": 802275,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 오케스트레이션 구축",
+    "price": 2200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/P6uBf1785910994.png"
+    ],
+    "seller": {
+      "userId": 4966647,
+      "nickname": "루카스이니셔티브",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/011_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799601_48gxd3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 125
+  },
+  {
+    "gigId": 802613,
+    "currentCategoryId": 673,
+    "title": "AI 전문가가 만드는 상주형 AI 에이전트",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GDGAC1787823696.png"
+    ],
+    "seller": {
+      "userId": 2752304,
+      "nickname": "원리스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/LpcFk1787299943.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799601_2lxpdp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 126
+  },
+  {
+    "gigId": 803127,
+    "currentCategoryId": 673,
+    "title": "메일 문서 일정을 처리하는 업무용 AI 비서를 제작",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rXiJh1786077071.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799602_1mgx7x",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 127
+  },
+  {
+    "gigId": 803725,
+    "currentCategoryId": 673,
+    "title": "GPT/Claude 맞춤형 AI 에이전트 개발",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FzxHi1786205659.jpg"
+    ],
+    "seller": {
+      "userId": 3957066,
+      "nickname": "Pict",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/x78jO1786042602.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799602_i3wlba",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 128
+  },
+  {
+    "gigId": 803733,
+    "currentCategoryId": 673,
+    "title": "LangGraph/CrewAI 멀티 AI 에이전트 시스",
+    "price": 650000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/waDXo1786206662.jpg"
+    ],
+    "seller": {
+      "userId": 3957066,
+      "nickname": "Pict",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/x78jO1786042602.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799602_7xbu0d",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 129
+  },
+  {
+    "gigId": 806017,
+    "currentCategoryId": 673,
+    "title": "Remote MCP 서버구축 - 지금 접속가능",
+    "price": 199000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/kjl2Y1786627425.jpg"
+    ],
+    "seller": {
+      "userId": 65542,
+      "nickname": "smilestory",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mlnr91776276691.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799603_7arevr",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 130
+  },
+  {
+    "gigId": 806599,
+    "currentCategoryId": 673,
+    "title": "사내 문서로 답하는 AI 비서 만들어 드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/t9T4M1786749782.png"
+    ],
+    "seller": {
+      "userId": 4917635,
+      "nickname": "야행성개발자",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4hzZQ1772372347.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799603_8cnai7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 131
+  },
+  {
+    "gigId": 806826,
+    "currentCategoryId": 673,
+    "title": "헤르메스 기반 실제 일하는 AI 에이전트 구축",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eEjEt1786809201.jpg"
+    ],
+    "seller": {
+      "userId": 543414,
+      "nickname": "제나이안",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/trgUe1786804047.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799604_y5hus3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 132
+  },
+  {
+    "gigId": 806964,
+    "currentCategoryId": 673,
+    "title": "회사 자료 밖으로 안 보내는 사내 로컬 AI 구축",
+    "price": 790000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/esRpT1786861363.jpg"
+    ],
+    "seller": {
+      "userId": 4020253,
+      "nickname": "브랜드웹에이전시선예도",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/s6Atz1791343814.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799604_h8bqle",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 133
+  },
+  {
+    "gigId": 807318,
+    "currentCategoryId": 673,
+    "title": "Hermes Agent 설치부터 업무자동화까지",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MO18e1786953815.jpg"
+    ],
+    "seller": {
+      "userId": 3208519,
+      "nickname": "컴퓨터선생님",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cSWlQ1786946726.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799604_o1qv6t",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 134
+  },
+  {
+    "gigId": 807829,
+    "currentCategoryId": 673,
+    "title": "윈도우 노트북을 나만의 AI 비서로 바꿔드립니다",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fjk7T1787036416.png"
+    ],
+    "seller": {
+      "userId": 588774,
+      "nickname": "구매동선연구소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h2lOI1786343386.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799605_etyc7r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 135
+  },
+  {
+    "gigId": 810307,
+    "currentCategoryId": 673,
+    "title": "예약확인 전화 자동발신 AI 아웃바운드 노쇼방지",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MnF1u1787798605.png"
+    ],
+    "seller": {
+      "userId": 4880402,
+      "nickname": "투스텝스어헤드",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/OpqyO1786171724.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799605_kw36q5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 136
+  },
+  {
+    "gigId": 812409,
+    "currentCategoryId": 673,
+    "title": "기업 맞춤 AI 에이전트를 구축해 드립니다",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gfUw11790833786.jpg"
+    ],
+    "seller": {
+      "userId": 1846301,
+      "nickname": "이지워크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/D5mxL1782091607.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799606_4i0aas",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 137
+  },
+  {
+    "gigId": 812780,
+    "currentCategoryId": 673,
+    "title": "온프레미스 AI 에이전트 구축",
+    "price": 55000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QYszv1788856603.jpg"
+    ],
+    "seller": {
+      "userId": 283965,
+      "nickname": "엑시트주식회사",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/MVKAA1744765847.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799606_she30a",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 138
+  },
+  {
+    "gigId": 813417,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 개발해드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QvSNb1788021195.png"
+    ],
+    "seller": {
+      "userId": 734743,
+      "nickname": "디알소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/02yiA1729840920.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799606_ltmy9v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 139
+  },
+  {
+    "gigId": 813456,
+    "currentCategoryId": 673,
+    "title": "맞춤형 AI 에이전트를 구축해 드립니다",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GsRV11788052326.jpg"
+    ],
+    "seller": {
+      "userId": 174604,
+      "nickname": "freeMind",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0C2rY1703992501.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799607_e7vd0r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 140
+  },
+  {
+    "gigId": 813474,
+    "currentCategoryId": 673,
+    "title": "내 업무를 실행하는 AI 에이전트를 구축해 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/a3onH1788097832.jpg"
+    ],
+    "seller": {
+      "userId": 634165,
+      "nickname": "다니웍스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ffj3N1756185816.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799607_tlxxo8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 141
+  },
+  {
+    "gigId": 813964,
+    "currentCategoryId": 673,
+    "title": "OpenCode/Obsidian 기반 AI에이전트 구축",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/7bYID1788157709.jpg"
+    ],
+    "seller": {
+      "userId": 4740626,
+      "nickname": "실소SilSo",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/M5er91787551146.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799607_llfkxp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 142
+  },
+  {
+    "gigId": 814245,
+    "currentCategoryId": 673,
+    "title": "멈추면 알려주는 AI 에이전트 시스템 구축",
+    "price": 600000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/oAFGq1789178268.png"
+    ],
+    "seller": {
+      "userId": 5041973,
+      "nickname": "anarchos",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Cwrti1788201188.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799608_7ggacb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 143
+  },
+  {
+    "gigId": 815429,
+    "currentCategoryId": 673,
+    "title": "AI 업무 자동화 문서 보고서 에이전트 제작",
+    "price": 90000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/nUwJ01790639841.png"
+    ],
+    "seller": {
+      "userId": 1182262,
+      "nickname": "판교카공러",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DI9UZ1730296339.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799608_h2vymc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 144
+  },
+  {
+    "gigId": 816256,
+    "currentCategoryId": 673,
+    "title": "반복 업무 자동화와 AI 에이전트를 개발합니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9oe4v1788595379.jpg"
+    ],
+    "seller": {
+      "userId": 2273125,
+      "nickname": "WorkMindAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0vpQO1788368825.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799609_p4y4rv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 145
+  },
+  {
+    "gigId": 818049,
+    "currentCategoryId": 673,
+    "title": "AI 연구 개발 전문가가 LLM RAG AI 에이전트를",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/6gpxK1788827471.jpg"
+    ],
+    "seller": {
+      "userId": 1675061,
+      "nickname": "chaendev",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/pj1bP1655735130.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799609_ne3b2k",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 146
+  },
+  {
+    "gigId": 818606,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 구축 실제 동작하는 앱",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/km6Vd1790204517.jpg"
+    ],
+    "seller": {
+      "userId": 1392318,
+      "nickname": "Landit",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/85RuH1783204522.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799609_vrhdiu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 147
+  },
+  {
+    "gigId": 818686,
+    "currentCategoryId": 673,
+    "title": "반복 업무를 대신하는 AI 에이전트 개발해드립니다",
+    "price": 400000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EJRrk1788921555.png"
+    ],
+    "seller": {
+      "userId": 4335186,
+      "nickname": "Aithor",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/LzO5U1788434024.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799610_eev6i8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 148
+  },
+  {
+    "gigId": 818698,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 챗봇 업무자동화 연동",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/kJUEk1788927182.jpg"
+    ],
+    "seller": {
+      "userId": 2728615,
+      "nickname": "스택랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mLoLp1788804856.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799610_ejtw2j",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 149
+  },
+  {
+    "gigId": 819835,
+    "currentCategoryId": 673,
+    "title": "AI 업무 자동화 에이전트 개발",
+    "price": 1900000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mSmyo1789030332.jpg"
+    ],
+    "seller": {
+      "userId": 5313949,
+      "nickname": "페블즈주식회사",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/gLgfl1790128061.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184799611_9fiabx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 150
+  },
+  {
+    "gigId": 819841,
+    "currentCategoryId": 673,
+    "title": "OpenClaw 오픈클로 설치 세팅과 텔레그램 연동",
+    "price": 59000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/DmtWf1789123265.jpg"
+    ],
+    "seller": {
+      "userId": 3261275,
+      "nickname": "밀리디자인랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ptX5t1738560795.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838189_9ckvrt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 151
+  },
+  {
+    "gigId": 820779,
+    "currentCategoryId": 673,
+    "title": "서로 검증하는 AI 멀티 에이전트 시스템 구축해드립니다",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JkVgv1789175358.png"
+    ],
+    "seller": {
+      "userId": 2478644,
+      "nickname": "ralaman",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tXT2H1755212091.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838190_tabnhh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 152
+  },
+  {
+    "gigId": 821047,
+    "currentCategoryId": 673,
+    "title": "업무 자동화 AI 에이전트 개발해 드립니다",
+    "price": 2500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QALAb1789263161.jpg"
+    ],
+    "seller": {
+      "userId": 643009,
+      "nickname": "늘찬솔",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/vsLFv1789547997.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838191_5yd92o",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 153
+  },
+  {
+    "gigId": 824221,
+    "currentCategoryId": 673,
+    "title": "성장형 AI 에이전트 개발해 드립니다.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mR4h51789780830.jpg"
+    ],
+    "seller": {
+      "userId": 1911604,
+      "nickname": "아하크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fPkyw1643885889.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838192_tvjx3x",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 154
+  },
+  {
+    "gigId": 825103,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 업무 자동화 GPT LLM 연동 개발",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/B02IO1789866464.png"
+    ],
+    "seller": {
+      "userId": 3880929,
+      "nickname": "셀러킷",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fYYZ21788275796.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838193_3w9ifw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 155
+  },
+  {
+    "gigId": 825841,
+    "currentCategoryId": 673,
+    "title": "내 일을 기억하는 AI 비서 세팅해 드립니다",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9q2z51789989680.png"
+    ],
+    "seller": {
+      "userId": 201561,
+      "nickname": "metabition",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Kex821789430681.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838193_m7h5sh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 156
+  },
+  {
+    "gigId": 826181,
+    "currentCategoryId": 673,
+    "title": "맞춤형 대화형 AI 에이전트를 제작합니다",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/AbpJI1790069779.jpg"
+    ],
+    "seller": {
+      "userId": 2136674,
+      "nickname": "트레이스프로덕트랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/5BCTt1789963972.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838194_vu2qqx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 157
+  },
+  {
+    "gigId": 816758,
+    "currentCategoryId": 673,
+    "title": "AI 에이전트 작업 검증 - 게이트/훅 셋업",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qQWyv1788605693.png"
+    ],
+    "seller": {
+      "userId": 5308639,
+      "nickname": "푸르른까마귀4674",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/031_red.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": true
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 673,
+      "subCategoryName": "AI 에이전트",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184838194_ttq1hy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 158
+  }
+]

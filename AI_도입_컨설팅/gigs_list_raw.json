@@ -1,0 +1,5614 @@
+[
+  {
+    "gigId": 796848,
+    "currentCategoryId": 67501,
+    "title": "서울대 출신 AX 현장 진단 / AX 컨설팅",
+    "price": 390000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gBOqp1784968135.jpg"
+    ],
+    "seller": {
+      "userId": 1895127,
+      "nickname": "BoltLab",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Qjd181762845346.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185792658_d2rkd1",
+    "kmongAd": {
+      "adId": 170950475,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 767421,
+    "currentCategoryId": 67502,
+    "title": "Claude Code+MCP 1:1 맞춤 셋업 컨설팅",
+    "price": 50000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LC1JP1777431437.png"
+    ],
+    "seller": {
+      "userId": 997291,
+      "nickname": "Ryugi62",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/FWuwN1741185670.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 9
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185792659_bxebwv",
+    "kmongAd": {
+      "adId": 170950242,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 787330,
+    "currentCategoryId": 67501,
+    "title": "어느 업무가 열 배가 되는지 현장에서 찾아드립니다",
+    "price": 490000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Ryz301790539823.jpg"
+    ],
+    "seller": {
+      "userId": 3327838,
+      "nickname": "트리플송",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/If4i21717332924.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185792660_h6d3hj",
+    "kmongAd": {
+      "adId": 170950705,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 822045,
+    "currentCategoryId": 67501,
+    "title": "직원이 매일 쓰는 AI 에이전트 구축 AX 컨설팅",
+    "price": 490000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EFPin1790253022.png"
+    ],
+    "seller": {
+      "userId": 1839523,
+      "nickname": "이너리드",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/COJE31727972518.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185792661_yg1u3f",
+    "kmongAd": {
+      "adId": 170951061,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 825092,
+    "currentCategoryId": 67501,
+    "title": "서울대 베이징대 고려대 팀 AI 업무 자동화 현장 진단",
+    "price": 390000,
+    "advertisementType": "ROOKIE",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jCP581789865782.jpg"
+    ],
+    "seller": {
+      "userId": 1635466,
+      "nickname": "ITF",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lMLyI1790865810.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793566_kybpr6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": "CPT"
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 787330,
+    "currentCategoryId": 67501,
+    "title": "어느 업무가 열 배가 되는지 현장에서 찾아드립니다",
+    "price": 490000,
+    "advertisementType": "ROOKIE",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Ryz301790539823.jpg"
+    ],
+    "seller": {
+      "userId": 3327838,
+      "nickname": "트리플송",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/If4i21717332924.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793568_xlhtcb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": "CPT"
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 797934,
+    "currentCategoryId": 67502,
+    "title": "비개발자 대표를 위한 AI 업무 자동화 및 바이브코딩 ",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Z0GSo1787035003.jpg"
+    ],
+    "seller": {
+      "userId": 66519,
+      "nickname": "AX컨설턴트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Ph2ZM1785140834.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793569_1slho0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 783194,
+    "currentCategoryId": 67502,
+    "title": "바이브코딩 입문부터 첫 결과물까지 도와드립니다.",
+    "price": 35000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IUj3A1781768213.jpg"
+    ],
+    "seller": {
+      "userId": 4751096,
+      "nickname": "시온랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/oTHkk1785130082.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793570_qxnlbp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 759427,
+    "currentCategoryId": 67502,
+    "title": "내 업무로 직접 해보는 AI 1:1 실습 코칭",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yKswC1777369725.jpg"
+    ],
+    "seller": {
+      "userId": 733033,
+      "nickname": "언리얼리",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/enV9q1776124465.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793570_tin0bm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 778542,
+    "currentCategoryId": 67501,
+    "title": "AI 검색 GEO 진단 리포트 + 개선 처방해 드립니다",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/C0BrQ1780589634.jpg"
+    ],
+    "seller": {
+      "userId": 2872,
+      "nickname": "조이마케팅",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KW7tA1781882939.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793571_9x5w4j",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 730504,
+    "currentCategoryId": 67502,
+    "title": "비개발자 ai 바이브 코딩 개발 및 활용 컨설팅",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FwMG91767615809.jpg"
+    ],
+    "seller": {
+      "userId": 20561,
+      "nickname": "팬더84",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h1q3K1774684856.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793572_wnfqfc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 674050,
+    "currentCategoryId": 67501,
+    "title": "서울대 AI 박사와 함께하는 인공지능 앱 개발 컨설팅",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iVwO31749464366.jpg"
+    ],
+    "seller": {
+      "userId": 3661102,
+      "nickname": "인트엣지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Tp93n1718252645.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 11
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793572_g3w5if",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 555229,
+    "currentCategoryId": 67501,
+    "title": "ai 데이터 베이스 구축 / 문서 데이터 추출",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qj52S1764159000.png"
+    ],
+    "seller": {
+      "userId": 648274,
+      "nickname": "mnbmki",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/MuJadYVcV2rh1554870811.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.4,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793573_9vew0j",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 354171,
+    "currentCategoryId": 67501,
+    "title": "AX기획자가 AI과제 발굴해드립니다.",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/l2lmt1781615136.jpg"
+    ],
+    "seller": {
+      "userId": 1314105,
+      "nickname": "프로연",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/yenTs1781611806.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793574_mflevo",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 675786,
+    "currentCategoryId": 67501,
+    "title": "AI 비즈니스 적용 컨설팅",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XaRqv1749705546.jpg"
+    ],
+    "seller": {
+      "userId": 267924,
+      "nickname": "크립토스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/N7cEt1719470141.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793574_iepvnn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 691045,
+    "currentCategoryId": 67502,
+    "title": "1시간 집중 생성형AIChatGPT등 원격컨설팅",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/o1bBT1754550931.jpg"
+    ],
+    "seller": {
+      "userId": 2147490,
+      "nickname": "감꾸코치",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Rvbc11656553400.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793575_6sg5k9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 694127,
+    "currentCategoryId": 67501,
+    "title": "AI Tool 추천 및 활용 프로세스 설계 컨설팅",
+    "price": 440000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hmvrb1755579405.jpg"
+    ],
+    "seller": {
+      "userId": 4496221,
+      "nickname": "DiegoLee",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sAytV1756024330.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793576_ooout0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 697681,
+    "currentCategoryId": 67503,
+    "title": "마음껏 사용 LLM AI구축/사내망 AI구축 해드립니다",
+    "price": 55000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zbUwj1756715750.jpg"
+    ],
+    "seller": {
+      "userId": 301476,
+      "nickname": "ITH",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/gMhSc1760445507.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793576_6n0xqy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 705177,
+    "currentCategoryId": 67501,
+    "title": "전문 컨설턴트의 1대1 학원 운영 시스템 자동화 구축",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0CSEl1760056511.jpg"
+    ],
+    "seller": {
+      "userId": 3502952,
+      "nickname": "바티AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hEMWw1759188215.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793577_fh633h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 718335,
+    "currentCategoryId": 67502,
+    "title": "AI 웹페이지 제작 셋팅 해드립니다.도메인, 이메일",
+    "price": 80000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SCeOF1764056569.jpg"
+    ],
+    "seller": {
+      "userId": 4758846,
+      "nickname": "듕진",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/187_gray.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793577_9y2l4h",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 718997,
+    "currentCategoryId": 67501,
+    "title": "막막한 AI 업무 자동화 설계 상담",
+    "price": 20000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/skKge1764152796.jpg"
+    ],
+    "seller": {
+      "userId": 444985,
+      "nickname": "크리에이터MJ",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/L7ISx1682224191.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793578_mp883t",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 728125,
+    "currentCategoryId": 67502,
+    "title": "이커머스 10년차 경력 #실무에 맞는 AI 도입 컨설팅",
+    "price": 90000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RnEcw1772285432.jpg"
+    ],
+    "seller": {
+      "userId": 75072,
+      "nickname": "스느스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/qD1Ug1576806773.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793578_tsdiyn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 728250,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 관련 컨설팅",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/v0Gi31766968092.png"
+    ],
+    "seller": {
+      "userId": 4733327,
+      "nickname": "아키토신지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/091_gray.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793579_5t42xe",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 730668,
+    "currentCategoryId": 67503,
+    "title": "바이브 코딩 사후처리",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VUijm1767629893.jpg"
+    ],
+    "seller": {
+      "userId": 3995388,
+      "nickname": "GoRo",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sgMY51745649281.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793579_jld1nw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 731157,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 및 AX 전략 컨설팅",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pLC4I1767755793.jpg"
+    ],
+    "seller": {
+      "userId": 4823295,
+      "nickname": "주노스키",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wFFjv1767753342.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793580_0ajea8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 731250,
+    "currentCategoryId": 67502,
+    "title": "풀스택 개발 프롬프트",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/BnrJK1767767927.jpg"
+    ],
+    "seller": {
+      "userId": 933721,
+      "nickname": "kbj",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J3Bvj1747105615.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793580_a1y5uj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 731274,
+    "currentCategoryId": 67501,
+    "title": "현직 개발자가 직접 말아주는 바이브코딩소스",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/oN8Rf1767769747.jpg"
+    ],
+    "seller": {
+      "userId": 4113939,
+      "nickname": "강력한삼겹살",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/050_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793581_uun57o",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 731427,
+    "currentCategoryId": 67501,
+    "title": "정부지원사업 AI기술기획 컨설팅 목표 설계와 실행가이드",
+    "price": 9000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/s1Wsx1769091660.jpg"
+    ],
+    "seller": {
+      "userId": 4575912,
+      "nickname": "AI컨설팅ConnecDotsAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dIml41767788660.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793581_f238tp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 731804,
+    "currentCategoryId": 67501,
+    "title": "ai 업무 자동화도입 상담",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ExUKc1767882174.jpg"
+    ],
+    "seller": {
+      "userId": 4830394,
+      "nickname": "멀리뛰는태양626",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/211_purple.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793582_bx02i0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 731981,
+    "currentCategoryId": 67502,
+    "title": "AI 경진대회 실전 참여형 입문 멘토링",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IVUEf1767942117.jpg"
+    ],
+    "seller": {
+      "userId": 4831616,
+      "nickname": "Mutoy",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Hwjwc1767939921.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793582_5n9mb0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 737551,
+    "currentCategoryId": 67501,
+    "title": "기업 콘텐츠팀 AI 제작 시스템 컨설팅",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fv1Cr1769416200.jpg"
+    ],
+    "seller": {
+      "userId": 993095,
+      "nickname": "Planetas",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Z89481756871170.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793583_u1hh54",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 742775,
+    "currentCategoryId": 67501,
+    "title": "지속 가능한 프리미엄 올인원 AI 시스템 구축해드립니다",
+    "price": 2900000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/43WKK1770627239.jpg"
+    ],
+    "seller": {
+      "userId": 1882809,
+      "nickname": "HyperGo",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/LbEKc1769528640.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793583_opw2x0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 743489,
+    "currentCategoryId": 67502,
+    "title": "바이브코딩 기반 AI 개발 조직 양성 및 테크니컬 리딩",
+    "price": 880000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jIjS41770780304.jpg"
+    ],
+    "seller": {
+      "userId": 1100526,
+      "nickname": "핸드메이드앱",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2RcKa1684728276.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793583_jy525f",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 743498,
+    "currentCategoryId": 67502,
+    "title": "AI 활용해 막힌 문제 대신 해결해드립니다",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QVvvs1770782518.jpg"
+    ],
+    "seller": {
+      "userId": 203908,
+      "nickname": "카사블랑카",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/D35hN1592601775.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793584_y54wo7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 745170,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 컨설팅 및 자동화 전략 수립",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/710DT1771360287.jpg"
+    ],
+    "seller": {
+      "userId": 1135354,
+      "nickname": "라이프컴포트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rNA8S1780036046.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793584_ix6n0s",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 755915,
+    "currentCategoryId": 67501,
+    "title": "AI 도입을 희망 하시는분 A-Z까지 도와드립니다",
+    "price": 20000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sYZXB1774415673.jpg"
+    ],
+    "seller": {
+      "userId": 2886011,
+      "nickname": "규니스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793585_gowgvj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 759887,
+    "currentCategoryId": 67502,
+    "title": "AI 코딩 도구 원격 설치 + 실전 세팅 대행",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uCp3M1776053600.png"
+    ],
+    "seller": {
+      "userId": 294081,
+      "nickname": "모의해커",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/SDN0j1577086080.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793585_xelvsf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 759888,
+    "currentCategoryId": 67501,
+    "title": "반복 업무 AI 자동화로 해결해드립니다",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5cgcv1776053598.png"
+    ],
+    "seller": {
+      "userId": 294081,
+      "nickname": "모의해커",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/SDN0j1577086080.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793586_geqvhv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 762010,
+    "currentCategoryId": 67502,
+    "title": "AI 바이브 코딩: 기획부터 런칭까지",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VbIHT1775923221.png"
+    ],
+    "seller": {
+      "userId": 1660301,
+      "nickname": "DEVFATH",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2Gi9W1775914566.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793586_ldyydc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 764334,
+    "currentCategoryId": 67503,
+    "title": "정직한 AI/AX 기술 적용 검토 및 맞춤형 컨설팅",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wN95t1776576316.jpg"
+    ],
+    "seller": {
+      "userId": 917825,
+      "nickname": "constogrex",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lgbUa1775465912.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793586_0slutc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 764542,
+    "currentCategoryId": 67503,
+    "title": "AI 비용 최적화 파이프라인 + 모델 벤치마킹",
+    "price": 1430000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cSvIi1776614630.jpg"
+    ],
+    "seller": {
+      "userId": 4981280,
+      "nickname": "JuneBay",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/z1I7s1782121771.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793587_mcgtkr",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 765792,
+    "currentCategoryId": 67503,
+    "title": "막연한 아이디어의 개발 가능성과 범위를 분석합니다",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KSUvj1787336351.jpg"
+    ],
+    "seller": {
+      "userId": 5007227,
+      "nickname": "ROOTXBOT",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/126_gray.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793587_xkero3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 765987,
+    "currentCategoryId": 67503,
+    "title": "개인/기업용 Local LLM 구축 컨설팅 및 셋팅",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bI7vH1778051184.jpg"
+    ],
+    "seller": {
+      "userId": 4122384,
+      "nickname": "플래드랩스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cfLCD1776149875.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793588_0n32dv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 767027,
+    "currentCategoryId": 67501,
+    "title": "AI 툴 도입 세팅/MCP 연결/업무 자동화",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gvmji1777363722.jpg"
+    ],
+    "seller": {
+      "userId": 728979,
+      "nickname": "HAEDO",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Nhfgj1710230928.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793588_fl5uqs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 768605,
+    "currentCategoryId": 67502,
+    "title": "업무 자동화. 차이를 만들어드립니다.",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/9alyH1780592351.jpg"
+    ],
+    "seller": {
+      "userId": 2032248,
+      "nickname": "묘유",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JApnp1779944961.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793588_mei2ob",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  },
+  {
+    "gigId": 768968,
+    "currentCategoryId": 67503,
+    "title": "AI 기본법 컴플라이언스 종합 진단/보고서",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/PNyHR1777932083.png"
+    ],
+    "seller": {
+      "userId": 65542,
+      "nickname": "smilestory",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mlnr91776276691.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793589_qhyywu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 46
+  },
+  {
+    "gigId": 770078,
+    "currentCategoryId": 67502,
+    "title": "기업 맞춤형 AI 전환과 업무자동화 구축",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bsPnH1779178364.jpg"
+    ],
+    "seller": {
+      "userId": 275074,
+      "nickname": "AI에관심이많은개발자",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/84Zog1582955109.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793589_825tkf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 47
+  },
+  {
+    "gigId": 770299,
+    "currentCategoryId": 67503,
+    "title": "AI를 이용한 모든 프로젝트 컨설팅",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/S4C6Q1778316824.jpg"
+    ],
+    "seller": {
+      "userId": 831025,
+      "nickname": "그린블루",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JTSil1595916412.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793590_0flg7b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 48
+  },
+  {
+    "gigId": 771408,
+    "currentCategoryId": 67501,
+    "title": "어떤 AI를 어떻게 써야 할지 1:1로 알려드립니다",
+    "price": 25000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OQvtu1778646611.jpg"
+    ],
+    "seller": {
+      "userId": 1874761,
+      "nickname": "JinLabs",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mlhFH1776989070.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793590_16seio",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 49
+  },
+  {
+    "gigId": 773951,
+    "currentCategoryId": 67501,
+    "title": "빈약한 AI 서비스 기획 빈틈 - 2일 안에 진단 교정",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/95x8c1779880802.jpg"
+    ],
+    "seller": {
+      "userId": 676406,
+      "nickname": "ZerotoBuilder",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/NtXJy1775473393.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185793590_v5lqth",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 50
+  },
+  {
+    "gigId": 774312,
+    "currentCategoryId": 67502,
+    "title": "AI 도입 AX 컨설팅",
+    "price": 110000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Mir851779379467.jpg"
+    ],
+    "seller": {
+      "userId": 1197613,
+      "nickname": "코파일럿",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J1Ckf1750436177.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831829_nspmfm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 51
+  },
+  {
+    "gigId": 778303,
+    "currentCategoryId": 67501,
+    "title": "GPT Astra/클로드 스킬 기업교육과 업무툴 제작",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UFFlC1789195209.jpg"
+    ],
+    "seller": {
+      "userId": 2809014,
+      "nickname": "제로스트AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TvU7U1738657108.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831831_v2oxar",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 52
+  },
+  {
+    "gigId": 781659,
+    "currentCategoryId": 67501,
+    "title": "내 자료로 일하는 로컬 AI 구축",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5icdc1781442525.jpg"
+    ],
+    "seller": {
+      "userId": 5135373,
+      "nickname": "ZAL",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ildNe1781443117.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831831_10g4bi",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 53
+  },
+  {
+    "gigId": 782086,
+    "currentCategoryId": 67501,
+    "title": "AI 인프라 구축 / 업무 자동화 / AX 컨설팅",
+    "price": 11000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/p5qxe1781533883.jpg"
+    ],
+    "seller": {
+      "userId": 571728,
+      "nickname": "모코플렉스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/GwL1u1777793541.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831832_ehqv59",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 54
+  },
+  {
+    "gigId": 783621,
+    "currentCategoryId": 67501,
+    "title": "찾아가는 AX 업무 자동화",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0rvju1781872418.jpg"
+    ],
+    "seller": {
+      "userId": 117819,
+      "nickname": "똑똑마케팅",
+      "grade": "MASTER",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZnOj31732254521.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831833_mrmxfl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 55
+  },
+  {
+    "gigId": 784395,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 진단/PoC 개발 - 기업 AX",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/f2qYi1786287039.png"
+    ],
+    "seller": {
+      "userId": 4592023,
+      "nickname": "백상현",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/036_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831833_ecbulc",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 56
+  },
+  {
+    "gigId": 785901,
+    "currentCategoryId": 67501,
+    "title": "모든 홈페이지. SEO+GEO+전환 - 해결 방법 제공",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Kh7AB1785432213.jpg"
+    ],
+    "seller": {
+      "userId": 5142728,
+      "nickname": "스위치라이프랩스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/I3qXM1781724183.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831834_2kpdnn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 57
+  },
+  {
+    "gigId": 786396,
+    "currentCategoryId": 67502,
+    "title": "12년차 삼성전자 출신 엔지니어의 초격차 AX 컨설팅",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ZJgjY1783837941.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831834_mnn37r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 58
+  },
+  {
+    "gigId": 787385,
+    "currentCategoryId": 67501,
+    "title": "AX 현장 진단 AI 챗봇/문서 자동화 도입 현장진단",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jalkB1782816248.jpg"
+    ],
+    "seller": {
+      "userId": 4563518,
+      "nickname": "Yerdy",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/knof21764674835.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831835_4ketw8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 59
+  },
+  {
+    "gigId": 787432,
+    "currentCategoryId": 67502,
+    "title": "AI 도입 전 AX 전략과 PoC 검증 MVP 구현",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8aeL51788114841.jpg"
+    ],
+    "seller": {
+      "userId": 3264648,
+      "nickname": "소담AI스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Var211778020779.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831836_f75la4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 60
+  },
+  {
+    "gigId": 787555,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장 진단) AI 업무 자동화 로드맵",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JtsHM1782889570.jpg"
+    ],
+    "seller": {
+      "userId": 547777,
+      "nickname": "예스뎁",
+      "grade": "MASTER",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/m5Ozx1720155318.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831836_m1teqn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 61
+  },
+  {
+    "gigId": 788411,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장진단) ERP/CRM 데이터통합 업무자동화",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Hcemv1783058502.jpg"
+    ],
+    "seller": {
+      "userId": 318577,
+      "nickname": "딸깍AI",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/N4Neu1772542252.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831837_8moeku",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 62
+  },
+  {
+    "gigId": 788438,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장 진단) 매장 주문 정산 자동화",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VVzst1783057037.png"
+    ],
+    "seller": {
+      "userId": 4325338,
+      "nickname": "HGNet",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wZc1I1775731948.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831837_ymyer5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 63
+  },
+  {
+    "gigId": 788640,
+    "currentCategoryId": 67501,
+    "title": "어디에 AI를 써야 할지 5일 안에 정리해 드립니다",
+    "price": 450000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/dYxgE1783087495.png"
+    ],
+    "seller": {
+      "userId": 5174127,
+      "nickname": "낙천적인비행선1764",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kRNS81783253368.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831838_xb3i5s",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 64
+  },
+  {
+    "gigId": 788665,
+    "currentCategoryId": 67503,
+    "title": "AI 바이브코딩 결과물 수정 보완 및 출시 준비",
+    "price": 110000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/kFvKl1783099984.jpg"
+    ],
+    "seller": {
+      "userId": 1967511,
+      "nickname": "오키소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bWSQR1760488894.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831838_me44t7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 65
+  },
+  {
+    "gigId": 788726,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장 진단) 콘텐츠 데이터 파이프라인 자동화",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tJtH81783140836.png"
+    ],
+    "seller": {
+      "userId": 4325338,
+      "nickname": "HGNet",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wZc1I1775731948.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831839_qqbskw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 66
+  },
+  {
+    "gigId": 788732,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장 진단) AI 문서 데이터 통합 자동화",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QOX3W1783142797.png"
+    ],
+    "seller": {
+      "userId": 4325338,
+      "nickname": "HGNet",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wZc1I1775731948.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831839_uu31mh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 67
+  },
+  {
+    "gigId": 789225,
+    "currentCategoryId": 67502,
+    "title": "하루 2시간 아껴주는 AI 업무 자동화 1:1 컨설팅",
+    "price": 9000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FVwrP1784098454.jpg"
+    ],
+    "seller": {
+      "userId": 2519432,
+      "nickname": "AI자동화전문가김개선",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wZU9P1771897810.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831839_649d9e",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 68
+  },
+  {
+    "gigId": 791516,
+    "currentCategoryId": 67502,
+    "title": "AI 코딩 협업 실무 활용 코칭",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/felbs1783759249.jpg"
+    ],
+    "seller": {
+      "userId": 3459946,
+      "nickname": "파아란기쁨",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/w9H4Q1783763690.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831840_j4102g",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 69
+  },
+  {
+    "gigId": 791738,
+    "currentCategoryId": 67501,
+    "title": "소상공인 업무를 진단해 AI 자동화 로드맵을 만듭니다",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vcZVV1783841316.jpg"
+    ],
+    "seller": {
+      "userId": 5181807,
+      "nickname": "Nuguseo",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CSLxl1782919242.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831840_ujkj8u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 70
+  },
+  {
+    "gigId": 793930,
+    "currentCategoryId": 67502,
+    "title": "로컬 AI 화면을 같이 보며 세팅해 드립니다.",
+    "price": 40000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eIuiG1784282322.jpg"
+    ],
+    "seller": {
+      "userId": 5204181,
+      "nickname": "뉴크박스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/148_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831841_vi1cxy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 71
+  },
+  {
+    "gigId": 794616,
+    "currentCategoryId": 67501,
+    "title": "AI비용절감 설계컨설팅",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/PrkMf1784622382.jpg"
+    ],
+    "seller": {
+      "userId": 2031918,
+      "nickname": "공이GONGI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/HfIsN1777222991.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831841_v8gqad",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 72
+  },
+  {
+    "gigId": 794906,
+    "currentCategoryId": 67501,
+    "title": "AI 운영체계 구축",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/U9Acg1784527894.jpg"
+    ],
+    "seller": {
+      "userId": 1041759,
+      "nickname": "AOS5",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/VZC2X1784524599.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831841_wkm9w6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 73
+  },
+  {
+    "gigId": 795560,
+    "currentCategoryId": 67501,
+    "title": "AI 도입-디지털 전환 컨설팅 진단부터 개발까지 한번에",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iFNfB1784624090.jpg"
+    ],
+    "seller": {
+      "userId": 552043,
+      "nickname": "Kimdoyeon",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/MW8uh1760613644.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831842_4n1it2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 74
+  },
+  {
+    "gigId": 796036,
+    "currentCategoryId": 67501,
+    "title": "AI로 1인 사업자 마케팅 시스템을 구축해보세요.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/egGaR1784786935.jpg"
+    ],
+    "seller": {
+      "userId": 2511402,
+      "nickname": "AI콘텐츠공장",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/akdML1784790587.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831842_mwqbf0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 75
+  },
+  {
+    "gigId": 796743,
+    "currentCategoryId": 67502,
+    "title": "AI 에이전트 사용법 개인지도 코덱스를 활용한 프로젝트",
+    "price": 1420000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eXVrY1784855412.jpg"
+    ],
+    "seller": {
+      "userId": 143725,
+      "nickname": "TaehoonOhHkjB2K9",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/y3s3TuglO9XK1468767972.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831843_jhbidp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 76
+  },
+  {
+    "gigId": 797566,
+    "currentCategoryId": 67503,
+    "title": "AI 업무 활용 가능성과 실행 방법을 진단해 드립니다",
+    "price": 11000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Hohsi1785063836.png"
+    ],
+    "seller": {
+      "userId": 5216556,
+      "nickname": "수수팥",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/103_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831843_afkuos",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 77
+  },
+  {
+    "gigId": 798027,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 컨설팅해 드립니다 (기업 실무)",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/nziOA1785139283.png"
+    ],
+    "seller": {
+      "userId": 432206,
+      "nickname": "허브인소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jo8pb1532676943.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831843_9mjq6w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 78
+  },
+  {
+    "gigId": 798853,
+    "currentCategoryId": 67501,
+    "title": "SAP/ERP/AI기반업무자동화 도입 방향 상담",
+    "price": 55000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5WZUX1785286125.png"
+    ],
+    "seller": {
+      "userId": 5220403,
+      "nickname": "팩토리AI코어랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/190_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831844_y64bnd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 79
+  },
+  {
+    "gigId": 798949,
+    "currentCategoryId": 67502,
+    "title": "클로드코드 프로젝트 맞춤 세팅 + 완료 검증 장치",
+    "price": 250000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KUG5N1785310723.png"
+    ],
+    "seller": {
+      "userId": 971406,
+      "nickname": "Whitening",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/G0z631699845535.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831844_plqiks",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 80
+  },
+  {
+    "gigId": 800173,
+    "currentCategoryId": 67503,
+    "title": "AI 웹 업무 자동화 진단과 구축 설계",
+    "price": 199000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/N8X7i1785848805.jpg"
+    ],
+    "seller": {
+      "userId": 5211942,
+      "nickname": "바로쓰는AI플랫폼개발팀",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4HO2V1785318034.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831845_9hu9lv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 81
+  },
+  {
+    "gigId": 800634,
+    "currentCategoryId": 67501,
+    "title": "회사 전체를 이해하는 AX 업무환경을 구축해 드립니다",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yuPQV1785605581.jpg"
+    ],
+    "seller": {
+      "userId": 4967187,
+      "nickname": "블랙코코넛",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Y2n6L1774541922.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831845_ovbqqk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 82
+  },
+  {
+    "gigId": 801097,
+    "currentCategoryId": 67501,
+    "title": "AI 자동화 진단부터 프로토타입 제작까지 도와드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Ric3n1785723250.jpg"
+    ],
+    "seller": {
+      "userId": 213776,
+      "nickname": "슈퍼소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7Fb5R1648000292.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831845_copble",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 83
+  },
+  {
+    "gigId": 801404,
+    "currentCategoryId": 67501,
+    "title": "업무 자동화 진단 컨설팅 + 로드맵 리포트 납품",
+    "price": 250000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1f97l1785755970.png"
+    ],
+    "seller": {
+      "userId": 2077678,
+      "nickname": "코딩전문가분석전문가",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jrg0q1652833072.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831846_gr9xew",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 84
+  },
+  {
+    "gigId": 802503,
+    "currentCategoryId": 67502,
+    "title": "헤르메스 AI 에이전트 올인원 세팅 - 메신저 연동까지",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SZ6sE1786977735.jpg"
+    ],
+    "seller": {
+      "userId": 5030048,
+      "nickname": "미어캣스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YLv0J1777194889.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831846_rw1uv6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 85
+  },
+  {
+    "gigId": 802641,
+    "currentCategoryId": 67501,
+    "title": "AX전문 개발팀이 진단하는 (AX 현장 컨설팅)",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Y29OS1785997760.jpg"
+    ],
+    "seller": {
+      "userId": 887273,
+      "nickname": "루멕스코딩",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7R9Sy1765552548.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831847_s375e9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 86
+  },
+  {
+    "gigId": 802861,
+    "currentCategoryId": 67501,
+    "title": "20년차 IT전문가가 AI업무 자동화를 진단해 드립니다",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/IqrDh1786494679.jpg"
+    ],
+    "seller": {
+      "userId": 5065505,
+      "nickname": "식스맨00피프티",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0XGGP1779103025.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831847_s3dhet",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 87
+  },
+  {
+    "gigId": 803270,
+    "currentCategoryId": 67503,
+    "title": "기업 데이터 온톨로지 지식그래프 구축해 드립니다",
+    "price": 660000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8DKbm1786090939.jpg"
+    ],
+    "seller": {
+      "userId": 432206,
+      "nickname": "허브인소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jo8pb1532676943.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831848_951jlb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 88
+  },
+  {
+    "gigId": 803274,
+    "currentCategoryId": 67501,
+    "title": "AI 기반 스마트공장 MES 구축해 드립니다",
+    "price": 220000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GshEv1786091290.jpg"
+    ],
+    "seller": {
+      "userId": 432206,
+      "nickname": "허브인소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jo8pb1532676943.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831848_slpfve",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 89
+  },
+  {
+    "gigId": 804350,
+    "currentCategoryId": 67502,
+    "title": "비전공자도 할 수 있는 바이브 코딩",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aNA9c1786353393.jpg"
+    ],
+    "seller": {
+      "userId": 4312995,
+      "nickname": "하새벽",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/143_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831848_sd1kgs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 90
+  },
+  {
+    "gigId": 804755,
+    "currentCategoryId": 67502,
+    "title": "비개발자 클로드 스킬 맞춤 제작 + 1:1 설치 코칭",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/7s5v21786422692.jpg"
+    ],
+    "seller": {
+      "userId": 5238192,
+      "nickname": "AI강사장유정",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/068_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831849_f4g1cu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 91
+  },
+  {
+    "gigId": 804924,
+    "currentCategoryId": 67502,
+    "title": "AI 코딩 도구 설치와 환경 셋팅 대행",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8n1SY1786434446.jpg"
+    ],
+    "seller": {
+      "userId": 5218063,
+      "nickname": "플레이아이오티",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/088_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831849_3s8ngy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 92
+  },
+  {
+    "gigId": 804972,
+    "currentCategoryId": 67501,
+    "title": "(AX 현장 진단) 전국 출장 업무 자동화 로드맵",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cZfSG1786438540.png"
+    ],
+    "seller": {
+      "userId": 2859599,
+      "nickname": "주노미누",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nn5B61690470979.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831850_1709yx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 93
+  },
+  {
+    "gigId": 805136,
+    "currentCategoryId": 67502,
+    "title": "2026년 초보자를 위한 claude  1주일 완성",
+    "price": 12000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/dzVgd1786460770.jpg"
+    ],
+    "seller": {
+      "userId": 5236064,
+      "nickname": "파란첫눈5881",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/194_purple.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831850_ed5067",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 94
+  },
+  {
+    "gigId": 806338,
+    "currentCategoryId": 67501,
+    "title": "우리 팀에 맞는 AI SaaS를 비교해 드립니다",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aQmNo1786687007.png"
+    ],
+    "seller": {
+      "userId": 5239731,
+      "nickname": "근거노트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/b10pK1786602873.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831851_klfqnq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 95
+  },
+  {
+    "gigId": 806551,
+    "currentCategoryId": 67503,
+    "title": "1인 사업자 AI 업무 자동화 진단해 드립니다",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/o0uoI1786720972.png"
+    ],
+    "seller": {
+      "userId": 5243721,
+      "nickname": "APRILPROOF",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/196_red.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831851_3shj9a",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 96
+  },
+  {
+    "gigId": 807519,
+    "currentCategoryId": 67503,
+    "title": "반복업무 AI 자동화 설계도를 만들어 드립니다",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ZO1FG1786978596.jpg"
+    ],
+    "seller": {
+      "userId": 5014030,
+      "nickname": "AI깎는청년",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/003_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831851_tmhg1b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 97
+  },
+  {
+    "gigId": 809554,
+    "currentCategoryId": 67501,
+    "title": "우리 회사에 맞는 AX AI 도입 컨설팅",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/B4afl1790833591.jpg"
+    ],
+    "seller": {
+      "userId": 1846301,
+      "nickname": "이지워크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/D5mxL1782091607.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831852_t71gek",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 98
+  },
+  {
+    "gigId": 811265,
+    "currentCategoryId": 67502,
+    "title": "프로그래밍/코딩 파이썬 레슨 (실전 자동화 과외)",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/d3SCZ1787638516.jpg"
+    ],
+    "seller": {
+      "userId": 1972176,
+      "nickname": "엑셀스마트랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/V54OW1788053984.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831852_34hcsn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 99
+  },
+  {
+    "gigId": 812399,
+    "currentCategoryId": 67502,
+    "title": "ComfyUI MiniMax H3 실무 활용 코칭",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sCfql1787816365.jpg"
+    ],
+    "seller": {
+      "userId": 4212249,
+      "nickname": "FlagShipAi스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/wgK3I1741312833.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185831853_pbe89u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 100
+  },
+  {
+    "gigId": 813706,
+    "currentCategoryId": 67501,
+    "title": "반복 업무 사람이 하지 않아도 됩니다 AX 자동화",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8rSvX1788096656.jpg"
+    ],
+    "seller": {
+      "userId": 836597,
+      "nickname": "qwer522",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/vS8ZH1646184305.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870421_ml8w82",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 101
+  },
+  {
+    "gigId": 813938,
+    "currentCategoryId": 67503,
+    "title": "스마트공장/자동화/AI 도입 진단 상담 및 개발",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ALaBp1788500609.jpg"
+    ],
+    "seller": {
+      "userId": 3115438,
+      "nickname": "LINKGENESIS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nzwCr1700721799.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870422_umexxj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 102
+  },
+  {
+    "gigId": 814259,
+    "currentCategoryId": 67503,
+    "title": "Claude Code + MCP 개발 환경 구축 컨설팅",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/twZ761789178146.png"
+    ],
+    "seller": {
+      "userId": 5041973,
+      "nickname": "anarchos",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Cwrti1788201188.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870423_wif6si",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 103
+  },
+  {
+    "gigId": 814409,
+    "currentCategoryId": 67503,
+    "title": "AI 업무 자동화를 설계하고 운영까지 함께합니다",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/s67FS1788237582.jpg"
+    ],
+    "seller": {
+      "userId": 3902606,
+      "nickname": "널뎁스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/EQnXj1758685452.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870424_3y4c1s",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 104
+  },
+  {
+    "gigId": 815394,
+    "currentCategoryId": 67501,
+    "title": "AI 활용 운영설계 진단 코멘트 (서면 컨설팅)",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/flXwk1788356706.png"
+    ],
+    "seller": {
+      "userId": 2594382,
+      "nickname": "pill인",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870425_wll3l2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 105
+  },
+  {
+    "gigId": 815619,
+    "currentCategoryId": 67503,
+    "title": "AI 업무 자동화 어디부터 가능한지 진단해 드립니다",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/VysYx1788405559.jpg"
+    ],
+    "seller": {
+      "userId": 5292305,
+      "nickname": "완성본",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/1QSyO1787641211.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870425_jk1wjq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 106
+  },
+  {
+    "gigId": 816286,
+    "currentCategoryId": 67501,
+    "title": "우리 업무에 맞는 AI 도입과 자동화를 진단합니다",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/YIhtS1788596595.jpg"
+    ],
+    "seller": {
+      "userId": 2273125,
+      "nickname": "WorkMindAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0vpQO1788368825.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870426_0el6q7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 107
+  },
+  {
+    "gigId": 817053,
+    "currentCategoryId": 67502,
+    "title": "AI 인공지능 클로드코드 1:1 강의 교육",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zwfrO1788675816.jpg"
+    ],
+    "seller": {
+      "userId": 359548,
+      "nickname": "제이디티솔루션",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rl7Bp1788676582.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870426_w98t7r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 108
+  },
+  {
+    "gigId": 818251,
+    "currentCategoryId": 67502,
+    "title": "바이브코딩 1:1 코칭 막힌 곳부터 출시까지",
+    "price": 88000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/diiW51788944168.jpg"
+    ],
+    "seller": {
+      "userId": 1863256,
+      "nickname": "KSBOX1030",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dXbu01788744125.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870427_aj9xd3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 109
+  },
+  {
+    "gigId": 818471,
+    "currentCategoryId": 67502,
+    "title": "시덴스 2.0 2.5 영상 자동 생성 파이프라인",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/PlJTQ1788871944.jpg"
+    ],
+    "seller": {
+      "userId": 1034162,
+      "nickname": "오지포인트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TEC6K1693230897.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870427_wf6f6m",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 110
+  },
+  {
+    "gigId": 818605,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 컨설팅 1인 기업 세팅 대행",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RqvDA1790204632.jpg"
+    ],
+    "seller": {
+      "userId": 1392318,
+      "nickname": "Landit",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/85RuH1783204522.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870428_nvu8yw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 111
+  },
+  {
+    "gigId": 818662,
+    "currentCategoryId": 67502,
+    "title": "AI 사업화 원포인트 레슨 구조 아키텍처 막힌 지점",
+    "price": 60000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HZNQE1788919600.jpg"
+    ],
+    "seller": {
+      "userId": 5313791,
+      "nickname": "밝은캥거루9486",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/202_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870428_v72dcp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 112
+  },
+  {
+    "gigId": 819010,
+    "currentCategoryId": 67501,
+    "title": "AI 제품서비스 확인제 AI+ 인증 컨설팅",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/b2RH41788944673.jpg"
+    ],
+    "seller": {
+      "userId": 943886,
+      "nickname": "해피AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lBYXU1746600761.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870429_x19h7x",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 113
+  },
+  {
+    "gigId": 820371,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 컨설팅해드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HI3hy1789105790.png"
+    ],
+    "seller": {
+      "userId": 734743,
+      "nickname": "디알소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/02yiA1729840920.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870429_dqiud9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 114
+  },
+  {
+    "gigId": 821046,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 진단과 기술 자문해 드립니다",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qff711789263312.jpg"
+    ],
+    "seller": {
+      "userId": 643009,
+      "nickname": "늘찬솔",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/vsLFv1789547997.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870430_row56o",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 115
+  },
+  {
+    "gigId": 821109,
+    "currentCategoryId": 67503,
+    "title": "OCR 문자인식 문서이해 엑셀 추출 검증 개발",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XHP8Z1790580462.jpg"
+    ],
+    "seller": {
+      "userId": 368236,
+      "nickname": "문서비전AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/i0IzO1789262896.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67503,
+      "thirdCategoryName": "기술 적용 검토"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870430_qxss9u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 116
+  },
+  {
+    "gigId": 821461,
+    "currentCategoryId": 67502,
+    "title": "클로드코드 챗GPT 설치 세팅 원격으로 해드립니다",
+    "price": 19000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mGiW91789313127.png"
+    ],
+    "seller": {
+      "userId": 370428,
+      "nickname": "MdJ자동화",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tIfqG1718618434.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870430_l3uu1i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 117
+  },
+  {
+    "gigId": 821670,
+    "currentCategoryId": 67501,
+    "title": "중소기업 AI 도입 진단 + 12주 실행 로드맵",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gJd8z1789363112.png"
+    ],
+    "seller": {
+      "userId": 5267571,
+      "nickname": "페페0731",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fqzoA1788356965.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870431_412pm4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 118
+  },
+  {
+    "gigId": 822963,
+    "currentCategoryId": 67502,
+    "title": "내 업무에 맞는 AI 자동화를 함께 만드는 대면 컨설팅",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gnnIo1789624020.png"
+    ],
+    "seller": {
+      "userId": 2957378,
+      "nickname": "테이크페이지",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DNsMF1717487699.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870431_xer8xg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 119
+  },
+  {
+    "gigId": 825509,
+    "currentCategoryId": 67502,
+    "title": "AI 업무환경 구축 - 챗GPT 클로드 제미나이 도입",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/geEJ01789964528.png"
+    ],
+    "seller": {
+      "userId": 5327591,
+      "nickname": "청춘돼지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/VFzUz1789966646.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67502,
+      "thirdCategoryName": "실무 활용 코칭"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870432_7di09t",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 120
+  },
+  {
+    "gigId": 813789,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 AX 전략 / PoC 검증 / MVP 구현",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/sv0fL1788115614.jpg"
+    ],
+    "seller": {
+      "userId": 3264648,
+      "nickname": "소담AI스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Var211778020779.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870432_9a5e50",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 121
+  },
+  {
+    "gigId": 828248,
+    "currentCategoryId": 67501,
+    "title": "AI 도입 AX 컨설팅 업무 진단 PoC 사내 AI",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/36wCO1790415689.jpg"
+    ],
+    "seller": {
+      "userId": 495414,
+      "nickname": "솔랩스에이아이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4WYV51790400090.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 675,
+      "subCategoryName": "AI 도입 컨설팅",
+      "thirdCategoryId": 67501,
+      "thirdCategoryName": "AI 도입 전략 수립"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723185870433_djg5cu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 122
+  }
+]

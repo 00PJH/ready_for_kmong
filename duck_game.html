@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>오리 점프 게임</title>
+<style>
+  body { margin: 0; overflow: hidden; background: #87CEEB; } /* 하늘색 배경 */
+  canvas { display: block; }
+  #ui { position: absolute; top: 20px; left: 20px; font-family: sans-serif; font-size: 24px; font-weight: bold; color: #333; }
+</style>
+</head>
+<body>
+  <div id="ui">점수: <span id="score">0</span></div>
+  <canvas id="gameCanvas"></canvas>
+
+<script>
+  // 1. 초기 설정 (초경량화를 위해 변수 선언 최소화)
+  const cvs = document.getElementById('gameCanvas');
+  const ctx = cvs.getContext('2d');
+  const scoreEl = document.getElementById('score');
+  
+  let w, h, duck, obstacles, frame, score, isGameOver;
+
+  // 게임 초기화 함수
+  function init() {
+    w = cvs.width = window.innerWidth;
+    h = cvs.height = window.innerHeight;
+    // 오리 객체 (y위치, y속도, 크기)
+    duck = { x: 50, y: h/2, vy: 0, size: 40 };
+    obstacles = []; // 장애물 배열
+    frame = score = 0;
+    isGameOver = false;
+    scoreEl.innerText = score;
+    loop();
+  }
+
+  // 2. 메인 게임 루프 (프레임마다 실행)
+  function loop() {
+    if(isGameOver) return;
+    
+    // 화면 지우기
+    ctx.clearRect(0, 0, w, h);
+    
+    // [물리 엔진] 중력 적용
+    duck.vy += 0.6; 
+    duck.y += duck.vy;
+    
+    // [바닥 충돌 판정] 바닥(화면 하단 50px 위)에 닿으면 정지
+    const ground = h - 50;
+    if(duck.y > ground) { 
+      duck.y = ground; 
+      duck.vy = 0; 
+    }
+    
+    // [렌더링] 오리 그리기
+    ctx.font = duck.size + "px Arial";
+    ctx.fillText("🦆", duck.x, duck.y);
+    
+    // [장애물 생성] 90프레임마다 새 장애물 추가
+    if(frame % 90 === 0) {
+      obstacles.push({ x: w, w: 40, h: 40 + Math.random() * 80 }); // 높이는 랜덤
+    }
+    
+    ctx.fillStyle = '#228B22'; // 장애물(파이프) 색상
+    
+    // 장애물 이동 및 충돌 판정
+    for(let i = 0; i < obstacles.length; i++) {
+      let obs = obstacles[i];
+      obs.x -= 6; // 왼쪽으로 이동 속도
+      
+      // 장애물 그리기 (바닥에 붙어서 나옴)
+      ctx.fillRect(obs.x, h - obs.h, obs.w, obs.h);
+      
+      // [충돌 판정] AABB (Axis-Aligned Bounding Box) 방식 적용
+      // 오리의 이모지 크기를 고려하여 hitbox를 약간 줄임(-10)
+      if (duck.x < obs.x + obs.w && duck.x + duck.size - 10 > obs.x && duck.y > h - obs.h) {
+        isGameOver = true;
+        setTimeout(() => {
+          alert(`게임 오버! 최종 점수: ${score}\n확인을 누르면 재시작합니다.`);
+          init();
+        }, 10);
+        return;
+      }
+      
+      // 장애물을 무사히 넘었을 때 점수 증가
+      if(obs.x === duck.x) {
+        score++;
+        scoreEl.innerText = score;
+      }
+    }
+    
+    // 화면 밖으로 나간 장애물 메모리에서 제거 (최적화)
+    obstacles = obstacles.filter(obs => obs.x > -obs.w);
+    
+    frame++;
+    requestAnimationFrame(loop); // 브라우저 최적화 렌더링 루프 호출
+  }
+
+  // 3. 사용자 입력 처리 (점프)
+  function jump() {
+    // 공중 다중 점프를 막기 위해 바닥에 있을 때만 점프 허용
+    if(duck.y >= h - 50) {
+      duck.vy = -14; // 위로 솟구치는 힘
+    }
+  }
+
+  // 마우스 클릭, 화면 터치, 아무 키나 누를 때 점프 작동
+  window.addEventListener('mousedown', jump);
+  window.addEventListener('touchstart', jump);
+  window.addEventListener('keydown', (e) => {
+    if(e.code === 'Space') jump();
+  });
+  
+  // 창 크기 조절 시 대응
+  window.addEventListener('resize', () => {
+    w = cvs.width = window.innerWidth;
+    h = cvs.height = window.innerHeight;
+  });
+
+  // 게임 시작
+  init();
+</script>
+</body>
+</html>

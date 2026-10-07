@@ -1,0 +1,2302 @@
+[
+  {
+    "gigId": 302516,
+    "currentCategoryId": 649,
+    "title": "AI 딥러닝을 이용한 프로그램 및 연구 개발해드립니다.",
+    "price": 500000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EYtrC1766537828.jpg"
+    ],
+    "seller": {
+      "userId": 1427131,
+      "nickname": "딥아이랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/WmYxM1616296133.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183400458_2eir8s",
+    "kmongAd": {
+      "adId": 170939955,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 353420,
+    "currentCategoryId": 649,
+    "title": "AI인공지능 딥러닝 개발해 드립니다.",
+    "price": 30000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/rq5Cr1638885088.png"
+    ],
+    "seller": {
+      "userId": 647265,
+      "nickname": "AI현업개발자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/uzL6J1639102613.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.8,
+      "reviewCount": 12
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183400460_bm5hlx",
+    "kmongAd": {
+      "adId": 170949067,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 741632,
+    "currentCategoryId": 649,
+    "title": "의료 데이터 기반 AI 헬스케어 모델링",
+    "price": 990000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eKtgz1788879255.jpg"
+    ],
+    "seller": {
+      "userId": 943886,
+      "nickname": "해피AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lBYXU1746600761.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183400461_rtq7ri",
+    "kmongAd": {
+      "adId": 170949512,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 390225,
+    "currentCategoryId": 649,
+    "title": "AI Agent RAG MCP 업무자동화 맞춤 개발",
+    "price": 400000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8rjrI1788879531.jpg"
+    ],
+    "seller": {
+      "userId": 943886,
+      "nickname": "해피AI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/lBYXU1746600761.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 5
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183400461_xjggu6",
+    "kmongAd": {
+      "adId": 170949513,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 806868,
+    "currentCategoryId": 649,
+    "title": "저사양 comfyUI 워크플로우 주문 제작",
+    "price": 25000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/c3Wlc1786833556.png"
+    ],
+    "seller": {
+      "userId": 4978716,
+      "nickname": "컴공디자인전공생",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/186_purple.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 2.7,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401549_i831pk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 773865,
+    "currentCategoryId": 649,
+    "title": "ChatGPT 업무 자동화 맞춤 프롬프트 제작",
+    "price": 12000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/I5jvx1786319798.jpg"
+    ],
+    "seller": {
+      "userId": 4138452,
+      "nickname": "조용한손",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PCQ751780647320.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401551_q2t1fq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 774862,
+    "currentCategoryId": 649,
+    "title": "AI모델/데이터 시각화 개발 해 드립니다",
+    "price": 25000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Sogcp1779598774.png"
+    ],
+    "seller": {
+      "userId": 5075829,
+      "nickname": "클로미",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kGD6S1781150721.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401551_xwwm6f",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 554149,
+    "currentCategoryId": 649,
+    "title": "퇴근을 앞당기는 AI 자동화",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wSknl1768723245.jpg"
+    ],
+    "seller": {
+      "userId": 3072159,
+      "nickname": "챔석",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/69qLu1708835947.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.8,
+      "reviewCount": 15
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401552_x2kq3l",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 394327,
+    "currentCategoryId": 649,
+    "title": "머신러닝/딥러닝 모든 프로젝트 진행해드립니다.",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pmPrQ1716192668.png"
+    ],
+    "seller": {
+      "userId": 1200047,
+      "nickname": "부승이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/889QS1697782165.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 68
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401553_3k8gv7",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 702785,
+    "currentCategoryId": 649,
+    "title": "Matlab 알고리즘 및 자동화 구현",
+    "price": 20000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GGfQg1758302190.jpg"
+    ],
+    "seller": {
+      "userId": 1855449,
+      "nickname": "MATLAB코딩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3m5c81757911466.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401553_gs9s2o",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 453912,
+    "currentCategoryId": 649,
+    "title": "머신러닝/딥러닝/AI 간단한 프로젝트 도와드립니다",
+    "price": 25000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/HmLyC1678877259.png"
+    ],
+    "seller": {
+      "userId": 2596422,
+      "nickname": "동리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/amQlK1678866487.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 52
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401554_ou5jog",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 588758,
+    "currentCategoryId": 649,
+    "title": "서울대 공학박사가 개발하는 임베디드 AI",
+    "price": 11000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/isDei1720607389.jpg"
+    ],
+    "seller": {
+      "userId": 848191,
+      "nickname": "라이언앤더랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/FAunO1719916205.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401554_iaxq6g",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 630734,
+    "currentCategoryId": 649,
+    "title": "AI 전문가가 제공하는 맞춤형 머신러닝 모델 개발",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Gse0e1735882344.jpg"
+    ],
+    "seller": {
+      "userId": 2316496,
+      "nickname": "Oguson",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/oCQSJ1732272769.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401555_qc9v4e",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 734468,
+    "currentCategoryId": 649,
+    "title": "Seg 등 다양한 이미지 처리 AI 모델링 전문가",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Gg3K51768539959.png"
+    ],
+    "seller": {
+      "userId": 4822701,
+      "nickname": "kiteday",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/079_mint.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401555_xhadjt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 743897,
+    "currentCategoryId": 649,
+    "title": "머신러닝 딥러닝 모델링 및 AI 시스템 구축",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SEg3C1770876401.jpg"
+    ],
+    "seller": {
+      "userId": 2023092,
+      "nickname": "김카피바라",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/XBmmh1770877150.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401556_2ltfte",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 764927,
+    "currentCategoryId": 649,
+    "title": "이론+실무형 공학박사. 오픈소스 한계 해결 원천기술구현",
+    "price": 165000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Hmbxc1776741029.jpg"
+    ],
+    "seller": {
+      "userId": 5017321,
+      "nickname": "네시에",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Ba0Uf1777266144.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401556_iuansx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 769828,
+    "currentCategoryId": 649,
+    "title": "센서 데이터 AI 라벨링  AI 모델 제작",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/p1nHp1778162644.jpg"
+    ],
+    "seller": {
+      "userId": 2245371,
+      "nickname": "able73",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DFMkO1674525597.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401557_xp2xbb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 697472,
+    "currentCategoryId": 649,
+    "title": "AI 언어모델 개발",
+    "price": 5000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WdYvX1756726435.jpg"
+    ],
+    "seller": {
+      "userId": 65542,
+      "nickname": "smilestory",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/mlnr91776276691.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401557_cu44bj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 774860,
+    "currentCategoryId": 649,
+    "title": "문서 자동 검색 AI 구축 및 서버 설치",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4QF0X1779780058.jpg"
+    ],
+    "seller": {
+      "userId": 723938,
+      "nickname": "말차시나몬",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/sSXSk1567404722.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401558_lfhjx2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 718211,
+    "currentCategoryId": 649,
+    "title": "AI 모델링·튜닝·최적화 서비스",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pgI1x1763884903.jpg"
+    ],
+    "seller": {
+      "userId": 1280183,
+      "nickname": "눈높이코딩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nUWTM1763878198.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401558_y63kyq",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 780648,
+    "currentCategoryId": 649,
+    "title": "AI 딥러닝 예측 모델 개발",
+    "price": 9000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tx1MG1781179991.jpg"
+    ],
+    "seller": {
+      "userId": 5104622,
+      "nickname": "medistic",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/088_gray.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401558_cekxue",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 786392,
+    "currentCategoryId": 649,
+    "title": "12년차 삼성전자 출신 엔지니어의 AI 모델 최적화",
+    "price": 19000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/aod3B1783837401.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401559_mx2tq2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 797375,
+    "currentCategoryId": 649,
+    "title": "엣지 디바이스 AI 모델 경량화 개발",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/jOadj1785028273.png"
+    ],
+    "seller": {
+      "userId": 3734753,
+      "nickname": "FillGaps",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/n9CDu1777893859.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401559_69wdi5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 797676,
+    "currentCategoryId": 649,
+    "title": "AI 캐릭터 이미지 대량생산 파이프라인 구축해 드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/wtYy11785087450.jpg"
+    ],
+    "seller": {
+      "userId": 5216915,
+      "nickname": "RENX",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/AIBWN1785080346.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401560_w7ah9w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 799967,
+    "currentCategoryId": 649,
+    "title": "기업 데이터에 맞춘 예측 분류 AI 모델을 개발",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Arl2G1785482059.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401560_h6vj81",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 804168,
+    "currentCategoryId": 649,
+    "title": "LLM 부터 딥러닝 / AI 모델 일괄 개발",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hqp1r1786359839.jpg"
+    ],
+    "seller": {
+      "userId": 3039293,
+      "nickname": "EunseokEthanYang",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KZrRi1786334332.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401561_n55t6y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 808457,
+    "currentCategoryId": 649,
+    "title": "암진단 AI 개발 경력의 AI 모델 개발 또는 연동",
+    "price": 4000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hLOez1787132084.png"
+    ],
+    "seller": {
+      "userId": 5282581,
+      "nickname": "Jwkim968",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/079_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401561_g7ocl1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 810759,
+    "currentCategoryId": 649,
+    "title": "캐릭터 일관성 AI 이미지 생성 파이프라인 구축합니다",
+    "price": 250000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4SmWW1787562722.png"
+    ],
+    "seller": {
+      "userId": 743420,
+      "nickname": "ITLSOLUTIONS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2zKcx1646210371.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401561_v5rwsw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 813910,
+    "currentCategoryId": 649,
+    "title": "데이터와 라벨 재정비로 AI 모델 정확도 높여 드립니다",
+    "price": 1600000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/hwSgZ1788153412.png"
+    ],
+    "seller": {
+      "userId": 5240518,
+      "nickname": "MOWNZ",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/E8tSj1786596421.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401562_bcjra3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 818728,
+    "currentCategoryId": 649,
+    "title": "AI 학습용 데이터셋 구축해드립니다",
+    "price": 400000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/FBxvW1788924921.png"
+    ],
+    "seller": {
+      "userId": 734743,
+      "nickname": "디알소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/02yiA1729840920.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401562_aom8nx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 600736,
+    "currentCategoryId": 649,
+    "title": "머신러닝, 딥러닝 모델 개발 가능합니다.",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8z2BV1724823949.jpg"
+    ],
+    "seller": {
+      "userId": 3535703,
+      "nickname": "저스틴쪼",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hQ8M51714561828.JPG",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401563_sxdgbf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 255699,
+    "currentCategoryId": 649,
+    "title": "인공지능 기반 자동화/수동화 학습모형 및 운영체계 구축",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yRDpv1600119138.jpg"
+    ],
+    "seller": {
+      "userId": 190589,
+      "nickname": "shlee1990",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2sUag1657666201.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401563_ts8l9a",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 262102,
+    "currentCategoryId": 649,
+    "title": "컴퓨터비전 AI 소프트웨어 개발해 드립니다.",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lEQpf1785891355.jpg"
+    ],
+    "seller": {
+      "userId": 84033,
+      "nickname": "PN15",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DxZK01776675414.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401564_bedcoo",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 438002,
+    "currentCategoryId": 649,
+    "title": "AI 인공지능 개발 진행해드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/G8SYQ1674222469.jpg"
+    ],
+    "seller": {
+      "userId": 821116,
+      "nickname": "단발머리아침4042",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/rDdRd1674221416.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401564_8j24of",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 465721,
+    "currentCategoryId": 649,
+    "title": "인공지능 모델 서빙",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gpywt1682491323.png"
+    ],
+    "seller": {
+      "userId": 2424350,
+      "nickname": "육각형",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ml7UE1682392209.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401564_9fqocy",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 471516,
+    "currentCategoryId": 649,
+    "title": "인공지능 머신러닝 딥러닝",
+    "price": 201000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vfTq11684350608.png"
+    ],
+    "seller": {
+      "userId": 2065091,
+      "nickname": "훈훈한키위",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4gf7U1672825225.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401565_t5eupv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 476423,
+    "currentCategoryId": 649,
+    "title": "AI기반 객체검출 등 컴퓨터비전 솔루션 제공드립니다.",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/42iVO1686489968.jpg"
+    ],
+    "seller": {
+      "userId": 1309194,
+      "nickname": "StartUp",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/llQn51686041632.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 14
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401565_iyovhk",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 520102,
+    "currentCategoryId": 649,
+    "title": "간단한 머신러닝, 딥러닝 모델 개발해 드립니다",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/CwVup1699703491.jpg"
+    ],
+    "seller": {
+      "userId": 3072662,
+      "nickname": "AIEngineer",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CCvUB1699605518.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 19
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401566_gl1694",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 540403,
+    "currentCategoryId": 649,
+    "title": "인공지능 프로젝트 부터 서비스까지 구현해 드립니다.",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/uEwFF1705471914.jpg"
+    ],
+    "seller": {
+      "userId": 2690141,
+      "nickname": "릿지라쏘",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/BuLvZ1704205488.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401566_aq5orp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 591790,
+    "currentCategoryId": 649,
+    "title": "파이썬 머신런닝 프로그램",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2JcgL1721700897.jpg"
+    ],
+    "seller": {
+      "userId": 2388414,
+      "nickname": "렛미",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7wT8S1670382090.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401566_w0tovn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 716118,
+    "currentCategoryId": 649,
+    "title": "기업 맞춤형 AI 개발 · GPT·RAG·딥러닝 시스템",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xxtTX1763198158.jpg"
+    ],
+    "seller": {
+      "userId": 1953903,
+      "nickname": "드리미인터네셔널",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/k3s631763691143.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401567_ekvdi8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 648658,
+    "currentCategoryId": 649,
+    "title": "ML, DL 맞춤형 솔루션",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OMcuo1741322000.jpg"
+    ],
+    "seller": {
+      "userId": 4236809,
+      "nickname": "109",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/IEBJn1741324657.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401567_ng27o6",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 648894,
+    "currentCategoryId": 649,
+    "title": "머신러닝 딥러닝 알파 솔루션",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fe5xh1741361888.jpg"
+    ],
+    "seller": {
+      "userId": 3674906,
+      "nickname": "알파코더",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/QjEQC1721912006.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401568_8fmcgv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 655285,
+    "currentCategoryId": 649,
+    "title": "딥러닝 머신러닝 솔루션 개발",
+    "price": 440000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XDrZK1743398735.jpg"
+    ],
+    "seller": {
+      "userId": 4286384,
+      "nickname": "류스카이SKAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/1rK1I1743322553.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401568_nufokd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 679366,
+    "currentCategoryId": 649,
+    "title": "LLM언어모델의 전문분야, 특정분야 학습-파인튜닝",
+    "price": 6000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/htzLO1750852035.jpg"
+    ],
+    "seller": {
+      "userId": 1762057,
+      "nickname": "hyper7cloud",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/PooBc1680686693.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401569_ishrdm",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  },
+  {
+    "gigId": 681132,
+    "currentCategoryId": 649,
+    "title": "생성형 AI 기반 서비스 구축",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iGdh51751383082.jpg"
+    ],
+    "seller": {
+      "userId": 1835316,
+      "nickname": "InsightAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/5kaN01731553508.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401569_ggb0cl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 46
+  },
+  {
+    "gigId": 696255,
+    "currentCategoryId": 649,
+    "title": "데이터 기반 맞춤형 AI 모델 제작",
+    "price": 70000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vqTOd1756719132.jpg"
+    ],
+    "seller": {
+      "userId": 4613394,
+      "nickname": "KHH0618",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/204_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401569_u3yair",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 47
+  },
+  {
+    "gigId": 178433,
+    "currentCategoryId": 649,
+    "title": "딥러닝/머신러닝/AI프로젝트 스타트업 기술지원",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Abnn71646212021.png"
+    ],
+    "seller": {
+      "userId": 743420,
+      "nickname": "ITLSOLUTIONS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2zKcx1646210371.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 12
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": true,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401570_lqnvio",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 48
+  },
+  {
+    "gigId": 702857,
+    "currentCategoryId": 649,
+    "title": "예측, 자연어처리, 머신러닝, AI 솔루션",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lxmUu1758353813.jpg"
+    ],
+    "seller": {
+      "userId": 4002380,
+      "nickname": "노바마인드",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/X1IRv1758351482.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401570_ppvrx2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 49
+  },
+  {
+    "gigId": 705482,
+    "currentCategoryId": 649,
+    "title": "딥러닝 모델 개발고성능 GPU 보유",
+    "price": 5000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XjPm11759308900.jpg"
+    ],
+    "seller": {
+      "userId": 4580961,
+      "nickname": "Wooks",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/155_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 649,
+      "subCategoryName": "AI 모델링·최적화",
+      "thirdCategoryId": null,
+      "thirdCategoryName": null
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723183401571_ismu27",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 50
+  }
+]

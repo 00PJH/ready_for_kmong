@@ -1,0 +1,4924 @@
+[
+  {
+    "gigId": 760029,
+    "currentCategoryId": 67202,
+    "title": "Chat gpt / Gemini 연동 프로그램",
+    "price": 150000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Glwsv1775454799.jpg"
+    ],
+    "seller": {
+      "userId": 83081,
+      "nickname": "rigelko",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ULz5P1642397955.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.9,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": true,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184116775_pmcp6h",
+    "kmongAd": {
+      "adId": 170949764,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 1
+  },
+  {
+    "gigId": 805094,
+    "currentCategoryId": 67202,
+    "title": "AI 활용 / AX 환경 구축 웹사이트 개발해드립니다.",
+    "price": 330000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gtjGX1786466675.jpg"
+    ],
+    "seller": {
+      "userId": 4447287,
+      "nickname": "자동자동열매능력자",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/115_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184116777_cgipf4",
+    "kmongAd": {
+      "adId": 170950704,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 2
+  },
+  {
+    "gigId": 791764,
+    "currentCategoryId": 67202,
+    "title": "MCP 서버 개발 - Claude/AI 도구 연동 구축",
+    "price": 190000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vCTTG1784083739.png"
+    ],
+    "seller": {
+      "userId": 4231722,
+      "nickname": "neoworks",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/J0jVG1783423683.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184116778_4x7cyg",
+    "kmongAd": {
+      "adId": 170950473,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 3
+  },
+  {
+    "gigId": 674491,
+    "currentCategoryId": 67202,
+    "title": "내 서비스에 AI를 더하세요 – ChatGPT 연동전문",
+    "price": 11000,
+    "advertisementType": "CPC",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UWEcO1749343868.jpg"
+    ],
+    "seller": {
+      "userId": 99017,
+      "nickname": "ebadatvip",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/9XdQO1669027080.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184116779_mo3eyc",
+    "kmongAd": {
+      "adId": 170948954,
+      "adGroupType": "CPC"
+    },
+    "ranking_order": 4
+  },
+  {
+    "gigId": 771668,
+    "currentCategoryId": 67202,
+    "title": "풀스텍 개발자가 웹/앱/AI 서비스 제작해드립니다.",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/L0mc11778683096.jpg"
+    ],
+    "seller": {
+      "userId": 171226,
+      "nickname": "스마일온",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3HLzQ1778682344.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118080_7enstv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 5
+  },
+  {
+    "gigId": 748881,
+    "currentCategoryId": 67202,
+    "title": "오픈클로 sns/유튜브 자동화 구축(출장)",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3wdXv1772444531.jpg"
+    ],
+    "seller": {
+      "userId": 4374535,
+      "nickname": "오리진입니다",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/y2qVr1771243202.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 7
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118082_aa20gn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 6
+  },
+  {
+    "gigId": 682375,
+    "currentCategoryId": 67201,
+    "title": "자사몰+쇼핑몰 AI기능 추가 - 추천/챗봇/자동화",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bKWft1786350517.jpg"
+    ],
+    "seller": {
+      "userId": 358792,
+      "nickname": "닥터윤선생",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bwUqq1751963433.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 3
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118083_ntl4o8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 7
+  },
+  {
+    "gigId": 787806,
+    "currentCategoryId": 67202,
+    "title": "스피드 웹사이트 제작 / Readdy / 바이브 코딩",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2qCZY1783995000.jpg"
+    ],
+    "seller": {
+      "userId": 510,
+      "nickname": "KickstarterKorea",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/r3qAX1581227088.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118083_ev8gc5",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 8
+  },
+  {
+    "gigId": 694755,
+    "currentCategoryId": 67202,
+    "title": "맞춤형 AI 프로그램 제작 업무 자동화 리포트 챗봇까지",
+    "price": 180000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1CNPM1786337156.png"
+    ],
+    "seller": {
+      "userId": 4588979,
+      "nickname": "코딩노예07",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/eFUUi1755047127.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118084_lnik2v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 9
+  },
+  {
+    "gigId": 805297,
+    "currentCategoryId": 67202,
+    "title": "AI 패션(의류/수영복/가방/신발) 피팅 프로그램",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WKDMy1786510065.jpg"
+    ],
+    "seller": {
+      "userId": 18895,
+      "nickname": "web개발자",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/2cWik1648832318.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118084_grmfj1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 10
+  },
+  {
+    "gigId": 800244,
+    "currentCategoryId": 67201,
+    "title": "AI 에이전트로 웹사이트/프로그램 제작해드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iKkp81786574576.jpg"
+    ],
+    "seller": {
+      "userId": 882400,
+      "nickname": "온해",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3ETWw1787211393.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118085_i17kvg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 11
+  },
+  {
+    "gigId": 789992,
+    "currentCategoryId": 67202,
+    "title": "업무자동화 및 AI 연동 맞춤형 프로그램 개발",
+    "price": 11000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MqlYO1783412550.jpg"
+    ],
+    "seller": {
+      "userId": 5182299,
+      "nickname": "딥라인소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/qgLuE1782964491.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 2
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118085_o0vepp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 12
+  },
+  {
+    "gigId": 687724,
+    "currentCategoryId": 67202,
+    "title": "AI 이미지/영상 생성 플랫폼 백엔드 개발해드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/DI5o01753419610.jpg"
+    ],
+    "seller": {
+      "userId": 433819,
+      "nickname": "AICompanion",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cnvPAQj1DbeA1529826384.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 4.6,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118085_y2q7m8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 13
+  },
+  {
+    "gigId": 463395,
+    "currentCategoryId": 67202,
+    "title": "내 서비스에 어디에나 chatGPT 연동 원하시는분",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tcYj61681776285.jpg"
+    ],
+    "seller": {
+      "userId": 2114825,
+      "nickname": "포스트IT",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Qp3XE1681804532.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 4
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118086_4307oi",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 14
+  },
+  {
+    "gigId": 722096,
+    "currentCategoryId": 67202,
+    "title": "AI 기반 웹·앱 개발 풀스택 제작",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/QIrPk1765021960.jpg"
+    ],
+    "seller": {
+      "userId": 4750552,
+      "nickname": "oicrcutie",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/N3aD11766226333.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 5.0,
+      "reviewCount": 1
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118086_464er3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 15
+  },
+  {
+    "gigId": 480846,
+    "currentCategoryId": 67202,
+    "title": "당신의 그림체를 AI에 학습해드립니다",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2GGIb1687510214.jpg"
+    ],
+    "seller": {
+      "userId": 1704069,
+      "nickname": "타나토스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cMuby1687877141.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118087_42ben1",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 16
+  },
+  {
+    "gigId": 618615,
+    "currentCategoryId": 67202,
+    "title": "Flutter 앱에 Chat GPT기능 넣어드립니다.",
+    "price": 1650000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/nFAP61734392264.jpg"
+    ],
+    "seller": {
+      "userId": 986965,
+      "nickname": "인텔리테크놀러지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/80lJd1725241528.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118087_bxbapu",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 17
+  },
+  {
+    "gigId": 654803,
+    "currentCategoryId": 67202,
+    "title": "Claude를 제대로 사용하는 나만의 MCP개발",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/dI1kg1744635042.jpg"
+    ],
+    "seller": {
+      "userId": 2857964,
+      "nickname": "MACRO",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DFI2n1738588542.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118088_r4rttw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 18
+  },
+  {
+    "gigId": 668639,
+    "currentCategoryId": 67202,
+    "title": "AI API 연동 자동화 서비스",
+    "price": 3300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/B8Hnr1747565898.jpg"
+    ],
+    "seller": {
+      "userId": 2247279,
+      "nickname": "퍼플립",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/9ZT8v1747373789.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118088_nvy9xg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 19
+  },
+  {
+    "gigId": 679773,
+    "currentCategoryId": 67202,
+    "title": "AI 챗봇 튜닝, 연동 개발 서비스",
+    "price": 990000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/R5s0b1751015789.jpg"
+    ],
+    "seller": {
+      "userId": 2149864,
+      "nickname": "continent",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fC8ai1656899027.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118088_4t4o4q",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 20
+  },
+  {
+    "gigId": 684616,
+    "currentCategoryId": 67202,
+    "title": "운영 가능한 MVP 앱 제작 – GPT 연동",
+    "price": 29000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/0BMIi1752487978.jpg"
+    ],
+    "seller": {
+      "userId": 4309658,
+      "nickname": "AXWORKS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TFL4M1779465694.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118089_fu15ib",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 21
+  },
+  {
+    "gigId": 688351,
+    "currentCategoryId": 67202,
+    "title": "서비스 맞춤 AI 연동",
+    "price": 1100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zwV4U1788773748.jpg"
+    ],
+    "seller": {
+      "userId": 1865164,
+      "nickname": "빌더스게이트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/teZRl1755650482.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118089_bb14ek",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 22
+  },
+  {
+    "gigId": 694077,
+    "currentCategoryId": 67202,
+    "title": "플러터 앱에 AI 기능을 연동을 해드립니다",
+    "price": 990000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/N0IUk1757408824.jpg"
+    ],
+    "seller": {
+      "userId": 1084286,
+      "nickname": "에듀랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/6ZnnX1599136706.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118090_efk4h4",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 23
+  },
+  {
+    "gigId": 711195,
+    "currentCategoryId": 67202,
+    "title": "ChatGPT내부 앱 개발/Apps in ChatGPT",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lNhsX1761540918.jpg"
+    ],
+    "seller": {
+      "userId": 1386241,
+      "nickname": "ChairTeam",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/xXySy1766716910.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118090_ygmtc9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 24
+  },
+  {
+    "gigId": 714013,
+    "currentCategoryId": 67202,
+    "title": "AI iOS/Flutter MVP 제작 빠른 검증",
+    "price": 549000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/oMjXm1762597160.jpg"
+    ],
+    "seller": {
+      "userId": 4616555,
+      "nickname": "HeungMi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YGuyt1776690015.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118090_fr4cao",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 25
+  },
+  {
+    "gigId": 714014,
+    "currentCategoryId": 67202,
+    "title": "AI Next/React MVP 제작 빠른 검증",
+    "price": 479000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cn4Ca1762597189.jpg"
+    ],
+    "seller": {
+      "userId": 4616555,
+      "nickname": "HeungMi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YGuyt1776690015.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118091_0gau2y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 26
+  },
+  {
+    "gigId": 714015,
+    "currentCategoryId": 67202,
+    "title": "AI Electron MVP 제작 빠른 검증",
+    "price": 599000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/CCH9Q1762597209.jpg"
+    ],
+    "seller": {
+      "userId": 4616555,
+      "nickname": "HeungMi",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/YGuyt1776690015.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118091_gp5pye",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 27
+  },
+  {
+    "gigId": 717945,
+    "currentCategoryId": 67202,
+    "title": "범용 AI는 그만 내 의도대로 작동하는 AI 웹 제작",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/WtRx41763750695.jpg"
+    ],
+    "seller": {
+      "userId": 4021973,
+      "nickname": "도우리오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KgP7V1732194926.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118092_pag1jf",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 28
+  },
+  {
+    "gigId": 726099,
+    "currentCategoryId": 67202,
+    "title": "하드웨어 연동 AI 기능 개발.연동",
+    "price": 1000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8YrKr1766715958.jpg"
+    ],
+    "seller": {
+      "userId": 2001960,
+      "nickname": "주식회사펄스팩PulseFac",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DCL5V1770371988.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": true,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118092_aecjx9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 29
+  },
+  {
+    "gigId": 734418,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 연동 앱 MCP 서버 개발",
+    "price": 5500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/phhXW1768551191.jpg"
+    ],
+    "seller": {
+      "userId": 280708,
+      "nickname": "SCOWORKS",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/TWZzY1768531538.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118092_8lrqll",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 30
+  },
+  {
+    "gigId": 742512,
+    "currentCategoryId": 67202,
+    "title": "AI ZOOM 모니터링 솔루션",
+    "price": 1100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/XdR7g1770562468.jpg"
+    ],
+    "seller": {
+      "userId": 4286384,
+      "nickname": "류스카이SKAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/1rK1I1743322553.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118093_owu91c",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 31
+  },
+  {
+    "gigId": 747395,
+    "currentCategoryId": 67202,
+    "title": "기존 서비스에 AI를 통합해 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/X7oyW1771983583.jpg"
+    ],
+    "seller": {
+      "userId": 2021970,
+      "nickname": "톡비서",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/31kFp1772531302.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118093_m0d60p",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 32
+  },
+  {
+    "gigId": 748263,
+    "currentCategoryId": 67202,
+    "title": "OpenClaw 설치 및 API 연동",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/iU5BS1773715242.jpg"
+    ],
+    "seller": {
+      "userId": 4193432,
+      "nickname": "팔란티어",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/AMPKJ1739320710.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118094_s201wx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 33
+  },
+  {
+    "gigId": 748422,
+    "currentCategoryId": 67202,
+    "title": "이카운트(eCount) ERP AI 자동화",
+    "price": 3000000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/yT8hG1772522916.png"
+    ],
+    "seller": {
+      "userId": 4916522,
+      "nickname": "U2DIA",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/o72v61772270874.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118094_m4d837",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 34
+  },
+  {
+    "gigId": 750915,
+    "currentCategoryId": 67202,
+    "title": "AI 챗봇 RAG LLM 연동 구축",
+    "price": 349000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Br5Ov1773031982.png"
+    ],
+    "seller": {
+      "userId": 337108,
+      "nickname": "테크노벨로",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RwB2fHNoMLYb1517817475.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118094_2yxhxx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 35
+  },
+  {
+    "gigId": 751909,
+    "currentCategoryId": 67202,
+    "title": "맞춤형 AI 기능 연동 웹사이트 개발",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mfFZK1773241215.jpg"
+    ],
+    "seller": {
+      "userId": 3165103,
+      "nickname": "드롭즈",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/NChx11773231284.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118095_vu61r0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 36
+  },
+  {
+    "gigId": 753567,
+    "currentCategoryId": 67202,
+    "title": "바이브 코딩 + AI 코딩 + 문제해결",
+    "price": 55000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/USRXl1773699801.jpg"
+    ],
+    "seller": {
+      "userId": 603943,
+      "nickname": "나누리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/BToNP1700807140.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118095_vs5234",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 37
+  },
+  {
+    "gigId": 753657,
+    "currentCategoryId": 67202,
+    "title": "GPT API/AI 챗봇 맞춤 개발",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/ltyY31782305938.jpg"
+    ],
+    "seller": {
+      "userId": 4954021,
+      "nickname": "제로랩스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/S58t31784540878.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118096_vbusuw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 38
+  },
+  {
+    "gigId": 753755,
+    "currentCategoryId": 67201,
+    "title": "AI 홈페이지 앱 윈도우 프로그램 개발",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/2w0KV1773731193.jpg"
+    ],
+    "seller": {
+      "userId": 2167666,
+      "nickname": "BLAZOR",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/fJuGk1717447118.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118096_q80obs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 39
+  },
+  {
+    "gigId": 756067,
+    "currentCategoryId": 67202,
+    "title": "서버 유지비 없는 iOS 신분증 마스킹 기능 연동",
+    "price": 1500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mcgLF1774399304.jpg"
+    ],
+    "seller": {
+      "userId": 1890672,
+      "nickname": "AI비전박사",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hX1nJ1774320380.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118096_et67a3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 40
+  },
+  {
+    "gigId": 758369,
+    "currentCategoryId": 67201,
+    "title": "웹페이지-공공데이터 api활용 자동화",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GbEsL1774954843.jpg"
+    ],
+    "seller": {
+      "userId": 4734227,
+      "nickname": "ai방구",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/F1Zb81774954492.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118097_tm5s21",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 41
+  },
+  {
+    "gigId": 758827,
+    "currentCategoryId": 67201,
+    "title": "AI 챗봇/자동화 시스템 맞춤 개발 및 풀스택 개발",
+    "price": 1650000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/v69bj1775083064.jpg"
+    ],
+    "seller": {
+      "userId": 4961872,
+      "nickname": "디시시랩01",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/tATQw1773895312.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118097_urf4vh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 42
+  },
+  {
+    "gigId": 759526,
+    "currentCategoryId": 67202,
+    "title": "make AI 올인원",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/TAJRA1775348796.jpg"
+    ],
+    "seller": {
+      "userId": 615849,
+      "nickname": "킬리만자로냐",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/N7Fuj1780569951.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118098_e72j8w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 43
+  },
+  {
+    "gigId": 760661,
+    "currentCategoryId": 67202,
+    "title": "AI 스크립트 생성기 개발 - 유튜버/소상공인 맞춤 웹",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1HFqo1775567477.jpg"
+    ],
+    "seller": {
+      "userId": 4994550,
+      "nickname": "유기농다이아",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/j9nS51775567160.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118098_xmu7xs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 44
+  },
+  {
+    "gigId": 761369,
+    "currentCategoryId": 67202,
+    "title": "AI 서비스 / LLM 연동 개발",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/MYpcr1776157188.jpg"
+    ],
+    "seller": {
+      "userId": 3790819,
+      "nickname": "lmnslabs",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/3Za0A1726620745.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118098_upe2ee",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 45
+  },
+  {
+    "gigId": 765597,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 통합 맞춤 웹앱: Claude API 연동",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Vhump1776901020.jpg"
+    ],
+    "seller": {
+      "userId": 3147533,
+      "nickname": "코딩애플",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bNrMz1777313511.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118099_67rk7b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 46
+  },
+  {
+    "gigId": 770794,
+    "currentCategoryId": 67202,
+    "title": "Repo Suno 가사 동기화 윈도우용 프로그램",
+    "price": 10000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8lMCF1790732328.jpg"
+    ],
+    "seller": {
+      "userId": 5052746,
+      "nickname": "RepoBus",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/bMzPi1778508685.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118099_dqwbsj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 47
+  },
+  {
+    "gigId": 772054,
+    "currentCategoryId": 67202,
+    "title": "ChatGPT 같은 AI 기능을 서비스에 연동해드려용",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/xObrs1778817956.jpg"
+    ],
+    "seller": {
+      "userId": 5059677,
+      "nickname": "쾌활한낙타",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/041_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118100_d7e7ic",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 48
+  },
+  {
+    "gigId": 773049,
+    "currentCategoryId": 67202,
+    "title": "AI 기반 웹 풀스택 개발",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/f5YcG1779101801.jpg"
+    ],
+    "seller": {
+      "userId": 5065029,
+      "nickname": "순수한봄비4476",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/102_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118100_cwwni2",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 49
+  },
+  {
+    "gigId": 774316,
+    "currentCategoryId": 67202,
+    "title": "기존 서비스에 AI 챗봇과 검색 추가해 드립니다",
+    "price": 1100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lLGgr1779381182.jpg"
+    ],
+    "seller": {
+      "userId": 4981280,
+      "nickname": "JuneBay",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/z1I7s1782121771.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184118101_wgpyqx",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 50
+  },
+  {
+    "gigId": 779467,
+    "currentCategoryId": 67202,
+    "title": "기존 서비스에 AI 챗봇 LLM 기능 붙여드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/R4wyA1780897854.jpg"
+    ],
+    "seller": {
+      "userId": 5095870,
+      "nickname": "템퍼스톤",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/156_orange.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155683_8q0xco",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 51
+  },
+  {
+    "gigId": 779996,
+    "currentCategoryId": 67202,
+    "title": "TTS(타입캐스트 API)",
+    "price": 30000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LLRAH1780992105.jpg"
+    ],
+    "seller": {
+      "userId": 298722,
+      "nickname": "크리스탈볼륨",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/qkuMn1772629234.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155685_s40w7w",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 52
+  },
+  {
+    "gigId": 780799,
+    "currentCategoryId": 67202,
+    "title": "AI 자동화 업무 시스템 구축",
+    "price": 330000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Gp4Zc1781181867.jpg"
+    ],
+    "seller": {
+      "userId": 270906,
+      "nickname": "맑은생수",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/30tcn1781094420.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155686_4ts8ii",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 53
+  },
+  {
+    "gigId": 782507,
+    "currentCategoryId": 67202,
+    "title": "OpenAI Claude API 연동 개발해 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/7oU2n1781624722.png"
+    ],
+    "seller": {
+      "userId": 2730154,
+      "nickname": "stacia",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZcVdI1704354876.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155687_5tvsb8",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 54
+  },
+  {
+    "gigId": 783955,
+    "currentCategoryId": 67202,
+    "title": "기존 사이트/앱에 AI 기능 추가 개발해드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5t2be1782486737.jpg"
+    ],
+    "seller": {
+      "userId": 5084930,
+      "nickname": "모든이슬비7640",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/176_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155687_y4b51i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 55
+  },
+  {
+    "gigId": 785509,
+    "currentCategoryId": 67202,
+    "title": "AI 자동화 및 ChatGPT 연동 개발",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Wiidt1782346909.jpg"
+    ],
+    "seller": {
+      "userId": 5172897,
+      "nickname": "DevRox",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/233_purple.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155688_u9ofln",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 56
+  },
+  {
+    "gigId": 785601,
+    "currentCategoryId": 67202,
+    "title": "12년차 삼성전자 출신 엔지니어의 GPT AI 연동",
+    "price": 19000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LPQhN1783837809.png"
+    ],
+    "seller": {
+      "userId": 1100383,
+      "nickname": "청년머스크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/CPimP1753008002.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155688_o1ec07",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 57
+  },
+  {
+    "gigId": 786646,
+    "currentCategoryId": 67202,
+    "title": "ChatGPT API 연동 자동화",
+    "price": 80000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/zEvWq1782640077.jpg"
+    ],
+    "seller": {
+      "userId": 2513004,
+      "nickname": "전문가를꿈꾼다",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/8uFqI1684176548.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155689_54g3ew",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 58
+  },
+  {
+    "gigId": 786863,
+    "currentCategoryId": 67202,
+    "title": "AI웹앱 오류수정 기능추가",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/RvP3f1782710458.jpg"
+    ],
+    "seller": {
+      "userId": 4522887,
+      "nickname": "미니앱공방",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/118_yellow.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155689_3h2vgt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 59
+  },
+  {
+    "gigId": 788285,
+    "currentCategoryId": 67202,
+    "title": "파이썬 챗GPT API 연동 및 AI 자동화 제작",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EiVcz1783095089.jpg"
+    ],
+    "seller": {
+      "userId": 5183325,
+      "nickname": "Neum",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ifKJQ1783095293.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155689_dd4m6u",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 60
+  },
+  {
+    "gigId": 789041,
+    "currentCategoryId": 67202,
+    "title": "기업형 맞춤 AI 챗봇솔루션 및 웹/앱 연동 턴키 제작",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lWMW51783240699.jpg"
+    ],
+    "seller": {
+      "userId": 2545827,
+      "nickname": "무상전생웹",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RsOuJ1790059667.PNG",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155690_s4m354",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 61
+  },
+  {
+    "gigId": 790674,
+    "currentCategoryId": 67202,
+    "title": "AI 응답 기능을 서비스에 연동해드립니다",
+    "price": 690000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GgdSe1783645527.png"
+    ],
+    "seller": {
+      "userId": 219731,
+      "nickname": "미드코",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/aQjC61758704219.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155690_p0xw6b",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 62
+  },
+  {
+    "gigId": 791053,
+    "currentCategoryId": 67202,
+    "title": "AI 문서 질의응답(RAG) 시스템 구축",
+    "price": 80000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/vAm1b1783606814.jpg"
+    ],
+    "seller": {
+      "userId": 5163936,
+      "nickname": "데이비드랩",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/092_green.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155691_9x124v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 63
+  },
+  {
+    "gigId": 793904,
+    "currentCategoryId": 67202,
+    "title": "Claude Code 개발환경 세팅 및 배포",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Xn0sn1784277683.jpg"
+    ],
+    "seller": {
+      "userId": 1914013,
+      "nickname": "sonia37",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Vqlhw1784196054.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155691_dk2b0v",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 64
+  },
+  {
+    "gigId": 794238,
+    "currentCategoryId": 67201,
+    "title": "수기/엑셀/웹 반복작업 /AI연동/앱 기능/ 맞춤 개발",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qBNSD1784381357.jpg"
+    ],
+    "seller": {
+      "userId": 173447,
+      "nickname": "앱스쿼드",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/kKMB71784380477.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155691_ntcb2d",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 65
+  },
+  {
+    "gigId": 794638,
+    "currentCategoryId": 67201,
+    "title": "AI 연동 웹 개발 및 자동화 서비스 제작해드리겠습니다",
+    "price": 89000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/R15z41784725595.jpg"
+    ],
+    "seller": {
+      "userId": 4636849,
+      "nickname": "Selka",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/W3RHM1784359644.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155692_onojhs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 66
+  },
+  {
+    "gigId": 795596,
+    "currentCategoryId": 67202,
+    "title": "빠른 웹사이트 또는 프로그램 제작 / 바이브 코딩",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/GSsy31784798945.jpg"
+    ],
+    "seller": {
+      "userId": 2385187,
+      "nickname": "LENN",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/cJ9Gi1784110220.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155692_uuy0j9",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 67
+  },
+  {
+    "gigId": 795728,
+    "currentCategoryId": 67202,
+    "title": "OpenAI TTS API를 기존 웹앱에 연동합니다",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/8L6wF1784650671.jpg"
+    ],
+    "seller": {
+      "userId": 4965962,
+      "nickname": "프랭크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/169_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155693_9wvr85",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 68
+  },
+  {
+    "gigId": 797024,
+    "currentCategoryId": 67202,
+    "title": "AI 기능이 포함된 맞춤형 웹서비스 개발",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/NJ6Dq1784894486.jpg"
+    ],
+    "seller": {
+      "userId": 71593,
+      "nickname": "미르지니",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0OLLt1784894587.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155693_y3pqli",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 69
+  },
+  {
+    "gigId": 797372,
+    "currentCategoryId": 67202,
+    "title": "구글 미트 예약과 AI 회의록 연동 개발",
+    "price": 1200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4cKgV1785028241.png"
+    ],
+    "seller": {
+      "userId": 3734753,
+      "nickname": "FillGaps",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/n9CDu1777893859.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155694_70qtqp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 70
+  },
+  {
+    "gigId": 797894,
+    "currentCategoryId": 67202,
+    "title": "MCP 서버 개발해 드립니다 (AI 연동)",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/d7pEw1785129160.png"
+    ],
+    "seller": {
+      "userId": 432206,
+      "nickname": "허브인소프트",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/jo8pb1532676943.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155694_xfqsmd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 71
+  },
+  {
+    "gigId": 798236,
+    "currentCategoryId": 67202,
+    "title": "FAQ 통합 검색 웹사이트를 제작해 드립니다.",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qPKSK1785167196.jpg"
+    ],
+    "seller": {
+      "userId": 4595791,
+      "nickname": "CS정비소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/V74rn1785164832.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155694_61m1kj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 72
+  },
+  {
+    "gigId": 798487,
+    "currentCategoryId": 67202,
+    "title": "바이브코딩 특공대 DB 배포등 후작업을 도와드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KVYmN1785218175.jpg"
+    ],
+    "seller": {
+      "userId": 4859174,
+      "nickname": "부르르에이아이",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JtKno1769238841.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155695_b1wg3q",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 73
+  },
+  {
+    "gigId": 799182,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 연동 개발 : 앱 출시 경험 개발자가 직접",
+    "price": 350000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Yuovo1785324367.jpg"
+    ],
+    "seller": {
+      "userId": 4006530,
+      "nickname": "최지욱개발연구소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dupgz1785633043.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155695_gxw60i",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 74
+  },
+  {
+    "gigId": 799932,
+    "currentCategoryId": 67202,
+    "title": "기존 서비스에 맞춤형 AI 기능을 개발 연동",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pSxa21785477279.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155695_6tk29r",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 75
+  },
+  {
+    "gigId": 800934,
+    "currentCategoryId": 67202,
+    "title": "웹앱에 음성 텍스트 STT 기능을 연동합니다",
+    "price": 390000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/qU2ws1785675165.jpg"
+    ],
+    "seller": {
+      "userId": 4965962,
+      "nickname": "프랭크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/169_blue.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155696_3klqtt",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 76
+  },
+  {
+    "gigId": 802674,
+    "currentCategoryId": 67202,
+    "title": "AI 업무 대시보드 프로토타입 제작",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/LFGj41785993411.jpg"
+    ],
+    "seller": {
+      "userId": 5211942,
+      "nickname": "바로쓰는AI플랫폼개발팀",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4HO2V1785318034.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155696_v21nts",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 77
+  },
+  {
+    "gigId": 802835,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 붙여드립니다 (음성/이미지/텍스트)",
+    "price": 800000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/SS81p1786077567.png"
+    ],
+    "seller": {
+      "userId": 3666546,
+      "nickname": "iyungui",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/136_orange.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155697_7mk1xv",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 78
+  },
+  {
+    "gigId": 802921,
+    "currentCategoryId": 67202,
+    "title": "원문 근거를 인용하는 사내문서 AI 챗봇 만들어드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/1AN1M1786579339.png"
+    ],
+    "seller": {
+      "userId": 308801,
+      "nickname": "보리아범",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/AVteS1786296223.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155697_s6xrux",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 79
+  },
+  {
+    "gigId": 802991,
+    "currentCategoryId": 67202,
+    "title": "ChatGPT AI 기능 연동 개발해 드립니다",
+    "price": 700000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/S4Elq1786062301.jpg"
+    ],
+    "seller": {
+      "userId": 4828428,
+      "nickname": "규성스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/DM0kL1785773424.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155697_lvuc5k",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 80
+  },
+  {
+    "gigId": 803136,
+    "currentCategoryId": 67202,
+    "title": "상품 설명 상세페이지 문구 생성 AI 기능을 개발",
+    "price": 490000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/gwDNi1786077844.jpg"
+    ],
+    "seller": {
+      "userId": 77926,
+      "nickname": "김프로랩",
+      "grade": "LEVEL3",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dg30d1782569821.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155698_kbn8ou",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 81
+  },
+  {
+    "gigId": 803406,
+    "currentCategoryId": 67201,
+    "title": "쇼핑몰 상품추천 AI 추천시스템 개발해 드립니다",
+    "price": 900000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/7RKUb1786116572.jpg"
+    ],
+    "seller": {
+      "userId": 5226005,
+      "nickname": "aigstack",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/ZGsD91787336231.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155698_fb92nw",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 82
+  },
+  {
+    "gigId": 803606,
+    "currentCategoryId": 67202,
+    "title": "운영 중인 서비스에 AI 기능을 추가해 드립니다",
+    "price": 79000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/bUVqJ1788427097.jpg"
+    ],
+    "seller": {
+      "userId": 2898664,
+      "nickname": "세자르",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/X4IqC1788662250.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155699_bgqsok",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 83
+  },
+  {
+    "gigId": 804085,
+    "currentCategoryId": 67202,
+    "title": "MCP 서버 개발 사내 데이터 AI 연동ㅣ직접 운영중",
+    "price": 190000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/eC2u31787192743.png"
+    ],
+    "seller": {
+      "userId": 4647177,
+      "nickname": "셀리스Celis",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/glxcW1767156849.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155699_r8gr0e",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 84
+  },
+  {
+    "gigId": 804152,
+    "currentCategoryId": 67202,
+    "title": "내 서비스에 AI 붙이기 - ChatGPT API 연동",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/OySxu1786329864.jpg"
+    ],
+    "seller": {
+      "userId": 2771277,
+      "nickname": "수테크",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/RbXDo1787570209.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155699_uasecj",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 85
+  },
+  {
+    "gigId": 805608,
+    "currentCategoryId": 67202,
+    "title": "GPT Gemini API 연동 프로그램을 개발합니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/UYPao1786575324.jpg"
+    ],
+    "seller": {
+      "userId": 715693,
+      "nickname": "맥가이버그룹",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/7wi9T1781851124.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155700_lhh884",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 86
+  },
+  {
+    "gigId": 806500,
+    "currentCategoryId": 67202,
+    "title": "우리 사이트에 AI 상담 챗봇 붙여 드립니다",
+    "price": 150000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/4yUlO1786745748.png"
+    ],
+    "seller": {
+      "userId": 4917635,
+      "nickname": "야행성개발자",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4hzZQ1772372347.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155700_eub0rb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 87
+  },
+  {
+    "gigId": 807821,
+    "currentCategoryId": 67202,
+    "title": "AI 챗봇 등등 기능 제작 및 기존 앱 연동 해드립니다",
+    "price": 50000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/3LhlJ1787036145.jpg"
+    ],
+    "seller": {
+      "userId": 5268013,
+      "nickname": "런치랩",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/h9bLX1787031691.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155701_v7ikks",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 88
+  },
+  {
+    "gigId": 808714,
+    "currentCategoryId": 67202,
+    "title": "로펌 특허법인 문서검색 접수 지식금고 구축해드립니다",
+    "price": 900000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/lWIyb1787365527.jpg"
+    ],
+    "seller": {
+      "userId": 308801,
+      "nickname": "보리아범",
+      "grade": "LEVEL1",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/AVteS1786296223.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155701_x0cht3",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 89
+  },
+  {
+    "gigId": 808804,
+    "currentCategoryId": 67202,
+    "title": "기존 웹/앱에 필요한 AI 기능 개발 및 연동",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/tleZ31787199311.png"
+    ],
+    "seller": {
+      "userId": 5034613,
+      "nickname": "deviit",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/074_red.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155701_t8u7r0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 90
+  },
+  {
+    "gigId": 811557,
+    "currentCategoryId": 67202,
+    "title": "ChatGPT AI 챗봇 API 연동 기능 개발",
+    "price": 99000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/J2BVp1787667948.png"
+    ],
+    "seller": {
+      "userId": 5287481,
+      "nickname": "개발하는염소",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/155_gray.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155702_jubf87",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 91
+  },
+  {
+    "gigId": 811589,
+    "currentCategoryId": 67202,
+    "title": "API와 DB를 AI에게도 - MCP 서버 개발",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/cjwnh1790155425.png"
+    ],
+    "seller": {
+      "userId": 5098502,
+      "nickname": "툴브릿지",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/dwBH71790156406.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": true,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155702_85g1rs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 92
+  },
+  {
+    "gigId": 813276,
+    "currentCategoryId": 67202,
+    "title": "Python OpenAI API 오류를 수정해 드립니다",
+    "price": 39000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KuMbE1788047177.jpg"
+    ],
+    "seller": {
+      "userId": 5298254,
+      "nickname": "리유앱웹구조대",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/oVh7x1787986709.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155703_8bje9y",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 93
+  },
+  {
+    "gigId": 813295,
+    "currentCategoryId": 67202,
+    "title": "내 FAQ로 답하는 OpenAI 챗봇을 연동해 드립니다",
+    "price": 49000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/mVjns1788046710.jpg"
+    ],
+    "seller": {
+      "userId": 5298254,
+      "nickname": "리유앱웹구조대",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/oVh7x1787986709.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155703_vqj4hd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 94
+  },
+  {
+    "gigId": 814300,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 붙이고 비용 상한까지 걸어 드립니다",
+    "price": 500000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/H7QD51789177399.png"
+    ],
+    "seller": {
+      "userId": 5041973,
+      "nickname": "anarchos",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/Cwrti1788201188.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155703_5501hl",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 95
+  },
+  {
+    "gigId": 815364,
+    "currentCategoryId": 67202,
+    "title": "기존통신을 WebRTC 웹 모바일 AI로 연결해드립니다",
+    "price": 3300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/EeHDE1788353235.jpg"
+    ],
+    "seller": {
+      "userId": 3726824,
+      "nickname": "온화한레드5149",
+      "grade": "LEVEL2",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/default/066_blue.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155704_dr5uod",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 96
+  },
+  {
+    "gigId": 815479,
+    "currentCategoryId": 67202,
+    "title": "풀스텍 개발자 웹/앱 AI로 단기 개발",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/Yr8071788392844.jpg"
+    ],
+    "seller": {
+      "userId": 5240272,
+      "nickname": "엘리자베스노말",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/JWIIZ1789041964.jpeg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155704_rxaj97",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 97
+  },
+  {
+    "gigId": 816245,
+    "currentCategoryId": 67202,
+    "title": "구글시트 노션에 AI 기능을 연결해 드립니다",
+    "price": 100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pxjE51788596160.jpg"
+    ],
+    "seller": {
+      "userId": 2273125,
+      "nickname": "WorkMindAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/0vpQO1788368825.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155705_8p4yug",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 98
+  },
+  {
+    "gigId": 816326,
+    "currentCategoryId": 67202,
+    "title": "AI 기능 넣은 홈페이지를 배포까지 제작해 드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fP0V81788509725.jpg"
+    ],
+    "seller": {
+      "userId": 4429944,
+      "nickname": "SHIFTAI",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/G8WKr1789388504.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155705_pb2egs",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 99
+  },
+  {
+    "gigId": 816673,
+    "currentCategoryId": 67201,
+    "title": "카페24 쇼핑몰 AI 상품 추천 시스템 구축",
+    "price": 900000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/BtlW31788590696.png"
+    ],
+    "seller": {
+      "userId": 4774851,
+      "nickname": "싸이원",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/nc6k11764847053.jpeg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67201,
+      "thirdCategoryName": "추천 시스템 개발"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184155705_vdllrn",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 100
+  },
+  {
+    "gigId": 817314,
+    "currentCategoryId": 67202,
+    "title": "AI 서비스 개발 - 어느것이든 가능하면 해드립니다",
+    "price": 300000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/KxsDa1789002788.jpg"
+    ],
+    "seller": {
+      "userId": 1722742,
+      "nickname": "인간지능",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/9EYPU1788691934.jpg",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194524_5pnxdb",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 101
+  },
+  {
+    "gigId": 818402,
+    "currentCategoryId": 67202,
+    "title": "기존 웹서비스에 AI 요약 분류 업무 기능 연동",
+    "price": 550000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/up2We1788863849.jpg"
+    ],
+    "seller": {
+      "userId": 3359005,
+      "nickname": "로직스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/KlbZ81788828732.png",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194526_dbpfyp",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 102
+  },
+  {
+    "gigId": 818905,
+    "currentCategoryId": 67202,
+    "title": "기존 웹서비스 AI 기능 개발 및 연동",
+    "price": 90000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/fd2ww1788937876.jpg"
+    ],
+    "seller": {
+      "userId": 5313295,
+      "nickname": "CodeGarden",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/hYRe71788871971.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194526_6bgmwg",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 103
+  },
+  {
+    "gigId": 820027,
+    "currentCategoryId": 67202,
+    "title": "기존 서비스에 AI API 기능을 연동해 드립니다",
+    "price": 71000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/5dO4J1789051472.png"
+    ],
+    "seller": {
+      "userId": 5314584,
+      "nickname": "찬우AI웹스튜디오",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/db9ZU1789017991.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": false,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194527_5w4c7p",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 104
+  },
+  {
+    "gigId": 820436,
+    "currentCategoryId": 67202,
+    "title": "입대의닥터라는 아파트 입주자대표회의 전용 앱개발",
+    "price": 1100000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/JgoCa1789109993.jpg"
+    ],
+    "seller": {
+      "userId": 806738,
+      "nickname": "셔플리",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/m96Lx1629294399.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194527_127wbh",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 105
+  },
+  {
+    "gigId": 822616,
+    "currentCategoryId": 67202,
+    "title": "사내 데이터 AI 연결 MCP 서버 구축",
+    "price": 290000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/X4F8C1789475198.jpg"
+    ],
+    "seller": {
+      "userId": 5320430,
+      "nickname": "그로녹스",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/IIenX1789343977.jpg",
+      "isOnline": false,
+      "isAvailableTax": true,
+      "isFastReaction": false,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194528_4gm2dd",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 106
+  },
+  {
+    "gigId": 825769,
+    "currentCategoryId": 67202,
+    "title": "AI 챗봇/기능 웹사이트에 연동해드립니다",
+    "price": 200000,
+    "advertisementType": "",
+    "labels": [],
+    "images": [
+      "https://static.cdn.kmong.com/gigs/pBbHx1789989860.jpg"
+    ],
+    "seller": {
+      "userId": 3477664,
+      "nickname": "INQU",
+      "grade": "NEW",
+      "thumbnail": "https://static.cdn.kmong.com/members/thumbs/4eBCj1789718845.png",
+      "isOnline": false,
+      "isAvailableTax": false,
+      "isFastReaction": true,
+      "isNowContactable": false,
+      "isVacation": false
+    },
+    "review": {
+      "reviewAverage": 0,
+      "reviewCount": 0
+    },
+    "category": {
+      "rootCategoryId": 6,
+      "rootCategoryName": "IT·프로그래밍",
+      "subCategoryId": 672,
+      "subCategoryName": "AI 기능 개발·연동",
+      "thirdCategoryId": 67202,
+      "thirdCategoryName": "AI 연동"
+    },
+    "hasVideos": false,
+    "hasPackages": true,
+    "isPrime": false,
+    "isQualityGuaranteed": false,
+    "isAvailableCalling": false,
+    "isCurrentUserBookmark": false,
+    "gigCardUuid": "GIG_CARD_2026100723184194528_c51ix0",
+    "kmongAd": {
+      "adId": null,
+      "adGroupType": null
+    },
+    "ranking_order": 107
+  }
+]

@@ -1,0 +1,4609 @@
+[
+  {
+    "gigId": 302516,
+    "ranking_order": 1,
+    "title": "AI 딥러닝을 이용한 프로그램 및 연구 개발해드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/302516",
+    "advertisement_type": "CPC",
+    "is_ad": true,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "딥아이랩",
+    "seller_grade": "NEW",
+    "seller_id": 1427131,
+    "seller_intro": "",
+    "avg_response_time": "5시간 이내",
+    "review_count": 3,
+    "rating_score": 5.0,
+    "weighted_score": 15.0,
+    "base_price": 500000,
+    "description": "서비스 소개\n\n안녕하세요. AI 솔루션 개발 전문 딥아이 입니다.\n\n딥아이는 창업진흥원 예비창업패키지·청년창업사관학교(AI 분야) 우수기업으로 선정된 이후, 국방부(합동참모본부), 한국전자통신연구원(ETRI), 한국특허정보원(KIPI), 서울기술연구원(SIT), 경기연구원(GRI), 한국전자기술연구원(KETI), 선박해양플랜트연구소(KRISO), 한국지역난방공사(KDHC), 국토연구원(KRIHS) 등 정부·출연연 및 공공기관, 서울대·이화여대·경북대·해양대 산학협력단, 그리고 다수의 민간 기업을 대상으로 AI 프로젝트를 수행해왔습니다.\n\nSCIE급 논문 7편 이상, 특허 5건 이상의 연구 성과를 보유하고 있으며, 단순 모델 개발에 그치지 않고 현장에서 즉시 활용 가능한 최종 산출물까지 일괄 제공합니다. 최근에는 LLM·VLM·RAG·Multi-Agent 등 생성형 AI 기술을 실제 산업 현장 문제 해결에 접목하는 프로젝트의 비중이 빠르게 늘고 있습니다.\n\n서비스 설명\n\n고객 목적에 맞춰 AI 모델 성능을 최우선으로 설계하고, 실제 현장에서 바로 동작하는 형태로 납품합니다.\n\n■ 생성형 AI / LLM·VLM 기반 솔루션\n- GPT-4o, Gemini, Claude 등 상용 LLM/VLM API 연동 및 워크플로우 설계\n- Qwen-VL, InternVL, GLM-V 등 오픈소스 VLM 파인튜닝 (LoRA / QLoRA / Unsloth)\n- RAG (Retrieval-Augmented Generation) 시스템 구축 — ChromaDB, FAISS, KR-SBERT 등\n- Multi-Agent 오케스트레이션 (LangGraph, AutoGen 등 기반)\n- 멀티모달 2-Stage 판독 파이프라인 (대량 스크리닝 + 정밀 판독)\n\n■ 컴퓨터비전 AI 모델 개발\n- 객체 탐지 / 분류 / 세그멘테이션 / 추적 (YOLO 시리즈, SAM, Vision Transformer, ByteTrack 등)\n- 자세 추정(Pose) / 행동 인식 / 이상 탐지\n- 열화상·CCTV·드론·BEV 영상 분석\n- 음성 분석, 센서 융합 (IMU, GPS, 라이다)\n\n■ 데이터 파이프라인 및 평가 체계\n- 데이터 수집 가이드 및 라벨링 기준 설계\n- 합성 데이터 생성 (물리 시뮬레이션 기반·Augmentation)\n- 학습/평가 체계 구축 및 R&D 정량 목표 TTA·KORAS 등 AI 인증 평가 대응\n\n■ 최종 산출물 개발\n- Windows 데스크톱 프로그램 (PyQt 등)\n- 웹 서버 / 관리자 페이지 (FastAPI, Flask, Django)\n- 웹·앱 클라이언트 (React, Next.js, Flutter)\n- 임베디드 / 엣지 디바이스 (NVIDIA Jetson, Rockchip, Raspberry Pi, STM32 등)\n- 클라우드·SaaS 플랫폼 (멀티테넌트, 라이선스 기반 활성화)\n\n■ 최근 수행 프로젝트\n - 열화상 누수 탐지 차량 통합 시스템(한국지역난방공사) 누수 탐지 + RAG 2차 분석 클라우드 AI 파이프라인\n- 빈집 등급 판정 AI 플랫폼(서울대학교) 빈집 이미지 기반 상태 등급 자동 판정 모델 및 통합 플랫폼 개발\n- 활동·낙상·수면 패턴 센서 학습 데이터셋 구축 및 앱 개발 (KAIST) 센서 학습 데이터셋 구축 및 시스템 개발\n- 딥러닝 기반 단일 해양 이미지 파고 측정 모델 개발(선박해양플랜트연구소) 단일 이미지 기반 파고 추정 모델 R&D\n- AI 적용 무기효과 산출 고도화 연구(합동참모본부) 국방 분야 AI 시뮬레이션 연구 용역\n - 차량용 운전자 모니터링 시스템(DMS) 임베디드 개발 Rockchip 기반 얼굴 방향 분류, 졸음·부주의 탐지\n - 국토 분쟁 사례 RAG 검색 시스템(KRIHS) KR-SBERT + LLM 기반 유사 분쟁 사례 의미 검색 \n\n서비스 진행 방식\n\n요구사항을 \"실현 가능한 기술 스펙\"으로 변환해 기준과 범위를 먼저 확정합니다. 이후 중간 점검을 통해 방향이 틀어지지 않도록 지속 커뮤니케이션하며, 프로젝트 종료 시 소스 코드, API(필요 시), 결과 보고서를 함께 제공합니다.\n\n상담 안내\n\n\"무엇이 문제인지\" 명확하지 않아도 괜찮습니다. 기술 용어가 어렵거나 데이터가 부족해도, 현재 상황만 공유해주시면 가능한 접근 방식과 현실적인 목표·로드맵을 함께 잡아드립니다. 서두르지 않고, 대신 끝까지 책임지고 현장에서 동작하는 솔루션을 만들어드리겠습니다. 감사합니다.",
+    "service_process": "1 . 요청 사항 분석\n\n- 데이터 수집, 라벨링, AI 모델 학습 시나리오 제공\n- 최종 산출물 형태 및 기능 협의\n\n2 . 솔루션 검증\n\n- AI 모델 성능 기준 협의\n- 최종 요청 사항 및 비용 협의\n\n3. 솔루션 개발\n\n- 요청 사항에 따른 데이터 수집 및 라벨링 (필요시)\n- AI 모델 학습 및 최종 산출물 개발\n\n4. 솔루션 제공\n\n- 최종 산출물 관련 소스 코드, API, 결과 보고서 제공\n- 성공 보수에 따른 비용 지급",
+    "buyer_preparation": "* 프로젝트 목표에 대한 간단한 설명 (ex. CCTV 영상에서 특정 인물을 식별하고 추적하는 시스템 개발)\n\n* 원천 데이터 및 라벨(어노테이션) 보유 여부\n\n* 요구 사항에 대한 배경 지식부터 최종 산출물 개발까지, 구체적인 목표와 기준이 없으셔도 상담을 통해 가이드라인을 정의해드리고 솔루션 아이디어를 제공해드립니다.",
+    "revision_policy": "* 수정은 이용 서비스 등급에 따라 가능합니다.\n* 간단한 코드 수정 및 보완 작업은 무료로 추가 해드릴 수 있습니다.\n* 초기 기획 및 중간 피드백을 통해 수정 횟수를 최소화하도록 하겠습니다.\n* 기본 수정 횟수 초과 후 모델링, 시나리오, 프로그램 전반에 대한 수정이 필요한 경우에는 추가 비용 및 재계약이 필요할 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "5인 이상 30인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "HTML",
+          "C",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "Microsoft SQL Server",
+          "MongoDB",
+          "SQLite"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "5인 이상 30인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "React"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Flutter",
+          "React Native"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Django",
+          "FastAPI",
+          "Flask",
+          "Nginx"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "MATLAB",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "딥러닝 학습 모델 개발",
+        "price": 500000,
+        "description": "- 데이터 분석\n- 최적 학습 모델 선정 및 구현\n- 소스 코드 및 주석 제공",
+        "working_days": 14,
+        "revision_count": 99
+      },
+      "DELUXE": {
+        "title": "딥러닝 학습 모델 설계 및 개발",
+        "price": 3000000,
+        "description": "STANDARD +\n- 데이터 전처리 및 라벨 분석\n- 비교 모델 분석 검증\n- 구현 데이터 연결",
+        "working_days": 21,
+        "revision_count": 99
+      },
+      "PREMIUM": {
+        "title": "딥러닝 시스템 제작 프로젝트",
+        "price": 10000000,
+        "description": "DELUXE +\n- 모델 성능 고도화 작업\n- 프로그램 & API\n- 데이터 구축 및 가공",
+        "working_days": 28,
+        "revision_count": 99
+      }
+    }
+  },
+  {
+    "gigId": 353420,
+    "ranking_order": 2,
+    "title": "AI인공지능 딥러닝 개발해 드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/353420",
+    "advertisement_type": "CPC",
+    "is_ad": true,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "AI현업개발자",
+    "seller_grade": "NEW",
+    "seller_id": 647265,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 12,
+    "rating_score": 4.8,
+    "weighted_score": 57.6,
+    "base_price": 30000,
+    "description": "그 누구보다 싸고 빠르고 마무리까지 정확하게 전달해드리겠습니다.\n\n- 이력\n이미지 프로세싱은 기본이며 자연어처리쪽 개발 경험 다수\n해외 논문 3편, 국내 3편 publish 하였음.\n국내 경진대회 리더보드 1등경험 다수\n\n1. 개발하고 싶은 내용 or 과제 내용\n2. 프로그램 기능 ( 특정 알고리즘 및 성능 제시)\n3. 개발 기한이 필요합니다.\n4. 예산범위도 말씀해주세요~\n5. 서류 및 코드설명이 필요하시면 주석 및 간단한 ppt제작해드립니다.\n\n개발 언어 : c, c++, c#, python\n\n개발 내용\n\n자연어 처리 : 챗봇 및 간단한 자연어처리모델\n\n컴퓨터 비전 (이미지)\n가. Classification\n\n나. Object Detection\n\n다. Segmentation\n\n라. 복합적인 이미지 처리\n\n전부 가능합니다. 간단한 대학과제도 해드립니다.\n\n연락주세요.",
+    "service_process": "1. 쪽지와 상담을 통하여 기간과 비용을 설정합니다.\n2. 프로젝트 제작 후 원하시는 주석 및 코드설명 가능합니다.\n3. 프로젝트 간단 요약서를드립니다.",
+    "buyer_preparation": "1.   어떤 프로젝트인지 설명이 자세히 필요합니다.\n2.  어떤 알고리즘을 써야하는지 그리고 성능은 어느정도인지 설명해주셔야합니다.\n3. 어떤 환경에서 구상해야하는지 설명부탁드립니다.\n\n전반적인 프로젝트 설명이 자세히 필요합니다. \n\n쪽지로 자세히 설명 부탁드립니다.",
+    "revision_policy": "패키지 수정 관련\n패키지 수정 횟수는 서비스 결재 시 협의에 따릅니다.(프로젝트 수정 및 수정 가능 기간은 각 단계별 결제 내용에 포함되어 있음.) 단, 수정 가능 범위는 프로젝트 주제가 변경되지 않아야 하며, 협의 된 알고리즘이 변경되지 않는 선에서 진행 가능합니다. 프로그램을 받으시고 수정이 필요하시면 요구하시면 됩니다.  2~3번정도 해드릴 예정이며 되도록이면 한번에 말씀해주시면 좋을거 같습니다.\n\n수정 가능 범위 \n- 간단한 UI/UX변경\n- AI 예측 범위 변경\n- 새로운 데이터 학습\n까지 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "PHP",
+          "Python",
+          "C#",
+          "C",
+          "C++",
+          "Kotlin",
+          "R"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "AI(인공지능)딥러닝 개발해드립니다.",
+        "price": 30000,
+        "description": "- 자연어처리 및 컴퓨터 비전, 강화학습, 머신러닝 모두 개발가능합니다.",
+        "working_days": 1,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 741632,
+    "ranking_order": 3,
+    "title": "의료 데이터 기반 AI 헬스케어 모델링",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/741632",
+    "advertisement_type": "CPC",
+    "is_ad": true,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "해피AI",
+    "seller_grade": "NEW",
+    "seller_id": 943886,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 990000,
+    "description": "(해피AI 소개서)\nhttps://bit.ly/3N3gb19\n\n(해피AI PM 소개)\nhttps://bit.ly/jinkyu-profile \n\n(언론보도 자료)\nhttps://www.psnews.co.kr/news/articleView.html?idxno=2066949 \n\n(해피AI 플랫폼 TexNova)\nhttp://texnova.co.kr/\n의료 데이터를 분석하고, 위험과 결과를 예측하는 AI를 만듭니다.\n의료 AI · 헬스케어 데이터분석 · 예측모델링 전문 서비스\n병원·연구기관·헬스케어 기업이 보유한\nEMR · 임상데이터 · 건강검진 · 바이오마커 · 웨어러블 · 센서 · 의료영상 · 의료텍스트\n등의 데이터를 분석하여 연구와 PoC에 활용할 수 있는 AI 모델을 개발합니다.\n단순히 머신러닝 알고리즘 하나를 적용하고 정확도만 전달하지 않습니다.\n데이터 진단 → 전처리 → 모델 설계 → 성능 비교 → 검증 → 설명가능 AI → 결과 해석\n까지 하나의 분석 과정으로 진행합니다.\nAI 공학박사가 책임 PM으로 참여하여\n연구 목적 · 데이터 구조 · 모델 설계 · 평가방법 · 결과물 품질\n을 관리합니다.\n\n[이런 분들에게 추천합니다]\n- 병원 또는 연구기관에서 의료 데이터를 활용한 AI 연구를 진행하려는 경우\n- 헬스케어 스타트업에서 AI 기능의 가능성을 검증하려는 경우\n- 환자 데이터를 활용한 예측·분류 모델이 필요한 경우\n- 질병 위험도 또는 예후 관련 AI 모델을 연구하려는 경우\n- 건강검진 데이터를 활용한 위험도 분석이 필요한 경우\n- 웨어러블·센서 데이터를 활용해 환자 상태를 분석하려는 경우\n- 의료영상과 임상 데이터를 함께 활용하고 싶은 경우\n- 논문·학술연구·정부과제용 AI 실험이 필요한 경우\n- 기존 의료 AI 모델의 성능을 비교하거나 개선하고 싶은 경우\n- 단순 Accuracy가 아니라 해석 가능한 모델이 필요한 경우\n- 모델의 Bias·Calibration·Subgroup 성능을 검토하고 싶은 경우\n- 의료 AI PoC 또는 연구용 Prototype이 필요한 경우\n정확한 모델이 결정되지 않은 상태에서도 상담 가능합니다.\n“이 의료 데이터로 어떤 AI 연구가 가능한가요?”\n라고 문의해 주셔도 됩니다.\n\n[주요 서비스 내용]\n1. 의료 데이터 진단 및 전처리\n의료 AI에서는 모델보다 데이터의 품질이 더 중요한 경우가 많습니다.\n모델 개발 전에 데이터를 먼저 확인합니다.\n- 데이터 구조 확인\n- 데이터 품질 점검\n- 변수 정의 확인\n- 결측값 분석\n- 이상값 확인\n- Label 및 Target 확인\n- Class Imbalance 확인\n- 데이터 중복 확인\n- 환자 단위 데이터 구조 확인\n- 시계열 구조 확인\n- 데이터 누수 가능성 점검\n- 분석 가능성 검토\n현재 데이터를 기준으로\n무엇을 예측할 수 있고, 어떤 한계가 있는지\n먼저 확인합니다.\n\n2. 의료 AI 예측·분류 모델링\n환자 및 헬스케어 데이터를 활용하여 목적에 맞는 예측·분류 모델을 구축합니다.\n적용 예시\n- 질병 발생 위험 예측\n- 고위험군 분류\n- 환자 상태 분류\n- 재입원 위험 분석\n- 이상 징후 탐지\n- 건강 위험도 분석\n- 예후 관련 모델링\n- 의료 서비스 이용 예측\n- 환자군 분류\n- 헬스케어 지표 예측\n- 바이오마커 기반 예측\n- 웨어러블 기반 상태 분석\n데이터 특성에 따라 다음 방법을 검토할 수 있습니다.\n- Logistic Regression\n- Random Forest\n- XGBoost\n- LightGBM\n- Gradient Boosting\n- SVM\n- Neural Network\n- Transformer\n- 시계열 Deep Learning\n- Ensemble\n특정 모델을 먼저 정하지 않고 실제 데이터에서 여러 방법을 비교합니다.\n\n3. 의료 시계열·웨어러블 AI\n의료 데이터 중에는 시간의 흐름이 중요한 데이터가 많습니다.\n예시\n- ECG\n- 심박수\n- 산소포화도\n- 활동량\n- 수면\n- 혈당\n- 생체신호\n- 환자 모니터링 데이터\n- 웨어러블 센서\n이러한 데이터는 일반적인 정형 데이터와 다른 검증 방법이 필요합니다.\n지원 예시\n- 시계열 전처리\n- Sliding Window 구성\n- Lag Feature\n- Rolling Feature\n- Temporal Pattern 분석\n- Sequence Modeling\n- 이상 패턴 탐지\n- 환자 상태 변화 예측\n- 미래 구간 Forecasting\n환자 단위와 시간 순서를 고려하여 모델을 평가합니다.\n\n4. 의료영상 AI\n프로젝트 범위에 따라 의료 이미지 기반 AI 모델도 검토할 수 있습니다.\n예시\n- X-ray\n- CT\n- MRI\n- 병리 이미지\n- 초음파\n- 기타 의료영상\n지원 가능한 연구 범위 예시\n- 이미지 Classification\n- Object Detection\n- Segmentation\n- Feature Extraction\n- Transfer Learning\n- Vision Transformer\n- 의료영상 Foundation Model 적용 검토\n- 이미지 기반 예측\n- 영상 + 임상데이터 결합\n영상의 유형과 Annotation 상태를 먼저 확인한 뒤 적절한 방법을 제안합니다.\n\n5. 멀티모달 의료 AI\n의료 현장의 의사결정은 하나의 데이터만으로 이루어지지 않는 경우가 많습니다.\n필요한 프로젝트에서는 서로 다른 형태의 데이터를 결합할 수 있습니다.\n예시\n- EMR + 의료영상\n- 임상수치 + 의료텍스트\n- 의료영상 + 판독문\n- 센서 + 환자정보\n- 웨어러블 + 건강검진\n- 정형데이터 + 텍스트\n- 이미지 + 바이오마커\n각 데이터의 특성을 별도로 처리한 뒤 하나의 모델에서 결합하는 Multimodal AI 구조를 검토할 수 있습니다.\n\n6. 의료 텍스트·LLM 분석\n의료 데이터에는 구조화되지 않은 텍스트가 많이 포함되어 있습니다.\n예시\n- 진료기록\n- 의료 기사\n- 연구논문\n- 설문\n- 상담 기록\n- 판독문\n- 의료 보고서\n- 환자 의견\n지원 예시\n- 의료 텍스트 분류\n- 정보 추출\n- 텍스트마이닝\n- Topic Modeling\n- Embedding 분석\n- LLM 기반 구조화\n- 문서 요약\n- RAG\n- 의료 문서 QA\n- 임상 NLP\nLLM을 예측모델에 무조건 적용하지 않고 프로젝트 목적에 맞게 활용합니다.\n\n7. Explainable AI / XAI\n의료 AI에서는\n“무엇을 예측했는가”뿐 아니라 “왜 그런 결과가 나왔는가”\n가 중요합니다.\n가능한 프로젝트에서는 다음 분석을 제공합니다.\n- Feature Importance\n- SHAP\n- 변수별 영향도\n- 환자별 예측 근거\n- 주요 위험요인 분석\n- 정상군·위험군 비교\n- 모델 판단에 영향을 준 변수 분석\n- 의료영상 Attention / Heatmap 검토\n단순한 Prediction Score에서 끝나지 않고\n모델이 어떤 데이터를 근거로 결과를 만들었는지 확인할 수 있도록 분석합니다.\n\n8. Calibration / 위험확률 검증\n의료 AI에서는 높은 AUC만으로 모델을 평가하기 어려울 수 있습니다.\n예를 들어 모델이 환자에게\n“위험확률 80%”\n라고 예측한다면 이 확률이 실제 위험과 얼마나 일치하는지도 중요합니다.\n프로젝트 범위에 따라\n- Calibration Curve\n- Brier Score\n- Reliability 분석\n- Threshold 분석\n- Sensitivity / Specificity Trade-off\n등을 검토할 수 있습니다.\n\n9. Subgroup / Bias 분석\n전체 환자에서 성능이 좋아도 특정 집단에서 모델 성능이 크게 떨어질 수 있습니다.\n필요한 경우 데이터에서 정의 가능한 집단을 기준으로 모델 성능을 비교합니다.\n예시\n- 연령대\n- 성별\n- 질환군\n- 기관\n- 장비\n- 데이터 수집기간\n지원 예시\n- Subgroup별 성능\n- 모델 Error 차이\n- 민감도 차이\n- 특이도 차이\n- 데이터 분포 차이\n- Bias 가능성 분석\n※ 분석 가능한 집단은 데이터와 연구 목적에 따라 결정합니다.\n\n10. 모델 성능평가\n의료 AI에서는 Accuracy 하나만으로 모델 성능을 판단하지 않습니다.\n분류 모델 평가 예시\n- Accuracy\n- Precision\n- Recall\n- Sensitivity\n- Specificity\n- F1-score\n- ROC-AUC\n- PR-AUC\n- Confusion Matrix\n회귀 모델 평가 예시\n- MAE\n- RMSE\n- MAPE\n- R²\n생존·위험 모델 등 특수 분석이 필요한 경우 별도로 협의합니다.\n실제 연구 목적에 맞는 평가 지표를 먼저 정하고 모델을 비교합니다.\n\n11. Validation 설계\n모델의 실제 성능을 확인하려면 학습 데이터와 평가 데이터를 적절히 분리해야 합니다.\n프로젝트에 따라 다음 방식을 검토합니다.\n- Train / Validation / Test Split\n- Cross Validation\n- Patient-level Split\n- Time-based Split\n- Hold-out Test\n- External Validation 데이터 검토\n- 기관별 Validation\n- Temporal Validation\n특히 동일 환자의 데이터가 학습과 테스트에 동시에 들어가는 Data Leakage가 발생하지 않도록 데이터 구조를 확인합니다.\n\n12. Foundation Model 활용\n최근 의료 AI에서는 대규모 Foundation Model을 기존 연구 데이터에 적용하는 방식도 활용되고 있습니다.\n프로젝트에 따라 다음 방법을 검토할 수 있습니다.\n- Pre-trained Model\n- Medical Foundation Model\n- Vision Foundation Model\n- Medical VLM\n- Embedding Model\n- Transfer Learning\n- Fine-Tuning\n- LoRA\n다만 최신 Foundation Model이라고 해서 항상 기존 머신러닝 모델보다 좋은 것은 아닙니다.\n데이터 규모와 연구 목적을 기준으로 적합성을 비교합니다.\n\n13. 의료 AI PoC\n병원·기업·연구기관에서 본격적인 개발 전에 AI 적용 가능성을 확인할 수 있도록 PoC를 진행할 수 있습니다.\n예시\n데이터 확인\n→ 연구 질문 정의\n→ Baseline 구축\n→ AI 모델 개발\n→ 모델 비교\n→ 성능평가\n→ XAI 분석\n→ 결과 보고\nPoC 결과를 통해\n- 기술 적용 가능성\n- 추가 데이터 필요성\n- 예상 성능\n- 주요 한계\n- 후속 개발 방향\n을 확인할 수 있습니다.\n\n[연구와 실제 임상 적용은 구분합니다]\n본 서비스는 기본적으로\n연구 · 데이터 분석 · 기술검증 · PoC · AI 모델 개발\n을 지원합니다.\n연구용 모델에서 좋은 성능이 나온다고 해서 바로 의료 현장에서 사용할 수 있는 것은 아닙니다.\n실제 환자 진단·치료 등에 사용되는 제품은\n- 의료기기 해당 여부\n- 임상적 타당성\n- 안전성\n- 개인정보\n- 기관 IRB\n- 관련 인허가\n- 실제 임상 검증\n등 추가적인 절차가 필요할 수 있습니다.\n따라서 실제 의료서비스 또는 의료기기 사업화를 목적으로 하는 경우 목적과 범위를 사전에 알려주세요.\n필요한 개발·검증 범위를 구분하여 안내합니다.\n\n[분석 가능한 데이터]\n1. EMR / 임상 데이터\n- 환자 기본정보\n- 검사결과\n- 진단 관련 데이터\n- 처치 관련 데이터\n- 임상 변수\n- 진료 관련 정형 데이터\n2. 건강검진 데이터\n- 혈액검사\n- 생체정보\n- 건강지표\n- 생활습관\n- 질환 관련 정보\n3. 시계열 / 생체신호\n- ECG\n- 심박\n- 산소포화도\n- 활동량\n- 수면\n- 혈당\n- 기타 Sensor 데이터\n4. 웨어러블\n- Smart Watch\n- Fitness Tracker\n- Digital Health Device\n- 기타 Wearable Sensor\n5. 의료영상\n- X-ray\n- CT\n- MRI\n- 병리 이미지\n- 기타 의료영상\n6. 의료 텍스트\n- 진료기록\n- 판독문\n- 의료기사\n- 연구논문\n- 설문\n- 상담자료\n\n[본 서비스의 분석 원칙]\n1. 모델보다 데이터를 먼저 봅니다.\n의료 AI의 성능은 데이터의 품질과 Label의 정의에 크게 영향을 받습니다.\n먼저 데이터 구조와 품질을 확인합니다.\n2. 최신 모델을 무조건 사용하지 않습니다.\nDeep Learning이나 Foundation Model을 무조건 적용하지 않습니다.\nLogistic Regression 같은 전통적인 모델이 더 적합하다면 해당 모델을 Baseline으로 함께 비교합니다.\n3. 단순 Accuracy 경쟁을 하지 않습니다.\n의료 AI에서는\nSensitivity · Specificity · Calibration · Subgroup 성능 · 실제 오류\n가 중요할 수 있습니다.\n연구 목적에 적합한 평가 지표를 사용합니다.\n4. Data Leakage를 주의합니다.\n의료 데이터는 동일 환자에서 여러 개의 데이터가 존재하는 경우가 많습니다.\n환자 단위 데이터 분리를 고려하여 평가합니다.\n5. 결과의 설명 가능성을 고려합니다.\n가능한 경우 XAI와 변수 중요도 분석을 통해 모델 결과의 근거를 확인합니다.\n6. 모델의 한계를 함께 제공합니다.\nAI 모델이 잘 맞는 사례뿐 아니라\n- 잘못 예측한 사례\n- 데이터가 부족한 부분\n- 모델이 취약한 조건\n- 추가 검증이 필요한 부분\n을 함께 확인합니다.\n7. AI 공학박사가 책임 PM으로 참여합니다.\n연구 목적부터 AI Architecture, 모델 비교, 평가방법, 결과물의 기술적 품질까지 책임 PM이 관리합니다.\n\n[진행 절차]\nSTEP 01. 사전 상담\n먼저 연구 또는 프로젝트의 목적을 확인합니다.\n- 무엇을 예측하려는지\n- 어떤 데이터가 있는지\n- 결과를 어디에 사용할 것인지\n- 논문 / 연구 / PoC / 서비스 중 어떤 목적일지\n확인합니다.\nSTEP 02. 데이터 검토\n- 데이터 형식\n- 데이터 규모\n- 변수\n- Label\n- 결측\n- 클래스 비율\n- 환자 구조\n등을 검토합니다.\nSTEP 03. 연구·모델링 설계\n분석 목표를 기준으로\n- Baseline\n- AI 모델\n- 평가 지표\n- Validation 방식\n- XAI 방식\n을 설계합니다.\nSTEP 04. 데이터 전처리\n- 결측 처리\n- 이상값 처리\n- Feature Engineering\n- Normalization\n- Encoding\n- 의료 데이터 구조화\n등을 수행합니다.\nSTEP 05. Baseline 모델 구축\n단순한 기준 모델부터 구축하여 비교 기준을 만듭니다.\nSTEP 06. AI 모델 학습\n데이터 특성에 적합한 모델을 학습합니다.\nSTEP 07. 모델 비교 및 검증\n여러 모델의 성능을 동일한 데이터 조건에서 비교합니다.\nSTEP 08. XAI 및 오류 분석\n가능한 경우\n- Feature Importance\n- SHAP\n- Error Case\n- Subgroup\n등을 분석합니다.\nSTEP 09. 결과 정리\n주요 결과와 모델의 한계를 정리합니다.\nSTEP 10. 결과물 전달\n계약 범위에 따라 코드·모델·리포트 등을 제공합니다.\n\n[제공 결과물]\n계약 범위에 따라 다음 결과물을 제공합니다.\n- 의료 데이터 분석 결과\n- 전처리 데이터\n- Python 분석 코드\n- 학습 코드\n- AI 모델\n- 모델 설정파일\n- 예측 결과\n- 성능 평가표\n- ROC Curve\n- Confusion Matrix\n- XAI 결과\n- 주요 시각화\n- 모델 비교표\n- 오류 분석\n- PDF 분석 리포트\n- Excel 결과\n- 실행 가이드\n- 기술문서\n구체적인 산출물은 프로젝트 착수 전에 협의하여 확정합니다.\n\n#의료AI #헬스케어AI #의료데이터 #의료데이터분석 #AI예측모델링 #머신러닝 #딥러닝 #의료영상AI #멀티모달AI #XAI #헬스케어데이터 #의료인공지능",
+    "service_process": "의뢰 접수 후 사전 상담을 통해 데이터 형태와 분석 목적, 일정 범위를 확인합니다.\n\n이후 의료 데이터 특성을 고려한 분석 방향과 모델 구조를 설계합니다.\n\n설계 내용을 바탕으로 AI 모델 학습과 검증을 진행하며, 성능 평가를 통해 모델을 개선합니다.\n\n최종적으로 분석 결과와 모델 성능 리포트를 전달하고, 결과 해석 및 활용 방향을 설명합니다.",
+    "buyer_preparation": "분석 대상이 되는 의료 또는 헬스케어 데이터 파일을 준비해 주셔야 합니다.\n\n예측, 분류, 위험도 분석 등 원하는 분석 목적과 활용 방향을 함께 전달해 주시면 됩니다.\n\n참고 논문, 과제 요구사항, 내부 활용 계획이 있다면 공유해 주시면 분석에 반영됩니다.\n\n원활한 진행을 위해 담당자 연락 정보와 의사결정 가능 여부를 사전에 안내해 주세요.",
+    "revision_policy": "프로젝트 진행 중 합의된 범위 내의 수정은 가능합니다.\n분석 목적 변경이나 추가 작업이 필요한 경우에는 별도 협의 후 재작업이 진행됩니다.\n재진행 시 작업 기간과 비용이 조정될 수 있으며, 사전에 안내드립니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "의료 AI 데이터분석 + Base모델",
+        "price": 990000,
+        "description": "의료 데이터를 보유하고 있으며 AI 모델링 가능성을 먼저 확인하고 싶은 연구자·기업\n",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "의료 AI 맞춤 예측모델링 + XAI",
+        "price": 4000000,
+        "description": "논문·연구·과제·PoC 수준의 의료 AI 모델링이 필요한 경우\n",
+        "working_days": 14,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "고도화 의료 AI / 멀티모달 PoC",
+        "price": 9000000,
+        "description": "병원·헬스케어 기업·연구기관의 고도화 AI 연구 또는 기술검증 프로젝트\n",
+        "working_days": 21,
+        "revision_count": 2
+      }
+    }
+  },
+  {
+    "gigId": 390225,
+    "ranking_order": 4,
+    "title": "AI Agent RAG MCP 업무자동화 맞춤 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/390225",
+    "advertisement_type": "CPC",
+    "is_ad": true,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "해피AI",
+    "seller_grade": "NEW",
+    "seller_id": 943886,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 5,
+    "rating_score": 5.0,
+    "weighted_score": 25.0,
+    "base_price": 400000,
+    "description": "AI Agent RAG MCP 업무자동화 맞춤 개발\n\n[서비스 소개]\n문서를 검색하는 AI에서 실제 업무를 수행하는 AI Agent로\n단순히 질문에 답하는 챗봇이 아닙니다.\n사내 문서를 찾고, 필요한 정보를 판단하고, 외부 도구와 시스템을 호출하고, 다음 업무까지 수행하는 AI Agent를 기업·기관의 실제 업무 프로세스에 맞춰 개발합니다.\nLLM + RAG + AI Agent + MCP + API + Workflow를 하나의 구조로 연결하여 반복적인 지식업무를 자동화합니다.\nAI 공학박사가 책임 PM으로 참여하여 요구사항 분석부터 기술 설계, 개발, 평가 및 최종 품질까지 관리합니다.\n\n[이런 AI를 만들 수 있습니다]\n예를 들어 사용자가\n“지난달 계약서들을 검토하고 위험 조항을 찾아서 담당자에게 보고해 줘.”\n라고 요청하면,\n단순 챗봇은 답변만 생성하지만 AI Agent는 다음과 같이 움직일 수 있습니다.\n1. 관련 문서 검색\n2. 계약서 내용 분석\n3. 위험 조항 판단\n4. 사내 기준과 비교\n5. 결과 보고서 작성\n6. 담당자 검토 요청\n7. 승인 후 다음 업무 수행\n이처럼 대화형 AI를 실제 업무 Workflow와 연결합니다.\n\n[이런 경우에 적합합니다]\n- 사내 문서를 검색하고 답변하는 AI가 필요한 경우\n- 기존 RAG 챗봇을 업무 수행형 Agent로 고도화하려는 경우\n- 반복적인 문서 검토·분석·보고 업무를 자동화하려는 경우\n- 여러 API와 시스템을 AI가 자동으로 호출해야 하는 경우\n- MCP를 활용하여 AI와 다양한 업무도구를 연결하려는 경우\n- 직원이 자연어로 요청하면 AI가 여러 단계를 처리하도록 만들고 싶은 경우\n- 담당자의 승인 과정을 포함한 안전한 AI Workflow가 필요한 경우\n- 여러 Agent가 역할을 나누어 작업하는 구조가 필요한 경우\n- 내부망 또는 보안 환경에서 RAG·Agent를 구축하려는 경우\n- Agent의 정확도와 업무 성공률까지 체계적으로 평가하고 싶은 경우\n기획서가 완성되어 있지 않아도 괜찮습니다.\n“현재 이 업무를 AI로 자동화할 수 있을까요?”부터 상담할 수 있습니다.\n\n[주요 개발 서비스]\n1. 기업 맞춤형 RAG Agent\n기업·기관이 보유한 문서를 검색하고 근거를 기반으로 답변하는 AI Agent를 구축합니다.\n단순히 LLM에게 문서를 입력하는 것이 아니라 데이터 특성과 실제 질문을 고려해 검색 구조를 설계합니다.\n주요 기능\n- PDF·Word·Excel·HWP·TXT 등 문서 처리\n- 사내 규정·매뉴얼·보고서 검색\n- Vector DB 기반 문서 검색\n- Semantic Search\n- Keyword + Vector Hybrid Search\n- Embedding 모델 선정\n- Chunking 최적화\n- Reranking\n- 답변 근거 및 출처 제공\n- 검색 결과 기반 후속 업무 수행\n- RAG 성능평가 및 오류 분석\n활용 예시\n사내 규정 검색 / 연구자료 검색 / 기술문서 QA / 계약서 검토 / 정책자료 분석 / 고객지원\n\n2. AI Agent 업무자동화\n사용자의 요청을 이해한 후 AI가 필요한 작업을 단계별로 수행하도록 개발합니다.\n예시\n사용자 요청\n“이번 주 고객 문의를 분석해서 주요 불만을 정리하고 보고서를 작성해 줘.”\nAI Agent\n고객 데이터 조회\n→ 문의 내용 분류\n→ 주요 이슈 분석\n→ 필요한 자료 추가 검색\n→ 보고서 작성\n→ 담당자 검토\n→ 최종 결과 저장\n이와 같은 다단계 업무 Workflow를 구현할 수 있습니다.\n주요 기능\n- LangGraph 기반 Agent Workflow\n- Tool Calling\n- Function Calling\n- 조건부 업무 분기\n- 반복 작업 처리\n- Agent 상태 관리\n- 오류 처리\n- 자동 Retry\n- 장기 실행 Workflow\n- 작업 이력 관리\n- 사용자 승인 단계\n\n3. MCP 기반 업무도구 연결\nAI Agent의 핵심은 LLM이 실제 데이터와 도구를 사용할 수 있도록 연결하는 것입니다.\nMCP 또는 API를 활용하여 필요한 시스템과 연결합니다.\n연동 가능 예시\n- 사내 데이터베이스\n- REST API\n- 검색 시스템\n- 파일 시스템\n- 업무용 프로그램\n- Google Workspace\n- Notion\n- Slack\n- GitHub\n- ERP·CRM\n- 사내 업무시스템\n- 외부 데이터 서비스\nAI가 연결된 Tool을 활용하여 검색 → 조회 → 분석 → 작성 → 저장 → 전달과 같은 작업을 수행하도록 구성할 수 있습니다.\n모든 프로젝트에 MCP를 무조건 적용하지 않습니다.\n기존 API 연결이 더 적합한 경우에는 시스템 환경을 검토해 가장 안정적인 방식을 제안합니다.\n\n4. Human-in-the-loop\n기업 업무에서는 AI에게 모든 의사결정을 맡기는 것이 항상 적절하지 않습니다.\n중요한 단계에서는 사람이 확인한 후 다음 업무가 진행되도록 구성할 수 있습니다.\n예시\nAI 문서 분석\n→ AI 결과 초안 작성\n→ 담당자 검토\n→ 승인 / 수정 / 반려\n→ 후속 시스템 처리\n특히 다음과 같은 업무에 적합합니다.\n- 계약\n- 인사\n- 재무\n- 연구\n- 정책\n- 의료\n- 금융\n- 공공기관 업무\nAI 자동화의 효율성과 사람의 통제권을 함께 고려합니다.\n\n5. Multi-Agent 시스템\n업무가 복잡한 경우 여러 Agent가 역할을 나누어 협력하도록 구성할 수 있습니다.\n예시\nResearch Agent\n→ Analysis Agent\n→ Writing Agent\n→ Validation Agent\n→ Human Approval\n다만 Agent가 많다고 좋은 시스템은 아닙니다.\n해피AI는 업무 복잡도와 운영비용을 검토하여 Single Agent / Workflow Agent / Multi-Agent 중 적절한 구조를 제안합니다.\n6. Agent 성능평가 및 검증\nAI Agent는 화면에서 한 번 정상적으로 동작한다고 해서 업무에 바로 사용할 수 있는 것은 아닙니다.\n실제 사용 시 중요한 것은 “얼마나 안정적으로 업무를 완료하는가”입니다.\n프로젝트 범위에 따라 다음 항목을 평가할 수 있습니다.\n- 문서 검색 정확도\n- RAG 답변 품질\n- Hallucination\n- Tool 호출 정확도\n- Agent 업무 완료율\n- Workflow 성공률\n- 오류 발생 유형\n- 예외 상황 대응\n- 응답시간\n- Token 사용량\n- API 비용\n- 모델별 성능 비교\n- 실패 사례 분석\n평가 결과를 기반으로 Prompt → RAG → Tool → Agent Workflow 각 단계의 문제를 찾아 개선합니다.\n7. Private LLM / 내부망 Agent\n기업·공공기관·연구기관처럼 데이터를 외부 AI 서비스로 전송하기 어려운 환경도 검토할 수 있습니다.\n지원 범위\n- Local LLM\n- Open-weight LLM\n- Private LLM\n- 내부망 RAG\n- On-Premise\n- Private Cloud\n- 자체 GPU 환경\n- 모델 경량화\n- Quantization\n- 로컬 Vector DB\n보유 서버와 GPU, 보안정책을 검토하여 실행 가능한 아키텍처를 제안합니다.\n\n[챗봇과 AI Agent는 무엇이 다른가요?]\n일반 LLM 챗봇\n질문 → 답변\nRAG 챗봇\n질문 → 문서 검색 → 근거 기반 답변\nAI Agent\n업무 요청\n→ 상황 판단\n→ 문서·DB 검색\n→ Tool 선택\n→ API 또는 MCP 실행\n→ 결과 확인\n→ 필요한 다음 행동 결정\n→ 담당자 승인\n→ 후속 업무 수행\n즉, AI Agent는 단순히 “답을 생성하는 AI”가 아니라 “업무를 수행하는 AI”를 목표로 합니다.\n\n[적용 가능한 업무]\n기업 업무\n- 사내 문서 검색 Agent\n- 업무지원 AI Assistant\n- 계약서 검토 Agent\n- 고객문의 분석\n- 보고서 자동작성\n- 회의자료 분석\n- 데이터 조회 Agent\n- 영업지원 Agent\n- 리서치 자동화\n- 문서 처리 자동화\n연구기관·공공기관\n- 연구자료 검색\n- 정책자료 분석\n- 보고서 검토\n- 연구동향 분석\n- 내부 문서 질의응답\n- Private RAG\n- 내부망 Agent\n- 연구용 AI PoC\nAI 서비스·스타트업\n- AI Agent MVP\n- Agent 기반 SaaS\n- RAG 서비스\n- AI Assistant\n- 기존 SaaS의 AI 기능 추가\n- API 기반 Agent\n- AI 서비스 PoC\n\n[사용 기술]\n프로젝트에 따라 필요한 기술만 선택하여 적용합니다.\nLLM\nGPT / Claude / Gemini / Open-weight LLM\nAgent\nLangChain / LangGraph / Agent Workflow\nRAG\nEmbedding / Vector DB / Hybrid Search / Reranking\nTool Integration\nMCP / Function Calling / Tool Calling / REST API\nModel Optimization\nSFT / LoRA / QLoRA / Prompt Optimization\nBackend\nPython / FastAPI\nDatabase\nFAISS / Chroma / Qdrant 등\nDeployment\nCloud / Private Cloud / Local / On-Premise\n특정 프레임워크를 먼저 결정한 뒤 억지로 적용하지 않습니다.\n업무 목적, 데이터, 예산, 보안 및 운영환경을 기준으로 기술을 선정합니다.\n\n[본 서비스의 차이점]\n1. AI 공학박사 책임 PM\n모든 프로젝트의 핵심 기술 방향을 AI 공학박사가 직접 검토하고 관리합니다.\n요구사항을 그대로 개발하는 것에 그치지 않고 문제 정의 → 기술 검토 → 아키텍처 → 개발 → 평가의 흐름으로 프로젝트를 진행합니다.\n2. AI Agent와 RAG를 함께 설계합니다\nAgent만 개발한다고 업무자동화가 완성되지는 않습니다.\n기업의 실제 업무에서는 데이터 + 검색 + LLM + Tool + Workflow가 함께 작동해야 합니다.\n해피AI는 각 요소를 별도로 구현하는 것이 아니라 하나의 업무 시스템으로 연결합니다.\n3. PoC에서 실제 운영까지 고려합니다\n단순 시연용 Demo가 필요한지, 실제 사용자가 사용하는 MVP가 필요한지, 운영환경까지 연결해야 하는지를 구분하여 개발합니다.\n불필요한 개발 범위를 줄이고 현재 단계에 필요한 수준부터 시작할 수 있습니다.\n4. 자체 AI 솔루션 개발 경험\n\nDocuNOVA\n기업 및 기관 문서를 활용하는 문서 검색·분석 기반 AI 솔루션\nTexNova\n텍스트마이닝과 LLM을 결합한 텍스트·빅데이터 분석 플랫폼\n자체 서비스 개발 경험을 고객 프로젝트의 설계와 구현에 반영합니다.\n\n[주요 수행 경험]\n\n한국전력기술: 기관 맞춤형 Private LLM 개발\nKB국민은행 관련 프로젝트: LangGraph 기반 AI Agent PoC 기술컨설팅\n서울디지털재단: LLM Fine-Tuning 관련 연구 및 교육\n소프트웨어정책연구소: LLM·Embedding 기반 SW 기업 구조화 체계 개발\n\n[프로젝트 진행 절차]\nSTEP 01. 사전 상담\n현재 업무, 문제점, 원하는 결과를 확인합니다.\nSTEP 02. 요구사항 분석\n보유 데이터, 기존 시스템, 사용자 및 업무 흐름을 검토합니다.\nSTEP 03. 기술 설계\nLLM·RAG·Agent·MCP·API 등 필요한 기술을 선정하고 아키텍처를 설계합니다.\nSTEP 04. 개발 및 PoC\n핵심 기능부터 구현하여 실제 데이터로 테스트합니다.\nSTEP 05. 중간 피드백\n개발 결과를 공유하고 필요한 사항을 조정합니다.\nSTEP 06. 평가 및 개선\nAgent 실행 결과와 오류를 분석하여 품질을 개선합니다.\nSTEP 07. 최종 납품\n소스코드와 협의된 결과물을 전달합니다.\nSTEP 08. 인수인계\n실행 방법과 운영에 필요한 내용을 안내합니다.\n\n[제공 결과물]\n계약 범위에 따라 다음 결과물을 제공합니다.\n- AI Agent 소스코드\n- RAG Pipeline\n- Agent Workflow\n- Prompt 및 설정파일\n- API\n- MCP 연동 코드\n- 데이터 처리 코드\n- 실행 가능한 Prototype\n- Web UI\n- 테스트 결과\n- 성능평가 자료\n- 실행환경 가이드\n- 기술문서\n- 인수인계 자료\n정확한 산출물은 프로젝트 착수 전에 협의하여 확정합니다.\n\n[기업 소개 및 관련 자료]\n기업소개서\nhttps://bit.ly/3N3gb19\n관련 언론보도\nhttps://www.psnews.co.kr/news/articleView.html?idxno=2053914",
+    "service_process": "1.사전상담\n- 고객님께서 원하시는 생성AI 모델의 설명 및 요구사항을 확인합니다.\n\n2.작업일 협의 및 프로젝트 착수\n- 작업 일정과 기간을 협의하고 프로젝트에 착수합니다.\n\n3.분석진행\n-생성AI 모델 개발 도중 의뢰인과의 피드백이 이루어 지며 이 과정에서 의뢰인의 요구사항을 받아들여 모델이 개발됩니다.\n\n- 최종결과물을 제작 후 피드백을 거칩니다.\n\n4.피드백 및 최종결과물 제출\n- 수정사항 반영 후 최종결과물로 제출합니다.",
+    "buyer_preparation": "- 구현하고자 하는 생성AI 모델 기능에 대한 구체적인 설명이 있을수록 개발진행이 용이합니다.",
+    "revision_policy": "-수정은 기본적으로 1회까지 진행되며 3회이상부터는 추가 비용이 발생합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "AI Agent PoC",
+        "price": 400000,
+        "description": "아이디어 또는 핵심 업무의\nAI Agent 적용 가능성을 빠르게 확인합니다.",
+        "working_days": 4,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "RAG + Agent 업무자동화",
+        "price": 2500000,
+        "description": "기업 데이터를 활용하는\n실제 업무형 AI Agent를 구현합니다.",
+        "working_days": 8,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": " 맞춤형 AI Agent 구축",
+        "price": 5000000,
+        "description": "복수의 시스템과 업무 단계가 연결되는\n기업용 AI Agent를 구축합니다.",
+        "working_days": 12,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 806868,
+    "ranking_order": 5,
+    "title": "저사양 comfyUI 워크플로우 주문 제작",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/806868",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "컴공디자인전공생",
+    "seller_grade": "NEW",
+    "seller_id": 4978716,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 1,
+    "rating_score": 2.7,
+    "weighted_score": 2.7,
+    "base_price": 25000,
+    "description": "안녕하세요, 컴퓨터정보공학 전공자로 ComfyUI 기반 AI 이미지/영상 생성 파이프라인을 직접 구축하고 최적화해온 경험을 바탕으로 서비스를 제공합니다.\n\n이런 분들께 추천드려요\n\nVRAM 부족으로 로컬 AI 이미지 생성을 포기하신 분\nComfyUI 처음 설치했는데 뭐부터 만져야 할지 막막하신 분\n특정 캐릭터/화풍을 반복 생성해야 하는 크리에이터\n유료 클라우드 서비스 대신 내 컴퓨터로 돌리고 싶으신 분\n\n제공 내용\n\n현재 하드웨어 스펙 진단 후 최적 세팅 제안\n목적에 맞는 커스텀 워크플로우 제작 (캐릭터 일관성, 배경 합성, 업스케일링 등)\n사용법 가이드 제공 (원하시면 영상 가이드 옵션 추가 가능)\n\n다른 대행 서비스와 다른 점\n\n단순히 이미지를 대신 생성해드리는 게 아니라, 직접 돌릴 수 있는 워크플로우 자체를 드립니다. 한 번 받으시면 계속 활용 가능해요.",
+    "service_process": "Gumroad/civitai에 워크플로우 상품 올리는 기준으로 비대면 절차 정리할게.\n\n서비스 제공 절차 (완전 비대면형)\n\n1단계 — 워크플로우 제작 (1회성 작업)\n\n판매할 워크플로우 주제 선정 (예: 저사양 GPU용 캐릭터 일관성 생성, 배경 합성 자동화 등)\nComfyUI에서 워크플로우 구축 및 테스트\n다양한 스펙(8GB/12GB/16GB VRAM)에서 정상 작동하는지 검증\n\n2단계 — 상품 패키징\n\n워크플로우 파일(.json) 정리\n사용 설명서 작성 (설치 방법, 노드 구성 설명, 커스텀 파라미터 안내)\n결과물 예시 이미지/영상 준비 (썸네일 및 상세페이지용)\n필요한 커스텀 노드/모델 목록 별도 명시 (사용자가 직접 설치하도록)\n\n3단계 — 플랫폼 업로드\n\nGumroad 또는 civitai에 상품 등록\n가격 설정 (1회 다운로드형, 예: 5천원~2만원대)\n상세페이지에 Before/After 비교 이미지, 사용 후기 자리 마련\n\n4단계 — 자동 판매 & 전달\n\n구매 즉시 자동으로 파일 다운로드 링크 제공 (플랫폼이 자동 처리, 직접 응대 불필요)\n결제~전달까지 전 과정 자동화\n\n5단계 — 사후 관리 (최소한의 개입)\n\nFAQ 페이지 미리 만들어서 반복 질문 차단 (설치 안 될 때 대처법 등)\n업데이트 필요 시 기존 구매자에게 새 버전 파일만 교체 업로드 (개별 대응 없이)\n문의는 이메일로만 받고 응답 주기 정해서 배치 처리 (예: 주 1회 몰아서 답장)",
+    "buyer_preparation": "1. 하드웨어\n\nGPU: 최소 VRAM 6GB 이상 (권장 8GB~) — 워크플로우별로 최소 스펙 명시\n저장 공간: 모델 파일 포함 최소 20GB 이상 여유 공간\nOS: Windows 10/11 또는 Linux (Mac은 별도 안내)\n\n2. 사전 설치 프로그램\n\nComfyUI 본체 설치 완료 상태 (설치 안 됐다면 공식 가이드 링크 첨부)\nPython 환경 세팅 완료\nGit 설치 (커스텀 노드 다운로드용)\n\n3. 필요 모델/커스텀 노드\n\n워크플로우에 필요한 체크포인트/LoRA 모델 목록과 다운로드 링크\n커스텀 노드 목록 (ComfyUI Manager로 설치 가능하도록 안내)\n용량 큰 모델은 미리 받아두도록 사전 고지 (다운로드 시간 감안)\n\n4. 기본 지식\n\nComfyUI 기본 인터페이스 조작법 (노드 연결, 파라미터 수정 정도는 알고 있어야 함)\n완전 입문자는 별도로 \"입문자용 가이드 포함\" 옵션 안내\n\n5. 구매 후 확인사항\n\n다운로드한 .json 파일 import 방법\n에러 발생 시 자가진단 체크리스트 (FAQ 링크 연결)\n그래도 해결 안 되면 이메일 문의 (응답 주기 명시)",
+    "revision_policy": "읿반적인 워크플로우에 대하여 수정 가능 그리고 간단한 as 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본",
+        "price": 25000,
+        "description": "기존 워크플로우 저사양 최적화",
+        "working_days": 3,
+        "revision_count": 0
+      },
+      "DELUXE": {
+        "title": "고급",
+        "price": 60000,
+        "description": "목적별 커스텀 워크플로우 신규 제작",
+        "working_days": 3,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "최고급",
+        "price": 120000,
+        "description": "커스텀 제작 + 사용법 영상 + 1주일 A/S",
+        "working_days": 3,
+        "revision_count": 4
+      }
+    }
+  },
+  {
+    "gigId": 773865,
+    "ranking_order": 6,
+    "title": "ChatGPT 업무 자동화 맞춤 프롬프트 제작",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/773865",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "조용한손",
+    "seller_grade": "LEVEL1",
+    "seller_id": 4138452,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 3,
+    "rating_score": 5.0,
+    "weighted_score": 15.0,
+    "base_price": 12000,
+    "description": "[서비스 설명]\n\nChatGPT, 써봤는데 원하는 답이 안 나왔죠?\n\n질문 방식이 달라지면 결과가 완전히 바뀝니다.\n\n저는 당신 상황에 맞게, 바로 복붙해서 쓸 수 있는 문장을 만들어드립니다.\n\n[이런 분께 추천합니다]\n\nChatGPT 깔았는데 3번 써보고 포기한 분\n\n프롬프트 검색해서 써봤는데 내 상황이랑 달라서 결과가 별로였던 분\n\n매번 ChatGPT한테 같은 설명 반복하는 게 귀찮은 분\n\n[제공 내용]\n\nSTANDARD — [현재 오픈 기념 한정가 운영 중 — 정가 20,000원 → 12,000원]\n\n반복하는 작업 하나만 알려주세요. 뭘 어떻게 물어봐야 할지 몰라도 괜찮습니다.\n\n이력서 첨삭, 이메일/보고 문서 초안, SNS 캡션, 아침 루틴 체크리스트 등 — 목적만 던지시면 그 작업 전용 프롬프트로 정리해서 만들어드립니다.\n\n한 번 만들어두면 매번 설명 안 하고 복붙만 하면 끝.\n\nDELUXE — 업무 하나로 안 끝나는 분들을 위한 패키지입니다.\n\n지금 반복하는 상황을 5가지 떠올려보세요. 자소서·이메일·보고서 같은 업무부터 미라클모닝 체크리스트 같은 일상 루틴까지, 패턴이 다른 상황도 한 세트로 커버합니다.\n\n상황별로 골라 쓰는 프롬프트 5종을 만들어드리니, 업무든 일상이든 이 중 하나로 대응 가능합니다.\n\n스탠다드보다 넓은 범위가 필요하신 분께 추천합니다.\n\nPREMIUM — ChatGPT를 아예 당신의 하루 루틴에 붙이고 싶은 분을 위한 풀 패키지입니다.\n\n업무 자동화 프롬프트부터 아침 루틴·습관 관리 같은 개인 루틴까지, 프롬프트 7종 제작은 물론 언제 어떤 프롬프트를 어떻게 쓸지 흐름까지 설계해드립니다.\n\n\"프롬프트만 받고 어떻게 쓸지는 알아서\"가 아니라, 하루/일주일 루틴에 어떻게 넣을지까지 세팅 끝난 상태로 드립니다.\n\n업무와 일상 반복 작업을 통째로 자동화 흐름으로 만들고 싶은 분께 맞는 등급입니다.\n\n[실제 구매자 후기]\n\n\"필요한 거 말했더니 군더더기 없이 바로 해결. ChatGPT 어떻게 써야 할지 몰랐는데 그냥 복붙하니까 되더라고요\"\n\n\"어디서 시작해야 할지 몰랐는데 제 상황에 맞게 골라줬어요. 바로 실행할 수 있게 해줘서 좋았어요\"",
+    "service_process": "[서비스 제공 절차]\n\n현재 상황/목적 파악 (질문지 또는 채팅)\n\n맞춤 프롬프트 제작\n\n복붙용 파일 + 사용 가이드 전달\n\n수정 요청 반영 후 최종 납품",
+    "buyer_preparation": "ChatGPT로 해결하고 싶은 것을 간단히 적어주세요.\n(예: 이메일 작성, 공부 정리, 블로그 글쓰기, 업무 보고서,\n스마트스토어·쿠팡 상세페이지 문구, 제품 소개글, SNS 마케팅 캡션 등)\n구체적일수록 딱 맞는 프롬프트를 만들어 드릴 수 있습니다.",
+    "revision_policy": "납품 후 내용 오류나 요청사항 누락에 한해 수정 가능합니다. 단순 변심이나 방향 전환은 수정 범위에 포함되지 않습니다. 재진행이 필요한 경우 별도 협의 후 진행합니다.",
+    "ai_tools": [],
+    "tech_level": "초급:소스분석 / 수정",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "초급:소스분석 / 수정"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본 프롬프트 패키지",
+        "price": 12000,
+        "description": "매번 설명 안 해도 되는 나만의 ChatGPT 프롬프트, 오픈특가로 지금 만들어드립니다",
+        "working_days": 3,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "프롬프트 확장 패키지",
+        "price": 40000,
+        "description": "업무든 일상이든, 반복되는 상황 5가지 골라 전용 프롬프트 세트로 만들어드립니다",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "업무 자동화 풀 패키지",
+        "price": 70000,
+        "description": "프롬프트 7종 제작에 언제 어떻게 쓸지 흐름 설계까지, 루틴 통째로 세팅해드립니다",
+        "working_days": 7,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 774862,
+    "ranking_order": 7,
+    "title": "AI모델/데이터 시각화 개발 해 드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/774862",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "클로미",
+    "seller_grade": "LEVEL1",
+    "seller_id": 5075829,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 25000,
+    "description": "단순한 데이터 분석, 시각화부터 AI, 자연어, 딥러닝 훈련작업, 모두 가능합니다.\n과제도 해드립니다.\n\n분류나 예측처럼 모델 학습은 DELUXE에서 다룹니다. 모델 아키텍처는 제가 직접 문제에 맞는 구조를 고민해서 설계합니다. 더 높은 성능이 필요하다면 PREMIUM에서 유전 알고리즘 기반 튜닝과 다중 모델 비교까지 진행합니다.\n\n이력\n해외 대학 졸업 및 해외 AI 논문 발표\n대학 내 연구 경험\n\n결과물은 C, 파이썬, Java, Jupyter Notebook 등 다양한 언어나 파일로 드리고, 보고서나 모델 파일이 필요하면 함께 작성해드립니다. 패키지가 딱 맞지 않는 경우엔 채팅으로 먼저 얘기해 주세요.",
+    "service_process": "1. 쪽지와 상담으로 프로젝트 범위/기간/비용을 설정합니다\n2. 코드 설계 후 검토\n3. (Deluxe/Premium) 학습 및 하이퍼파라미터 튜닝\n4. 최종 결과물 (시각화 자료, 모델, 코드) 전달",
+    "buyer_preparation": "작업 시작 전 아래 내용을 준비해 주시면 빠르게 진행할 수 있습니다.\n - 작업 기간: 프로젝트 기한이 필요합니다.\n - 데이터 파일: CSV, Excel, JSON 등 사용 가능한 형식으로 제공해 주세요\n - 작업 목표: 어떤 결과를 원하시는지 간단히 설명해 주세요\n데이터나 목표가 아직 불분명하더라도 채팅으로 먼저 얘기해 주시면 같이 정리해드릴 수 있습니다.",
+    "revision_policy": "수정은 최초 납품 범위 내 조정에 한합니다. ML 모델의 경우 기본적인 하이퍼파라미터 튜닝이 포함되기에 재학습 요청은 수정 1회로 처리됩니다. 범위 변경은 별도 문의 주세요.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "데이터 인사이트",
+        "price": 25000,
+        "description": "- EDA\n- 시각화\n- 이상치 탐지\n- 기본 전처리 후 분석 보고서 납품",
+        "working_days": 1,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "예측, 분류 모델",
+        "price": 30000,
+        "description": "- STANDARD 포함\n- ML/DL 모델 설계·학습\n- 기본 하이퍼파라미터 튜닝\n- 학습 결과 보고서",
+        "working_days": 1,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": " 정밀 최적화 모델",
+        "price": 31000,
+        "description": "- DELUXE 포함\n- 유전 알고리즘 기반 하이퍼파라미터 튜닝\n- 다중 모델 비교 및 최적 모델 선정",
+        "working_days": 1,
+        "revision_count": 4
+      }
+    }
+  },
+  {
+    "gigId": 554149,
+    "ranking_order": 8,
+    "title": "퇴근을 앞당기는 AI 자동화",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/554149",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": true,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "챔석",
+    "seller_grade": "NEW",
+    "seller_id": 3072159,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 15,
+    "rating_score": 4.8,
+    "weighted_score": 72.0,
+    "base_price": 5000,
+    "description": "[소개] \n\"단순한 분석을 넘어, 비즈니스를 움직이는 AI 솔루션을 설계합니다.\"\n안녕하세요. 9년 차 데이터 사이언티스트로서 데이터 추출부터 고도화된 AI 자동화 모델링까지, 비즈니스 가치를 창출하는 전 과정을 직접 리드해 왔습니다. 2년간의 기술 창업 운영 경험과 7년간의 대기업 데이터 랩 근무 경력을 통해, 고객의 비즈니스 언어를 기술적인 정답으로 변환하는 데 최적화되어 있습니다.\n\n구현 가능 여부를 넘어, 실제 현업에서 '작동'하고 '돈이 되는' 결과물을 약속드립니다. (상세 내용은 포트폴리오를 참고해 주세요.)\n\n!! 단순 과제나 논문 대행은 받지 않습니다. \n\n[이력]\n- (현) 서울대학교 AI 대학원 석사 과정\n- (현) 대기업 Data Lab 근무\n- (전) 스타트업 창업 주식회사 찌읏 대표\n- 연세대학교 컴퓨터과학 졸업\n- 추천 큐레이션 시스템 개발 및 관련 특허 취득\n\n[가능 업무]\n단순 반복 업무부터 복잡한 의사결정 프로세스까지, 사람의 개입이 필요 없는 지능형 자동화를 구축합니다.\n- Agentic AI & Custom Chatbot: 단순 응답을 넘어 스스로 도구를 사용하고 문제를 해결하는 '자율형 에이전트' 및 챗봇 개발\n- Algorithm Optimization: 현업 로직에 최적화된 알고리즘 설계를 통한 업무 프로세스 혁신\n- End-to-End Data Pipeline: 데이터 수집(크롤링)부터 분석, 인터랙티브 시각화, 자동 보고서 생성까지 한 번에 연결\n- Multi-Modal AI Modeling: 이미지/자연어/음성/시계열 등 도메인 제약 없는 고성능 딥러닝 모델 개발 및 배포",
+    "service_process": "1. 문의 주신 내용을 바탕으로 업무 방향/목표 설정\n2. 최종 결과물 및 작업 비용 컨펌\n3. 작업 진행. (중간 보고 및 의사소통 지속적으로)\n4. 작업물 전달 및 필요 시 수정 작업 진행\n5. 작업 완료 및 비용 처리",
+    "buyer_preparation": "1. 프로젝트와 데이터에 대한 자세한 설명이 필요합니다\n2. 마감 기한과 기타 요구사항이 있으면 추가로 말씀해주세요",
+    "revision_policy": "기존 협의한 내용 내에서는 수정 가능합니다.\n추가 요청의 경우 협의 필요합니다",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "편하게 1:1 문의 주세요",
+        "price": 5000,
+        "description": "감사합니다.",
+        "working_days": 1,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 394327,
+    "ranking_order": 9,
+    "title": "머신러닝/딥러닝 모든 프로젝트 진행해드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/394327",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "부승이",
+    "seller_grade": "NEW",
+    "seller_id": 1200047,
+    "seller_intro": "",
+    "avg_response_time": "3시간 이내",
+    "review_count": 68,
+    "rating_score": 4.9,
+    "weighted_score": 333.2,
+    "base_price": 10000,
+    "description": "머신러닝/ 딥러닝 분야를 공부중인 대학교 4학년 학부생입니다.\n전문가의 수준은 아니기에 간단한 프로젝트 위주로 받고 있습니다.\n그렇기에 저렴한 가격으로 진행하니 부담없이 문의 주세요!",
+    "service_process": "1. 프로젝트 설명\n2. 예상기간 및 금액 조율\n3. 프로젝트 진행\n4. 소비자가 결과물 검토\n5. 수정사항 있을시 수정",
+    "buyer_preparation": "1. 원하는 프로젝트 내용\n2. 마감기한\n3. 희망금액\n4. 원하는 언어 및 프레임워크(있을시)",
+    "revision_policy": "결과물 전송 후 수정사항 있을 시 무료수정가능",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "C",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "머신러닝 / 딥러닝 프로젝트",
+        "price": 10000,
+        "description": "- 데이터 전처리 (수집)\n- 모델 구현\n- 성능평가",
+        "working_days": 10,
+        "revision_count": 5
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 702785,
+    "ranking_order": 10,
+    "title": "Matlab 알고리즘 및 자동화 구현",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/702785",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "MATLAB코딩",
+    "seller_grade": "NEW",
+    "seller_id": 1855449,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 2,
+    "rating_score": 5.0,
+    "weighted_score": 10.0,
+    "base_price": 20000,
+    "description": "-- 논문을 보고 구현하고 싶은 알고리즘이 있으실 때\n--아이디어는 있으나 구현이 꺼려지실때\n-- 평소 진행하는 반복 작업을 한꺼번에 처리하고 싶으실 때\n\n모든 Matlab 코딩과 관련한 의뢰 가능합니다.\n\n코드 의뢰를 통해 달성하고 싶으신 목표를 저에게 자세히 말씀해주시기만 하면\n\n원하시는 방향대로 Matlab 코드를 구현해드리겠습니다.",
+    "service_process": "1. 상담 신청\n2.본 전문가와 상담\n- 원하는 코드 목표\n- 구체적인 알고리즘이 있다면 알고리즘 소개\n(없다면 제가 알고리즘 구상)\n- 원하시는 코드의 결과물 형식\n3. 최종 가격 및 기간 협의\n4. 의뢰인 수락 후 서비스 시작\n5. 의뢰 작업 완료\n6. 의뢰인과 코드 및 결과 검토 (실시간 원하시면 화상회의 가능합니다.)\n7. 서비스 종료",
+    "buyer_preparation": "1. 구체적인 코드의 목표 \n2. 구현하고자 하는 알고리즘에 대한 설명\n(만약 목표만 있고 구체적인 알고리즘 방안이 없다면 알고리즘은 전문가가 구상)\n3. 원하시는 코드 결과 형식\n4. 마감 기한",
+    "revision_policy": "원하시는 결과가 나올때까지 수정 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "Matlab 알고리즘 및 자동화 구현",
+        "price": 20000,
+        "description": "1. Matlab으로 알고리즘/아이디어 구현\n2. 반복된 작업 자동화 스크립트 구현",
+        "working_days": 4,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 453912,
+    "ranking_order": 11,
+    "title": "머신러닝/딥러닝/AI 간단한 프로젝트 도와드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/453912",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "동리",
+    "seller_grade": "NEW",
+    "seller_id": 2596422,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 52,
+    "rating_score": 4.9,
+    "weighted_score": 254.8,
+    "base_price": 25000,
+    "description": "머신러닝, 딥러닝 입문자 분들이나 간단한 프로젝트 구현 중 어려움을 겪고 계신 분들께 적합한 서비스입니다.\n\n-머신러닝/ 딥러닝 간단한 프로젝트(파이토치, 텐서플로우 모두 가능합니다.)\n-머신러닝/딥러닝 문제 풀이 및 설명\n-컴퓨터 비전(이미지) 프로젝트\n-시각화\n-기초 라이브러리가 필요한 프로젝트\n-코드 수정, 분석\n-프로젝트 상담\n\n등등 공부하시다가 어려운 부분 편하게 문의주세요!\n\n결제 먼저 진행하지 마시고 그 전에  문의 주세요!! 원하시는 기간 내에 진행할 수 있는 프로젝트인지 확인이 필요합니다.\n\n프로젝트 규모와 원하시는 마감 기한에 따라 추가 가격이 발생할 수 있습니다.",
+    "service_process": "1. 상담 및 가격 협의\n원하시는 내용을 최대한 자세히 말씀해주세요. \n\n2. 개발\n\n3. 전달\n\n4. 수정",
+    "buyer_preparation": "원하시는 내용을 최대한 자세히 말씀해주세요.\n\n관련 자료가 있다면 함께 첨부해주세요.\n\n필요한 데이터는 함께 보내주시거나, 데이터셋 이름을 말해주세요.\n(원하는 데이터가 없으실경우 추가 금액이 발생합니다.)",
+    "revision_policy": "최초 1회는 무상 수정 가능합니다.\n예) 사용된 문법 외 다른 문법으로 변경, 라이브러리 변경 등\n\n그러나 전혀 새로운 기능 등 최초 의뢰 내용과 무관한 요구는 불가능합니다.\n예) 전혀 새로운 기능, 함수 요구 등\n\n시기: 작업물 발송일 기준 24시간 안에 수정 가능, 단, 구매확정후에는 불가능\n범위: 수정 범위는 의뢰인과 상의하에 변경 가능\n횟수: 무상 수정 1회\n비용: 무상 수정 이후의 추가 수정은 추가금 필요",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "머신러닝, 딥러닝 간단한 프로젝트",
+        "price": 25000,
+        "description": "-머신러닝, 딥러닝 기초 이론을 사용한 코드\n-솔루션 제시\n-코드 분석 및 설명\n-시각화",
+        "working_days": 4,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 588758,
+    "ranking_order": 12,
+    "title": "서울대 공학박사가 개발하는 임베디드 AI",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/588758",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "라이언앤더랩",
+    "seller_grade": "NEW",
+    "seller_id": 848191,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 3,
+    "rating_score": 5.0,
+    "weighted_score": 15.0,
+    "base_price": 11000000,
+    "description": "# 경력\nAI 스타트업 경력 7년\n서울대 임베디드 연구실 박사 출신\n개인 프로젝트 다수\n\n임베디드 AI 연구를 회사 및 박사과정을 통해 많이 진행해왔습니다.\n귀하의 연구 및 사업을 업계 최고 수준으로 기술 서포트해드립니다. (기획, 연구, 개발 모두 가능합니다.)",
+    "service_process": "상담 > 견적 > 진행 > 피드백 > 완료\n\n본질에 집중하실 수 있도록, 기술 최고책임자 역할을 수행합니다.",
+    "buyer_preparation": "기획서가 있으면 좋고, 아이디어만으로도 미팅 가능합니다.\n\n프레임워크 선정, 하드웨어 선정, 데이터 파이프라인 설계, 딥러닝 모델 선정, 최적화 등\n최선을 다하여 도와드립니다.",
+    "revision_policy": "논의된 범위에 대하여 최대 3회 무상 지원\n기간 내의 최선의 결과를 내도록 작업합니다.\n\n챌린징한 목표 성능이 있는 경우 최고 수준 최적화 옵션을 추가하시면 해당 부분 논의 후 결정할 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "C",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "[AI R&D] CTO or 개발용역",
+        "price": 11000000,
+        "description": "임베디드, 클라우드 AI 관련 기술 R&D.\n필요한 기술 및 시스템 기획 및 개발 지원",
+        "working_days": 30,
+        "revision_count": 3
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 630734,
+    "ranking_order": 13,
+    "title": "AI 전문가가 제공하는 맞춤형 머신러닝 모델 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/630734",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "Oguson",
+    "seller_grade": "NEW",
+    "seller_id": 2316496,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 2,
+    "rating_score": 5.0,
+    "weighted_score": 10.0,
+    "base_price": 100000,
+    "description": "AI와 머신러닝을 사랑하는 현직 AI 연구원으로, \n지난 4년간 다양한 산업에서 인공지능 기술을 활용한 프로젝트를 성공적으로 수행해 왔습니다.\n\n저는 이런 일을 합니다!\n특히, 컴퓨터 비전(Computer Vision)과 머신러닝 모델 설계에 강점을 가지고 있으며, \nPython을 기반으로 한 End-to-End AI 솔루션을 제공합니다.\n\n쉽게 말해, 데이터를 분석하고 인공지능 기술로 문제를 해결하며, 이를 실무에 적용할 수 있도록 도와드립니다.\n\n어떤 도움을 드릴 수 있나요?\n데이터 분석부터 머신러닝/딥러닝 모델 설계까지 여러분이 가진 어려운 문제나 새로운 아이디어를 AI 기술로 실현해 드립니다!\n\n조금 더 저를 소개하자면...\n\n다수의 AI 논문 저술, 5건 이상의 특허 출원, 다양한 산업의 AI 프로젝트를 통해 얻은 현장 실무 능력\n\n저는 복잡하고 까다로운 문제를 만나는 것을 좋아합니다. 함께 고민하고, AI로 풀어가는 재미를 나누고 싶습니다! \n\n편하게 문의해 주세요!\n어떤 프로젝트든, 어떤 질문이든 환영합니다.\n\"이런 것도 가능할까?\"라는 생각이 든다면, 바로 메시지를 보내주세요! \n여러분의 아이디어를 현실로 만들어 드리겠습니다.",
+    "service_process": "1. 함께 이야기하며 문제 파악하기 (요구사항 상담 및 데이터 분석)\n\n고객님과 함께 해결하고자 하는 문제와 목표를 구체적으로 정리합니다.\n데이터를 살펴보며, 필요한 부분을 확인하고 프로젝트의 방향을 확실히 잡습니다.\n\"어떤 결과물이 가장 필요하신가요?\"와 같은 질문으로 고객님의 니즈를 깊이 이해합니다.\n\n2. 맞춤형 모델 만들기 (모델 설계 및 구현)\n\n고객님의 문제에 딱 맞는 머신러닝/딥러닝 모델을 설계합니다.\n데이터를 정리하고, 필요한 전처리 과정을 거쳐 최고의 결과를 낼 수 있는 기반을 만듭니다.\n초기 모델을 학습시키고, 잠재력을 확인해봅니다.\n\n3. 모델 성능 꼼꼼히 살피고 개선하기 (성능 검증 및 최적화)\n\n학습된 모델이 얼마나 잘 작동하는지 꼼꼼히 점검합니다.\n성능을 더욱 높이기 위해 최적화 작업을 진행하며, \"정확도, 속도, 효율\"까지 신경 씁니다.\n중간 결과를 공유하며, 고객님의 의견을 반영해 더 나은 방향으로 발전시킵니다.\n\n4. 결과물 드리고 적용 도와드리기 (결과물 제공 및 API 배포 지원)\n최종 완성된 모델과 함께 코드, 문서, 사용 가이드를 드립니다.\n요청하시면 FastAPI를 이용해 모델을 REST API 형태로 배포해 드립니다. (비용이 추가될 수도 있습니다.)\n실무 환경에서 모델이 바로 사용될 수 있도록 필요한 모든 도움을 제공합니다.\n\n고객님과의 협력을 최우선으로!\n\n작업 진행 중 언제든 편하게 의견을 주고받을 수 있도록 소통을 중요하게 생각합니다.\n완성된 결과물이 고객님의 실무에서 바로 사용 가능하도록 실질적인 도움을 드립니다.",
+    "buyer_preparation": "서비스를 원활히 제공하기 위해 아래 사항들을 준비해 주시면 더욱 빠르고 정확한 작업이 가능합니다:\n\n1. 데이터 준비\n\n데이터 파일: 분석에 필요한 데이터셋 (CSV, Excel, JSON 등)\n\n데이터 정보: 각 데이터의 열(Column)과 행(Row)의 의미와 설명\n\n데이터 상태:\n결측값 여부, 데이터의 정확성\n데이터 샘플이 준비되어 있지 않을 경우, 수집 및 클리닝 서비스가 추가될 수 있습니다.\n\n2. 프로젝트 목적 및 목표 정의\n\n명확한 목표:\n해결하고자 하는 문제점\n기대하는 결과물의 형태 (예: 예측 모델, 객체 탐지 시스템 등)\n\n사용 목적:\n실무 적용, 연구, 혹은 프로토타입 제작\n\n3. 참고자료 및 요구사항\n\n유사 프로젝트 사례: 참고 가능한 프로젝트나 사례 자료\n\n기술적 요구사항:\n필요한 기술 스택 (예: TensorFlow, PyTorch 등)\n배포 환경 (예: API 형태, 로컬/클라우드 배포 등)\n\n4. 예산 및 일정\n\n예산: 예상 가능한 비용 범위\n\n일정: 결과물을 필요로 하는 기한\n\n5. 추가 요청사항\n\n모델 성능 지표: 원하는 모델 평가 기준 (예: 정확도, 정밀도 등)\n\n결과물 형태:\n코드, 문서화된 리포트, 실행 가능한 파일 등\n\n배포 환경 준비: API 배포 시 서버 환경 또는 클라우드 계정 정보 (AWS, GCP 등)\n\n위 사항들을 사전에 준비해 주시면 서비스가 더욱 효율적으로 진행될 수 있습니다. \n없으셔도 무방하오니, 많은 상담 부탁드립니다.\n준비 과정에서 어려움이 있거나 추가 설명이 필요하면 상담 중 자세히 안내해 드리겠습니다.",
+    "revision_policy": "무상 수정 안내\n무상 수정 횟수: 결과물 전달 후 일주일 내 1회 가능합니다!\n\n포함 범위:\n작은 내용 수정 (예: 파라미터 조정, 간단한 데이터 변경 등)\n결과물의 정확성 보완 및 가벼운 수정 요청\n\n추가 수정 안내\n무상 수정 1회를 초과하거나 추가 작업이 필요한 경우 아래 기준으로 진행됩니다:\n\n추가 수정 비용: 50,000원부터 (작업 내용에 따라 협의)\n새로운 데이터 분석, 기능 추가 등 대규모 작업은 별도 견적을 드립니다.\n\n수정 요청 가이드\n요청 내용을 구체적으로 작성해주세요!\n\"이 부분을 이렇게 바꿔주세요!\"처럼 명확하게 설명해 주시면 빠르게 진행할 수 있습니다.\n편하게 연락 주세요!\n메시지를 통해 언제든 요청하시면 바로 확인 후 작업을 시작하겠습니다.\n\n추가 안내\n수정 요청은 결과물 전달 후 7일 이내에만 가능합니다.\n더 큰 수정이나 새로운 작업은 추가 상담 후 최적의 방향으로 진행해 드릴게요!",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "React"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch",
+          "TensorFlow"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Amazon EC2"
+        ],
+        "title": "클라우드"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "고객 맞춤형 AI모델 개발",
+        "price": 100000,
+        "description": "여러분이 상상하시는 아이디어를 현실로 만들어드립니다.\n모든 AI 모델 구축 가능합니다.",
+        "working_days": 7,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 734468,
+    "ranking_order": 14,
+    "title": "Seg 등 다양한 이미지 처리 AI 모델링 전문가",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/734468",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "kiteday",
+    "seller_grade": "NEW",
+    "seller_id": 4822701,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 100000,
+    "description": "안녕하세요. AI 이미지 처리 전문가 kiteday입니다.\n저는 대학원을 거치며 데이터 수집 정제 모델 설계, 학습, 오픈소스 활용 등 AI에 대한 전반적 업무를 수행한 경험이 있습니다.\n\n요청에 맞는 데이터 수집 (크롤링 등), 전처리, AI 학습 등 다양한 일을 해드립니다.\n\n가격 및 작업 기간은 프로젝트 크기에 따라서 협의하려고 하니 부담없이 문의 주세요.",
+    "service_process": "의뢰가 시작되면 의뢰인이 원하는 일에 대해 기간, 가격 등을 서로 조율하는 과정을 거칩니다.\n \n추후 1차 결과물(코드 등)과 가이드라인을 제시해드립니다.\n\n각 task 별로 개별 결제가 필요합니다.",
+    "buyer_preparation": "어떤 개발을 의뢰하고 싶은 지에 대한 요구사항이 필요합니다.\n\n각 요구사항별로 (개발 단위별로) 의뢰가 필요합니다.\n\n성능 평가 결과는 주로 논문에서 자주 사용하는 metric 중 최대 3가지에 대한 결과를 뽑아드립니다. (옵션)",
+    "revision_policy": "기본적으로 최초 제시에 완성도 높은 결과물을 드리지만 최대 2회까지 무료로 수정할 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "프로젝트에 따라 작업 기간 등 협의",
+        "price": 100000,
+        "description": "AI 모델링, 데이터 분석 등 전반적인 모델 학습에 관한 일들을 해드립니다.\n가격협의 가능",
+        "working_days": 1,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 743897,
+    "ranking_order": 15,
+    "title": "머신러닝 딥러닝 모델링 및 AI 시스템 구축",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/743897",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "김카피바라",
+    "seller_grade": "NEW",
+    "seller_id": 2023092,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 50000,
+    "description": "- 서강대 인공지능 대학원 석사\n- 대기업 게임 회사와 중견기업 에듀 테크에서 AI 엔지니어로 근무\n- 이미지, 자연어, 추천 시스템 등 대부분의 도메인 경험\n- 친절 상담\n\n편하게 연락주세요 : )",
+    "service_process": "- 요구사항/현황 파악(목표, 현재 시스템, 제약사항, 온라인) \n- 작업 범위/일정/산출물 합의\n- 개발 및 중간 공유(테스트/데모)\n- 납품(소스코드 + 실행방법 + 문서)\n- 안정화/간단한 Q&A 지원",
+    "buyer_preparation": "- 명확한 요구사항\n- (Option) 데이터셋\n\n데이터셋을 가지고 있지 않은 경우 데이터 수집에 대해 상담해드립니다.\n데이터 수집을 위임할 경우, 추가 비용이 발생할 수 있습니다.",
+    "revision_policy": "모델 설계 및 튜닝에 대해 수정 및 재진행 가능합니다 : )",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "머신러닝, 딥러닝, AI",
+        "price": 50000,
+        "description": "머신러닝 및 딥러닝, AI 구축",
+        "working_days": 14,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 764927,
+    "ranking_order": 16,
+    "title": "이론+실무형 공학박사. 오픈소스 한계 해결 원천기술구현",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/764927",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "네시에",
+    "seller_grade": "NEW",
+    "seller_id": 5017321,
+    "seller_intro": "",
+    "avg_response_time": "아직 몰라요",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 165000,
+    "description": "\"수식은 읽는 것이 아니라 코드로 증명하는 것입니다. 오픈소스의 한계를 넘는 공학 박사의 원천 설계 솔루션을 경험하십시오.\"\n\n1. 소개\n\n안녕하세요, 이론과 실무를 겸비한 공학 박사 '네시에' 입니다.\n저는 지난 수십 년 간 학교, 연구소, 기업 등 최적의 알고리즘과 코드가 필요한 곳에서 물리학적 통찰을 바탕으로 복잡한 공학 수식을 최적화된 코드로 구현해 온 전문가입니다. 단순히 시중의 라이브러리를 조합하는 수준을 넘어, 프로젝트의 본질을 꿰뚫는 원천 알고리즘을 바닥부터 설계합니다.\n\n주요 학력 및 경력: 연구소 및 기업에서 근무한 현장 경험과 다수의 대학 강의 경력을 보유한 공학 박사\n전문 분야: 컴퓨터 비전, 메타버스, 증강현실, AI, 실시간 볼류메트리, 물리 시뮬레이션, 수리 모델링\n핵심 역량: 로우레벨 시스템 최적화, C++, 병렬처리\n\n2. 이런 분들께 추천합니다\n\n오픈소스나 기존 라이브러리만으로는 성능(속도, 정밀도) 한계에 부딪힌 분\n복잡한 논문이나 수식을 실제 구동 가능한 고성능 코드로 변환해야 하는 분\n기성 솔루션이 없는 독자적인 기술 개발이 필요한 기업 및 연구소\n상용화 수준의 최적화와 안정적인 시스템 아키텍처 설계가 필요한 분\n\n3. 제공 서비스 범위\n\n원천 알고리즘 설계: 물리 법칙 및 수학 모델 기반 커스텀 알고리즘 개발\nAI 서비스 모델링: AI를 이용한 서비스 모델 구축 및 솔루션 제공\n자율주행 & HD Map: 센서 융합, 고정밀 지도 정합\n정밀 캘리브레이션: 멀티 카메라 및 센서 융합을 위한 독자적 정렬 알고리즘\n3D 비젼: 실시간 볼류메트리 데이터 처리 및 증강현실 구현\n기타 모든 소프트웨어 분야\n\n4. 작업 프로세스\n\n기술 상담: 고객의 요구사항 및 기술적 난제 분석\n이론 검토: 수리 모델링 및 알고리즘 설계안 수립\n프로토타입 구현: 핵심 로직 구현 및 성능 검증\n최적화 및 통합: 로우레벨 최적화 및 전체 시스템 구축\n검수 및 인도: 결과물 확인 및 기술 문서 제공",
+    "service_process": "1. 사전 기술 상담\n  ㅇ 현재 겪고 있는 기술적 난제와 목표 성능(속도, 정밀도 등)을 확인합니다.\n\n2. 이론 검토 및 설계안 수립\n  ㅇ 수리 모델링을 바탕으로 한 알고리즘 설계 방향과 최적화 전략을 제안합니다.\n\n3. 맞춤형 견적 발급\n  ㅇ 작업 범위와 난이도에 따른 최종 비용 및 일정을 확정하고 진행합니다.\n\n4. 핵심 알고리즘 구현 및 최적화\n  ㅇ 문제 해결을 위한 알고리즘을 구현하고 로우레벨 최적화를 수행합니다.\n\n5. 검증 및 결과물 전달\n  ㅇ 데이터 테스트를 통해 성능을 검증하고, 코드와 함께 필요한 경우 기술 문서를 전달합니다.\n\n6. 사후 지원 (Support):\n  ㅇ 환경 구축 및 코드 통합 과정에서 발생하는 기술적 문의에 대응합니다.",
+    "buyer_preparation": "1. 문제 정의서\n  ㅇ 해결하고자 하는 기술적 문제나 구현하고 싶은 논문, 혹은 현재 오픈소스의 한계점(병목 구간 등)을 구체적으로 알려주세요.\n\n2. 입력 데이터 및 운영 환경 정보\n  ㅇ 테스트에 필요한 샘플 데이터와 대상 플랫폼, 하드웨어 사양을 공유해 주세요.\n\n3. 목표 성능 수치\n  ㅇ 희망하는 처리 속도, 오차 범위 등 정량적인 목표치가 있다면 명시해 주세요.\n\n4. 기존 소스코드(필요한 경우)\n  ㅇ 기존에 사용하던 오픈소스나 코드가 있다면, 분석 및 개선을 위해 공유가 필요할 수 있습니다.\n\n※ 구체적인 문서가 없더라도 괜찮습니다. 아이디어 단계라면 상담을 통해 기술적 실현 가능성부터 함께 짚어 드립니다.\n\n※ 상담 후 본 프로젝트 착수 시, 상담 비용은 전체 금액에서 차감해 드립니다.\n\n※ 아래 표기된 \"가격 정보\"는 예시입니다. 모든 프로젝트는 난도와 투입 시간에 따라 '맞춤 견적'으로 진행됩니다. 결재 전 반드시 문의 부탁드립니다.",
+    "revision_policy": "1. 무상 수정 범위\n\n  ㅇ 작업 완료 후 전달된 결과물에서 발생한 오류나 설계 명세와의 불일치는 횟수 제한 없이 무상으로 수정해 드립니다.\n\n  ㅇ 사전에 합의된 데이터셋에서 목표로 한 성능 지표가 미달될 경우, 이를 보완하는 작업을 무상 지원합니다.\n\n2. 유상 수정 및 재진행 기준\n\n  ㅇ 설계 변경: 사전에 확정된 수리 모델, 물리 법칙, 또는 알고리즘 구조 자체를 변경해야 하는 경우 추가 비용이 발생합니다.\n\n  ㅇ 환경 변화: 작업 시작 후 클라이언트 측의 하드웨어 사양, OS 환경, 혹은 입출력 데이터 규격이 변경되어 전체 로직을 수정해야 하는 경우 재진행으로 간주합니다.\n\n  ㅇ 범위 확장: 최초 협의된 기능 외에 새로운 알고리즘 모듈 추가를 요청하시는 경우 별도의 견적을 산출합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기술 진단 및 상담",
+        "price": 165000,
+        "description": "ㅇ 구현 가능성 및 모델링 검토\nㅇ 현재 문제점 분석 및 방향 제시\nㅇ 화상/음성 상담(1시간 내외)",
+        "working_days": 1,
+        "revision_count": 0
+      },
+      "DELUXE": {
+        "title": "핵심 알고리즘 설계 및 구현",
+        "price": 3300000,
+        "description": "ㅇ 핵심 알고리즘 설계 및 구현\nㅇ 기존 시스템과 연동 API 구현\nㅇ 소스코드 및 결과물 전달",
+        "working_days": 20,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "핵심 알고리즘 설계 및 구현",
+        "price": 11000000,
+        "description": "ㅇ 시스템 전체 아키텍처 설계 및 구현\nㅇ 테스트를 위한 시뮬레이터 제공(필요시)\nㅇ 유지보수를 위한 교육",
+        "working_days": 60,
+        "revision_count": 5
+      }
+    }
+  },
+  {
+    "gigId": 769828,
+    "ranking_order": 17,
+    "title": "센서 데이터 AI 라벨링  AI 모델 제작",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/769828",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "able73",
+    "seller_grade": "NEW",
+    "seller_id": 2245371,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 3000000,
+    "description": "*** 제시한 가격은 최소 가격이며, 변동 될 수 있습니다. 협의 전까지 결재를 하지 말아주세요. ***\n\nSTM32, ESP32, nRF52, 아두이노, 라즈베리파이 등 \n각종 임베디드 관련 제품 개발자입니다.\n\n각종 센서(온도, 습도, 수분, 압력, 심박 등)에서 오는 데이터에 대한 라벨링\n필요시 노이즈 제거 작업, 에러 수정, 에러 발생 수치 삽입 등 라벨링에 필요한 작업을 합니다.\n라벨링된 데이터를 고객으로 받아 AI모델을 제작하거나\n라벨링된 데이터 없다면 라벨링 작업도 해드립니다.\n\n하드웨어나 펌웨어에서 부족한 부분이 있다면 수정도 해드립니다.\n\nAI 모델은 라즈베리파이 환경에서 시험을 합니다.\n1D-CNN, LSTM AI 모델 작업이 가능합니다.\nTensorFlow로 AI 모델을 제작하여 \".tflite\" 출력 파일로 드립니다.\n\n[ 의뢰 전 점검 사항]\n* 데이터가 아예 없는 경우 마리아DB에 적재 작업 가능하며, 비용이 발생합니다.\n* 라벨링 데이터가 없다면 라벨링 가능하며, 비용이 발생합니다.\n* AI 모델은 의뢰자분이 주신 데이터를 기반으로 하므로 추가 디버깅 필요시 비용이 발생합니다.",
+    "service_process": "1. CSV 등의 센서 데이터가 있는지 확인 합니다.\n2. 전처리 방법을 확인합니다.\n3. 제작 가능여부를 확인합니다.\n4. 제작 가능하다면 구매를 요청합니다.\n5. 구매 요청이 완료되면 AI모델 제작 관련 협의된 내용을 토대로 진행합니다.\n6. AI모델 제작되면 산출물을 크몽에 등록합니다.\n7. 의뢰자분이 산출물을 확인하여 승인하면 완료됩니다.",
+    "buyer_preparation": "1. 저장된 센서데이터 여부를 알려주세요. 없다면 DB적재도 가능하니 말씀해 주세요.\n2. CSV등의 데이터를 준비해 주세요. 없다면 제작도 가능하니 말씀해 주세요.\n3. 전처리는 어떻게 할지 말씀해 주세요. 평균, 이동평균 등 필터링을 포함한 필요한 부분을 말씀해 주세요. \n4. 기타 준비한 자료가 있다면 알려주세요.",
+    "revision_policy": "",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MariaDB"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "TensorFlow"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "AI 모델 제작",
+        "price": 3000000,
+        "description": "TensorFlow로 AI 모델을 제작. 제작할 모델의 데이터 여부에 가격이 변동",
+        "working_days": 30,
+        "revision_count": 0
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 697472,
+    "ranking_order": 18,
+    "title": "AI 언어모델 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/697472",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "smilestory",
+    "seller_grade": "LEVEL1",
+    "seller_id": 65542,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 5000000,
+    "description": "실 운영 데이터 기본 AI 언어 모델 개발 서비스\n\n안녕하세요! Wide AI 개발팀입니다.\n저희는 M* D*급 기술력으로 실제 운영되고 있는 AI 시스템을 기반으로 고객님만의 맞춤형 언어 모델을 개발해드립니다.\n\n차별화 포인트:\n200만+ 실제 데이터 처리 경험\n0.089ms 검증된 응답 속도\n42개 언어 실제 서비스 노하우\n99.97% 시스템 안정성 (6개월 기준)\n\n제공 서비스:\n도메인 특화 AI 언어 모델 구축\n실시간 학습 및 최적화 시스템\n관리자 대시보드 및 API 제공\n24/7 기술 지원 및 유지보수\n연구실 프로토타입이 아닌, 실제 비즈니스에서 검증받은 안정적인 AI를 경험해보세요.",
+    "service_process": "1단계: 상담 및 요구사항 분석 (1-2일)\n비즈니스 목표 및 요구사항 상세 파악\n기술적 제약사항 및 환경 분석\n프로젝트 범위 및 일정 확정\n계약서 작성 및 착수금 입금\n\n2단계: 시스템 설계 및 기획 (2-3일)\nAI 모델 아키텍처 설계\n데이터 수집 및 전처리 계획\nUI/UX 설계 및 기술 스택 선정\n개발 일정 및 마일스톤 수립\n\n3단계: 개발 및 학습 (패키지별 상이)\nSTANDARD: 7-10일 집중 개발\nDELUXE: 14-21일 고급 기능 구현\nPREMIUM: 28-42일 엔터프라이즈 구축\n\n4단계: 테스트 및 검증 (2-3일)\n기능 테스트 및 성능 최적화\n사용자 테스트 및 피드백 반영\n보안 검토 및 최종 점검\n\n5단계: 배포 및 교육 (1-2일)\n운영 환경 배포 및 모니터링 설정\n사용자 교육 및 매뉴얼 제공\n정식 서비스 오픈 및 사후 지원 시작",
+    "buyer_preparation": "필수 준비사항:\n명확한 비즈니스 목표 및 요구사항 정의\n기존 시스템 현황 및 연동 필요 사항\n예상 사용자 규모 및 트래픽 정보\n프로젝트 예산 및 일정 계획\n\n기술적 준비사항:\n서버 환경 정보 (AWS, 온프레미스 등)\n기존 데이터베이스 스키마 (연동 시)\nAPI 연동이 필요한 외부 시스템 목록\n보안 요구사항 및 컴플라이언스 정책\n\n비즈니스 준비사항:\n담당자 지정 및 의사결정권자 참여\n테스트 시나리오 및 성공 기준 정의\n운영 조직 및 관리 체계 구축 계획\n장기 로드맵 및 확장 계획\n\n데이터 준비사항 (해당 시):\n학습용 데이터셋 (정제된 형태 권장)\n도메인별 전문 용어 및 규칙 정의\n기존 FAQ, 매뉴얼 등 참고 자료\n품질 기준 및 가이드라인\n\n추가 고려사항:\n다국어 서비스 시 번역 품질 기준\n브랜딩 가이드라인 (UI/UX 적용)\n법적 검토사항 (개인정보, 저작권 등)\n사용자 교육 및 지원 방안",
+    "revision_policy": "기본 수정 범위:\n\n의뢰인 요청사항 변경에 따른 수정 (1회)\n기능 오류 및 버그 수정 (무제한)\n성능 최적화 작업 (기본 범위 내)\n사용자 매뉴얼 및 가이드 업데이트\n\n추가 수정 시:\n\n초기 요구사항 변경으로 인한 대폭 수정\n새로운 기능 추가 요청\nUI/UX 전면 재설계\n추가 언어 지원 요청\n\n재진행 사유:\n\n의뢰인 요구사항 대폭 변경 시\n기술적 제약으로 인한 방향 전환\n외부 환경 변화 (API 변경 등)\n프로젝트 중단 후 재시작\n\n안내사항:\n\n수정 요청은 구체적으로 명시해 주세요\n대규모 변경은 별도 견적 후 진행\n재진행 시 기존 작업물 활용 가능\n추가 비용 발생 시 사전 협의",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "5인 이상 30인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "5인 이상 30인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "React",
+          "Vue.js"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "React Native"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Nginx"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Docker",
+          "Git",
+          "Github",
+          "Jenkins"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "AWS Lambda",
+          "Azure",
+          "AWS"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 908,
+        "meta": [
+          "Jest"
+        ],
+        "title": "테스트"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본 AI 시스템",
+        "price": 5000000,
+        "description": "200만 데이터 24개월 무중단 운영된 검증된 AI 언어 모델을 개발해드립니다",
+        "working_days": 14,
+        "revision_count": 5
+      },
+      "DELUXE": {
+        "title": "고급 멀티모달 AI",
+        "price": 10000000,
+        "description": "200만 데이터 24개월 무중단 운영된 검증된 AI 언어 모델을 개발해드립니다",
+        "working_days": 28,
+        "revision_count": 10
+      },
+      "PREMIUM": {
+        "title": "Wide AI급 생태계",
+        "price": 25000000,
+        "description": "1000만 데이터 처리하는 M* D*급 기술로 완전한 AI 생태계를 구축합니다",
+        "working_days": 56,
+        "revision_count": 15
+      }
+    }
+  },
+  {
+    "gigId": 774860,
+    "ranking_order": 19,
+    "title": "문서 자동 검색 AI 구축 및 서버 설치",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/774860",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "말차시나몬",
+    "seller_grade": "NEW",
+    "seller_id": 723938,
+    "seller_intro": "",
+    "avg_response_time": "아직 몰라요",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 300000,
+    "description": "AI 사내 문서 검색 시스템 구축 서비스\n\n회사 문서, 메뉴얼, PDF, 엑셀 파일을\nAI가 학습하여 직원이 자연어로 검색할 수 있는\n사내 GPT/RAG 시스템을 구축해드립니다.\n\n예시 질문:\n“2025 연차 규정 알려줘”\n“거래처 환불 정책 어디 있어?”\n“입찰 서류 준비 절차 요약해줘”\n“이 장비 오류 대응 방법 알려줘”\n\n복잡한 폴더 검색 없이\nAI에게 질문만 하면 내부 문서를 기반으로 답변합니다.\n\n이런 분들에게 추천합니다\n회사 문서가 여러 폴더에 흩어져 있는 경우\n직원들이 메뉴얼을 자주 물어보는 경우\nPDF 검색이 불편한 경우\n신입 교육 시간이 오래 걸리는 경우\n사내 자료를 GPT처럼 검색하고 싶은 경우\n외부 SaaS 업로드가 불안한 경우\n회사 내부망에서만 운영하고 싶은 경우\n\n제공 기능\n사내 문서 AI 검색\n\nPDF\nDOCX\nXLSX\nTXT\nCSV\n문서를 업로드하면 AI가 학습하여\n질문 기반 검색이 가능합니다.\n\n자연어 검색\n\n검색어를 정확히 몰라도 됩니다.\n\n예:\n“출장비 규정”\n“계약 해지 절차”\n“고객 환불 기준”\n처럼 일반 문장으로 검색 가능합니다.\n\nDocker 기반 설치형 제공\n\n고객 서버/VPS/NAS 환경에 설치 가능합니다.\n\n지원 환경:\nUbuntu\nLinux VPS\nDocker Compose\n사내 서버\n클라우드 서버\n\n외부 서비스에 문서를 업로드하지 않고\n내부 환경에서 운영 가능합니다.\n\n실제 활용 사례\n\n제조업\n장비 메뉴얼 검색\n작업 SOP 검색\n장애 대응 문서 검색\n\n병원 / 의원\n내부 운영 매뉴얼\nCS 응대 문서\n행정 절차 검색\n\n세무 / 노무 / 법무\n법령 자료 검색\n계약 문서 검색\n업무 메뉴얼 검색\n\n쇼핑몰 / CS\n고객 응대 가이드\n환불 정책 검색\n운영 매뉴얼 검색\n\n보안 및 운영\n\n내부 서버 운영 가능\n외부 공개 없이 사용 가능\n문서 데이터 자체 보관 가능\nAPI 키 분리 가능\n사내망 운영 가능 여부 협의 가능\n\n이런 효과를 기대할 수 있습니다\n문서 검색 시간 단축\n반복 문의 감소\n신입 교육 효율 개선\n사내 지식 자산화\n메뉴얼 접근성 향상\n업무 자동화 기반 구축\n\n참고\n\n본 서비스는 단순 챗봇 제작이 아닌\n“회사 문서를 검색하는 AI 시스템 구축” 서비스입니다.\n사내 자료 기반 응답을 중심으로 구성되며,\n일반 GPT와 달리 고객 내부 문서를 기반으로 답변합니다.",
+    "service_process": "서버 환경 확인\nDocker 설치 및 세팅\nAI 검색 시스템 배포\n문서 업로드\nAI 학습 및 인덱싱\n테스트 및 사용 가이드 제공",
+    "buyer_preparation": "작업 전 필요한 정보\n\n사용 예정 서버 환경\n문서 종류(PDF/엑셀 등)\n예상 문서량\nOpenAI 나 Gemini 사용 여부\n내부망 여부\n별도의 도메인",
+    "revision_policy": "개발 범위 내 오류 및 버그 수정\n간단한 UI/문구 변경\n설정값 및 환경설정 변경",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "Microsoft SQL Server",
+          "PostgreSQL",
+          "Redis"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "React"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "NestJS",
+          "Nginx"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Docker"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "AWS"
+        ],
+        "title": "클라우드"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "사내 문서 검색 시스템 구축",
+        "price": 300000,
+        "description": "PDF, Word, 매뉴얼 업로드\n사내 문서 검색\n출처 표시\nGPT/Gemini 연동\n자체 서버",
+        "working_days": 3,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 718211,
+    "ranking_order": 20,
+    "title": "AI 모델링·튜닝·최적화 서비스",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/718211",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "눈높이코딩",
+    "seller_grade": "NEW",
+    "seller_id": 1280183,
+    "seller_intro": "",
+    "avg_response_time": "3시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 150000,
+    "description": "경력\n\nHYOWONTEC Inc. (2025.02 ~ 재직중)\n- RC 파종기 모터 및 실린더 제어를 위한 전장 설계 및 MCU 펌웨어, 모바일 애플리케이션 개발\n- 탄소포집장치 센서 및 구동 모터 제어, 모니터링을 위한 웹 애플리케이션 개발\n- 챗봇 형태 법률문서 검색 AI 서비스 웹 애플리케이션 개발\n- 일정 관리 보조를 위한 AI 비서 서비스 웹 애플리케이션, 모바일 애플리케이션 개발\n\n Deloitte Anjin LLC (2024.02 ~ 2024.12)\n- SQL 기반 데이터 처리 및 AI 솔루션 컨설팅 경험\n- 대형 프로젝트 환경에서 클라이언트 요구사항 분석 및 시스템 설계\n\nBANF (2022.11 ~ 2023.08, Data Scientist)\n- MQTT, Apache Kafka, AWS Lambda 기반 실시간 데이터 수집 및 분석 파이프라인 구축\n- 신호 처리 및 이미지 기반 분류 모델 개발\n- NVIDIA Jetson 활용 엣지 컴퓨팅 환경에서 모델 추론\n- Python GUI 소프트웨어 개발\n\nDataweaver (2021.02 ~ 2022.07, ML Engineer)\n- Docker 기반 ML 모델 배포 (AWS ECS, ECR, Glue, Athena 등 활용)\n- Jetson 기반 객체탐지 시스템 (임베디드 시스템)\n- Python, PyTorch, Hugging Face 모델 활용 서비스 제안\n- 데이터 시각화 환경 구성 (Apache Superset), 백엔드 맟 DB와 연동\n\n학력\n\n석사: 컴퓨터공학 (2019 ~ 2021)\n- DB 예측, IoT, LSTM 기반 시계열 모델링 연구 (MAPE 1.182%)\n- SCI/KCI 논문 7편 이상 게재\n\n학사: 소프트웨어 전공 (2015 ~ 2019)\n- IoT 디바이스, URP 기반 프로젝트 경험\n\n제가 경험한 이력보다는, 다양한 규모의 회사와 분야에서의 업무 경험을 통해 습득한 빠른 적응력과 어떻게든 목표를 달성할 수 있다는 자신감, 그리고 빠르게 실행해서 검증하는 제 성격은 의뢰인님의 요구 목표 달성을 위한 최선이자 최적의 선택임을 자부합니다.",
+    "service_process": "1.\t상담 – 문제 정의, 데이터/목표 확인\n2.\t설계 – 모델 구조 또는 개선 방향 제안\n3.\t개발/튜닝 – 모델 학습, 최적화, 성능 개선\n4.\t중간 검토 – 결과 공유 및 수정 사항 반영\n5.\t최종 전달 – 모델/코드/리포트 제공\n6.\t구매 확정 – 필요 시 후속 설명 제공",
+    "buyer_preparation": "•\t사용 목적(예측/분류/추천/최적화 등)\n•\t보유 데이터 또는 활용 가능 데이터\n•\t현재 사용 중인 모델(있다면)\n•\t목표 성능 또는 개선 기준\n•\t실행 환경(GPU/CPU/서버 등)",
+    "revision_policy": "•\t수정은 작업물 전달 후~구매 확정 전까지 가능합니다.\n\t•\t무상 수정은 패키지별 제공된 횟수 내에서만 가능합니다.\n\t•\t레이아웃 변경 수준의 구조 변경, 모델 아키텍처 전면 교체, 데이터 변경 등은 추가 비용이 발생할 수 있습니다.\n\t•\t명확한 요구사항 미반영이나 발생 오류는 무상 수정 범위에 포함됩니다.\n\t•\t데이터 자체의 문제(품질 부족, 양 부족)는 개선 한계가 있을 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Airflow",
+          "Elasticsearch",
+          "Kafka",
+          "Keras",
+          "MLflow",
+          "Pytorch",
+          "Spark",
+          "Superset",
+          "Tableau",
+          "TensorFlow",
+          "Zeppelin",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본 모델링 설계",
+        "price": 150000,
+        "description": "요구사항 기반 간단 모델 설계 및 기본 정확도 확보",
+        "working_days": 3,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "모델 튜닝·하이퍼파라미터 개선",
+        "price": 350000,
+        "description": "기존 모델의 성능 향상 및 최적화 중심 작업 제공",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "고급 모델링 + 경량화 패키지",
+        "price": 700000,
+        "description": "모델링, 튜닝, 경량화까지 올인원 제작 및 성능 극대화",
+        "working_days": 7,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 780648,
+    "ranking_order": 21,
+    "title": "AI 딥러닝 예측 모델 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/780648",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "medistic",
+    "seller_grade": "NEW",
+    "seller_id": 5104622,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 9000,
+    "description": "딥러닝 예측 모델 제작부터 딥러닝 모델 학습까지, 비즈니스와 연구에 필요한 맞춤형 AI 솔루션을 구축합니다.\n\n단순한 크롤링을 넘어 금융 및 시계열 데이터의 전처리를 통해 더욱 안정적인 학습이 가능한 모델을 제작합니다. \n\nPyTorch 기반의 최적화된 인공지능 모델(LSTM 등)을 설계하며, 빈번하게 발생하는 VRAM OOM 에러 없이 안정적으로 학습할 수 있는 완벽한 환경을 제공합니다. \n\n또한 앞으로의 학습 방향성과 하이퍼 파라미터 조정, 기초적인 학습까지 완료한 모델을 전달해 드립니다.",
+    "service_process": "1단계\n상담 및 방향 설정:\n 어떤 데이터를 모아서 무엇을 예측하고 싶으신지 편하게 말씀해 주세요. 현재 상황에서 가장 현실적이고 효율적인 AI 방향을 제안해 드립니다.\n2단계\n데이터 수집 및 정리\n AI가 잘 똑똑하게 학습할 수 있도록, 여기저기 흩어진 데이터를 자동으로 모으고 불필요한 쓰레기값들을 깨끗하게 정리합니다.(DELUXE부터)\n3단계\n맞춤형 AI 모델 제작및 학습\n정리된 데이터를 바탕으로 의뢰인님만의 인공지능 모델을 만들고 훈련시킵니다.\n4단계\n모델 설명 후 피드백 반영 \n모델에 대해 설명드리고, 그에 대한 피드백을 받아 적용시킵니다.\n5단계\n완성본 전달 및 설명\n완성된 소스코드와 함께, 내 컴퓨터에서 어떻게 실행하고 활용하면 되는지 알기 쉽게 안내해 드립니다.",
+    "buyer_preparation": "AI모델의 목적은 어떻게 되시나요?:\n거창한 설명보다는 \"어떤 결과\"를 얻고 싶은지 한 줄로 말씀해 주시면 됩니다.\n\n컴퓨터 사양은 어떻게 되시나요?:\n돌리실 컴퓨터의 사양에 따라서 모델의 사이즈와 무게가 정해집니다.\n\n데이터는 어떻게 가지고 계신가요? :\n현재 데이터가 어떤 상태인지 알려주시면, 제가 수집부터 해야 할지 분석부터 할지 작업 범위를 정할 수 있습니다.\n\n'이런 부분은 포함했으면 좋겠다.' 하는게 있으신가요?:\n이 부분은 반드시 포함했으면 좋겠다 하시는게 있으면 말씀해 주세요.\n\n완성된 결과물을 어떻게 사용하실 건가요?:\n코드를 받아서 직접 실행하실 건지, 결과만 받아보실 건지 알려주세요. \n\n*위 내용 중 1번(목표)만 확실하시다면, 나머지는 잘 모르셔도 괜찮습니다. 편하게 문의주시면 저와 함께 대화하며 방향을 찾아가면 됩니다!",
+    "revision_policy": "아래와 같은 경우에는 무상 수정이 2회에 한해서 가능합니다.\n1.결과물 출력 양식(UI/텍스트)의 변경\n\n2.하이퍼 파라미터의 조정\n\n3.사전에 합의된 요구사항 명세서 내에서 코드가 정상적으로 작동하지 않는 경우 수정횟수 포함 x",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "HTML",
+          "C",
+          "C++",
+          "SQL"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "Oracle",
+          "MongoDB"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Amazon API"
+        ],
+        "title": "클라우드"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "AI모델 제작",
+        "price": 9000,
+        "description": "맞춤형 AI모델을 제작",
+        "working_days": 2,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "AI모델 제작및 학습",
+        "price": 139000,
+        "description": "맞춤형 AI모델을 제작\n\n기초적인 학습과, 앞으로 어떻게 학습시킬지에 대한 솔루션",
+        "working_days": 7,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "다목적 AI제작",
+        "price": 500000,
+        "description": "맞춤형 AI모델을 제작\n\n기초적인 학습과, 앞으로 어떻게 학습시킬지에 대한 솔루션\n\n다목적 AI제작 및 통합",
+        "working_days": 15,
+        "revision_count": 5
+      }
+    }
+  },
+  {
+    "gigId": 786392,
+    "ranking_order": 22,
+    "title": "12년차 삼성전자 출신 엔지니어의 AI 모델 최적화",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/786392",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "청년머스크",
+    "seller_grade": "NEW",
+    "seller_id": 1100383,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 19000,
+    "description": "한 번쯤은 경험해 보셨을 것입니다. AI 모델 개발을 의뢰했지만, 외주 업체가 잠수를 타거나 예상치 못한 추가비용이 발생해 난감했던 적이 있었죠. 이러한 고민은 AI 프로젝트를 진행하는 많은 대표님들이 공통적으로 겪는 어려움입니다. 그러나 청년머스크는 다릅니다. 대표님이 안심하고 맡기실 수 있도록, 투명하고 명확한 과정을 통해 신뢰할 수 있는 서비스를 제공합니다.\n\n이런 분께 맞습니다\n\n- AI 모델 개발을 처음 시도하는 스타트업 대표님\n- 기존 모델의 성능 개선이 필요한 기업\n- 머신러닝 및 딥러닝 프로젝트를 계획 중인 연구소\n- 예산 내에서 최적의 성과를 원하시는 중소기업\n- AI 모델의 정확도와 효율성 향상을 고민하는 개발팀\n- 다양한 언어와 문화를 지원하는 글로벌 비즈니스\n- 안정적인 유지보수와 지속적인 관리가 필요한 고객\n- 최신 기술 트렌드를 반영한 AI 솔루션을 찾는 기업\n\n무엇을 해드리나요\n\n디자인\n\n우리는 단순히 기능적인 AI 모델을 제공하는 것에 그치지 않습니다. AI 모델이 효과적으로 기능할 수 있도록 직관적이고 사용자 친화적인 디자인을 제안합니다. 이를 통해 최종 사용자가 쉽게 접근하고 활용할 수 있는 환경을 조성합니다.\n\n반응형 설계\n\n다양한 디바이스와 화면 크기에 최적화된 반응형 설계를 통해, 어느 환경에서도 일관된 성능을 발휘할 수 있도록 합니다. 이는 사용자의 경험을 더욱 풍성하게 하고, AI 모델의 접근성을 더욱 높여 줍니다.\n\n게시판 및 관리자 시스템\n\n효율적인 데이터 관리 및 커뮤니케이션을 위한 게시판 및 관리자 시스템을 제공합니다. 이를 통해 프로젝트의 진행 상황을 쉽게 추적하고, 의사소통과 협업을 더욱 원활하게 할 수 있습니다.\n\n회원 관리 및 예약 시스템\n\n복잡한 회원 관리와 예약 시스템을 간소화하여, 대표님의 시간과 노력을 절약할 수 있도록 돕습니다. 이는 특히 서비스 기반의 AI 솔루션을 운영하는 경우 매우 유용합니다.\n\n결제 및 SEO 솔루션\n\nAI 솔루션과 함께 결제 시스템을 통합하여, 매출 관리를 더 쉽게 할 수 있도록 합니다. 또한, 최신 SEO 전략을 적용하여, 온라인에서의 가시성을 높이고 더 많은 고객에게 다가갈 수 있도록 지원합니다.\n\n청년머스크가 다른 이유\n\n직접 작업\n\n청년머스크는 모든 프로젝트를 직접 관리하고 작업합니다. 그러므로 대표님께서 안심하고 맡기실 수 있으며, 원하는 결과를 얻을 수 있도록 최선을 다합니다.\n\n중간 과정 공유\n\n진행 상황을 중간 공유하여, 대표님의 의견을 반영하고 필요한 경우 빠른 수정이 가능합니다. 이는 프로젝트의 성공률을 높이는 중요한 요소입니다.\n\n단납기\n\n빠르게 변화하는 시장 상황에 맞춰 단납기로 대응합니다. 하지만, 급한 속도로 인해 품질이 저하되지 않도록, 철저한 검토와 테스트를 거칩니다.\n\n24시간 상담\n\n주말과 야간에도 메시지를 확인하여, 대표님께서 언제든지 필요한 지원을 받을 수 있도록 최선을 다합니다.\n\n안심하고 맡기셔도 됩니다\n\n시안 및 샘플 선확인\n\n작업 전 시안과 샘플을 선확인하여, 대표님께서 원하는 방향으로 프로젝트가 진행될 수 있도록 합니다. 이를 통해 불필요한 수정과 불만을 줄일 수 있습니다.\n\n무상 A/S 및 지속적인 관계\n\n납품 후에도 A/S 기간 내에 발견되는 오류에 대해 무상으로 대응합니다. 또한, 납품 후에도 지속적인 파트너십을 통해, 대표님의 비즈니스를 성장시킬 수 있도록 지원합니다.\n\n이런 경우에도 가능합니다\n\n리뉴얼\n\n기존 AI 모델을 업그레이드하여, 최신 요구 사항에 맞춰 성능을 개선합니다.\n\n다국어 지원\n\n글로벌 시장을 목표로 하는 경우, 다양한 언어로 AI 솔루션을 지원하여, 더 많은 고객에게 접근할 수 있도록 돕습니다.\n\n업종별 맞춤형 솔루션\n\n특정 업종에 최적화된 AI 솔루션을 제공하여, 대표님의 비즈니스 니즈를 충족시키고 경쟁력을 강화합니다.\n\n결제 전 상담을 권장합니다\n\n대표님께서 안심하고 서비스를 이용하실 수 있도록, 결제 전 부담 없이 채팅 상담을 통해 궁금한 점을 해결하세요. 청년머스크는 항상 대표님의 편에서 최선을 다합니다.",
+    "service_process": "서비스 제공 절차\n\n1. 사전 상담 및 요구사항 파악\n\n대표님과의 첫 만남에서는 원하시는 AI 모델의 방향을 명확히 이해하기 위해 자세한 상담을 진행합니다. 이 과정에서 대표님의 비전과 기대를 면밀히 파악하여 최적의 솔루션을 제안합니다.\n\n2. 프로젝트 계획 및 일정 협의\n\n상담 후, 프로젝트의 전체 일정과 세부 계획을 협의합니다. 대표님의 시간표에 맞춰 단납기로 진행할 수 있도록 최선을 다하겠습니다.\n\n3. 프로토타입 개발\n\n초기 단계에서는 대표님의 요구를 반영한 프로토타입을 개발합니다. 이 프로토타입을 통해 모델의 기본 기능과 구조를 시각적으로 확인할 수 있습니다.\n\n4. 중간 결과물 공유 및 피드백\n\n개발 진행 중간에 PC 및 모바일 시안을 통해 작업 현황을 공유하고, 대표님의 피드백을 적극 반영하여 보다 완성도 높은 결과물을 위해 노력합니다.\n\n5. 모델 최적화 및 성능 개선\n\n프로토타입을 기반으로 모델의 성능을 최적화하는 단계입니다. 이 과정에서 최신 기술을 적용하여 AI 모델의 효율성을 극대화합니다.\n\n6. 최종 결과물 완성 및 제출\n\n모든 피드백과 요구사항을 반영하여 최종 결과물을 완성하고, 대표님께 전달드립니다. 이때 사용 방법에 대한 안내도 함께 제공됩니다.\n\n7. 배포 및 사용 안내\n\n완성된 AI 모델의 배포 및 설치 과정을 지원하며, 대표님께서 원활하게 사용하는 데 필요한 모든 안내를 드립니다.\n\n8. A/S 및 추가 지원\n\n서비스 이후에도 문제 발생 시, 빠른 A/S를 통해 지속적인 지원을 약속드립니다. 필요에 따라 추가 기능 개발이나 성능 개선도 논의 가능합니다.\n\n9. 최종 확인 및 만족도 조사\n\n모든 과정이 마무리된 후, 대표님의 만족도를 확인하고, 더 나은 서비스를 제공하기 위한 피드백을 받습니다.",
+    "buyer_preparation": "AI 모델 개발 및 최적화 의뢰 준비사항\n\n프로젝트 개요 설명\n\n대표님께서 구상 중이신 생성 AI 모델의 기능과 비전에 대해 구체적으로 설명해 주시면 청년머스크가 더욱 정확하게 프로젝트를 이해하고 진행할 수 있습니다. 구체적인 설명이 있을수록 개발이 용이하지만, 아직 확신이 서지 않으신 부분은 상담을 통해 함께 정리해 드리겠습니다.\n\n데이터 제공 및 데이터셋 정보\n\n- 사용할 데이터를 함께 보내주시거나 데이터셋 이름을 알려주세요. \n- 데이터가 없는 경우 추가 작업이 필요할 수 있으니, 이 부분은 상담을 통해 조율 가능합니다. \n- 데이터의 종류와 양에 대한 정보도 부탁드립니다. 이 정보가 작업 방향을 결정하는 데 있어 큰 도움이 됩니다.\n\n필요한 시스템 환경\n\n빠른 응답속도와 최적의 성능을 위해 고사양의 GPU가 필요합니다. 만약 해당 환경이 준비되지 않으셨다면, 대안도 함께 논의해 볼 수 있습니다. 효율적인 시스템 환경은 모델 성능에 직접적인 영향을 미칩니다.\n\n원하는 작업 방향 및 알고리즘\n\n- 적용하고자 하는 알고리즘이나 방향성이 있으시다면 말씀해 주세요. \n- 아직 방향을 결정하지 못하셨다면, 청년머스크가 함께 고민하고 최적의 솔루션을 제안해 드립니다.\n\n예산 및 기한\n\n- 예상하고 계신 예산이 있다면 알려주세요. \n- 희망하는 작업 기한도 함께 말씀해 주시면 단납기로 맞춰드릴 수 있도록 최선을 다하겠습니다.\n\n기타 자료 및 참고 사항\n\n- 프로젝트와 관련된 자료가 있다면 첨부해 주세요. \n- 참고할 만한 사례나 문서가 있다면 작업에 큰 도움이 됩니다.\n이 외에도 궁금하신 사항이나 논의가 필요한 부분이 있다면 언제든지 문의해 주세요. 청년머스크는 대표님의 성공적인 프로젝트 완수를 위해 함께 하겠습니다.",
+    "revision_policy": "작업 완료 후 패키지 기준 수정 횟수 내에서 무상으로 수정해 드리며 추가 수정은 협의 후 진행합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "C#",
+          "C",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Flutter",
+          "Swift"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "Tableau",
+          "TensorFlow",
+          "Zeppelin",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Docker compose",
+          "Git",
+          "Github",
+          "Github Action"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Azure"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 908,
+        "meta": [
+          "Selenium"
+        ],
+        "title": "테스트"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "간단 모델 데모 · 코드 자문",
+        "price": 19000,
+        "description": "간단한 분류·예측 모델을 데모 수준으로 만들어 보여드리거나, 기존 코드·모델의 오류·성능을 자문하는 초저가 ",
+        "working_days": 9,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "모델 개발 + 튜닝 + 성능 개선",
+        "price": 200000,
+        "description": "데이터 전처리부터 모델 설계, 하이퍼파라미터 튜닝, 성능 개선까지 모듈 단위로 진행합니다. 성능 목표는 데이",
+        "working_days": 3,
+        "revision_count": 1
+      },
+      "PREMIUM": {
+        "title": "데이터~배포 파이프라인 구축",
+        "price": 500000,
+        "description": "데이터 수집·전처리부터 모델 개발, 검증, 배포용 파이프라인까지 프로젝트 단위로 구축합니다. 규모에 따라 상",
+        "working_days": 7,
+        "revision_count": 2
+      }
+    }
+  },
+  {
+    "gigId": 797375,
+    "ranking_order": 23,
+    "title": "엣지 디바이스 AI 모델 경량화 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/797375",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "FillGaps",
+    "seller_grade": "NEW",
+    "seller_id": 3734753,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 3000000,
+    "description": "서비스 소개학습은 끝났는데 현장 기기에 올리면 느리거나 아예 안 도는 경우가 많습니다. PC에서 돌던 모델을 현장 장비에서 실시간으로 돌아가게 줄이고 맞춥니다.\n이런 결과물을 드립니다・ 목표 장비에서 도는 경량화 모델 (양자화, 가지치기, 구조 조정)\n・ 장비별 실행 형식 변환과 최적화 적용\n・ 변경 전후 정확도와 속도 비교 측정표\n・ 카메라·센서 입력부터 결과 출력까지 이어지는 실행 코드\n・ 재현 가능한 변환 절차와 인수 문서\n이런 분께 맞습니다연구 단계 모델을 제품에 넣어야 하는 팀에 맞습니다. 서버로 영상을 보내지 않고 현장에서 바로 판단해야 하거나, 장비 사양이 정해져 있어 그 안에 맞춰야 하는 경우에 특히 맞습니다.\n이렇게 진행합니다목표 장비와 필요한 처리 속도, 허용 가능한 정확도 하한을 먼저 정합니다. 그 기준으로 줄여 가며 매 단계 측정값을 남깁니다. 기준을 못 맞추면 구조를 바꾸는 쪽까지 검토합니다.\n참고 경험열화상과 일반 카메라를 함께 쓰는 화재 탐지 시스템, 여러 센서를 묶어 실시간으로 물체를 인식하는 소프트웨어 개발 키트, 낙상을 감지하는 시스템을 현장 장비에서 돌 수 있는 형태로 만들었습니다.\n원격으로 진행하며 상주는 어렵습니다.",
+    "service_process": "서비스 제공 절차1단계: 기준 확인구매자: 현재 모델과 목표 장비, 필요한 처리 속도, 허용 가능한 정확도 하한을 알려 주세요.\n전문가: 현재 성능을 측정해 기준선을 잡고 달성 가능 범위를 정리합니다.\n2단계: 경량화 적용전문가: 양자화와 가지치기를 단계별로 적용하며 매번 정확도와 속도를 기록합니다.\n3단계: 장비 최적화전문가: 목표 장비의 실행 형식으로 변환하고 가속 설정을 맞춥니다.\n구매자: 실장비 또는 접속 환경을 준비해 주세요.\n4단계: 실행 연결전문가: 카메라·센서 입력부터 결과 출력까지 이어지는 실행 코드를 정리합니다.\n5단계: 검증과 인도전문가: 변경 전후 비교표와 재현 절차, 소스, 인수 문서를 전달합니다.\n구매자: 내용을 확인한 뒤 구매 확정을 진행해 주세요.",
+    "buyer_preparation": "의뢰인 준비사항・ 현재 모델 파일과 학습에 쓴 프레임워크 정보\n・ 목표 장비 정보 (보드 종류, 메모리, 가속기 유무)\n・ 필요한 처리 속도와 허용 가능한 정확도 하한\n・ 검증에 쓸 수 있는 데이터 일부 (없으면 없음으로 적어 주세요)\n・ 실장비 대여 또는 원격 접속 가능 여부",
+    "revision_policy": "수정은 결과물 발송 후 구매 확정 전까지 패키지에 적힌 횟수 안에서 가능합니다. 설정값 조정과 측정 조건 변경이 포함됩니다. 목표 장비를 바꾸거나 모델을 새로 학습하는 작업은 범위를 다시 잡아 별도 협의합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "TypeScript",
+          "Node.js",
+          "Dart"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "PostgreSQL",
+          "SQLite"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "Next.js",
+          "React",
+          "Socket.io",
+          "Tailwind CSS"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Flutter",
+          "React Native"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Nginx",
+          "Socket.io"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Docker"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "AWS"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 909,
+        "meta": [
+          "BLE"
+        ],
+        "title": "기타·소프트웨어"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "단일 모델·단일 장비 경량화",
+        "price": 3000000,
+        "description": "양자화 또는 가지치기 1종 적용, 목표 장비 실행 형식 변환, 전후 성능 비교표",
+        "working_days": 20,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "경량화 적용 일괄",
+        "price": 7000000,
+        "description": "다중 기법 적용, 장비 실행 형식 변환, 전후 성능 비교표",
+        "working_days": 35,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "실행 파이프라인까지",
+        "price": 12000000,
+        "description": "입력부터 결과 출력까지 실행 코드, 재현 절차, 인수",
+        "working_days": 55,
+        "revision_count": 2
+      }
+    }
+  },
+  {
+    "gigId": 797676,
+    "ranking_order": 24,
+    "title": "AI 캐릭터 이미지 대량생산 파이프라인 구축해 드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/797676",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "RENX",
+    "seller_grade": "NEW",
+    "seller_id": 5216915,
+    "seller_intro": "",
+    "avg_response_time": "아직 몰라요",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 300000,
+    "description": "\"한 장 잘 뽑기\"가 아니라 \"수백 장을 일관되게 뽑는 시스템\"을 만들어 드립니다.\n\n■ 이런 분께 필요합니다\n- AI 인플루언서·버추얼 모델을 운영하려는데 얼굴이 매번 달라지는 분\n- 게임·웹툰·광고용 캐릭터와 배경을 대량으로, 같은 화풍으로 뽑아야 하는 분\n- 로컬 GPU 없이 클라우드에서 이미지 생산 체계를 갖추고 싶은 팀\n\n■ 제공 내용\n1. 캐릭터 파이프라인: 데이터셋 정리 → LoRA 학습 → 얼굴 일관성 워크플로우(2패스 렌더) → 엔진·피드용 규격 출력\n2. 배경 세트: 장소당 마스터 1장 + 구조가 유지되는 아침·낮·저녁·밤 변형 생성\n3. 클라우드 구축: RunPod에 ComfyUI 배포, 모델·노드 세팅, 파이썬 배치 자동화, 운영 문서\n\n■ 실적 (포트폴리오 참조)\n상용 게임 타이틀 1종의 그래픽 전량을 파이프라인으로 전담 공급 중\n- 자동화 스크립트 116종 / 검수 통과 렌더 600장 이상 / 캐릭터 5종 일관성 유지 / 100% 클라우드 GPU\n\n■ 작업 방식\n매일 서면 진행보고 + 화면 녹화 시연. 납품물은 팀이 직접 운영할 수 있게 문서와 함께 드립니다.\n수정은 후하게 드립니다 — 배치 생성이라 재렌더 부담이 적습니다. (합의된 납품 범위 내 조정 기준)\n\n구매 전 메시지로 용도(인플루언서/게임/상품비주얼)와 참고 이미지를 보내주시면 24시간 내 구체적인 계획을 회신드립니다.",
+    "service_process": "1. 상담: 용도와 참고 이미지를 확인하고 작업 범위·일정을 확정합니다.\n2. 세팅: 클라우드(RunPod)에 ComfyUI 환경을 구축하고 모델과 노드를 설치합니다.\n3. 제작: LoRA 학습과 워크플로우 구축 후 샘플을 공유하고 피드백을 반영합니다.\n4. 납품: 완성 파이프라인 + 사용 문서 + 화면 녹화 시연을 전달합니다.\n5. 지원: 패키지별 지원 기간 동안 운영 문제를 대응합니다.",
+    "buyer_preparation": "1. 생성 이미지의 용도(AI 인플루언서/게임/웹툰/상품 등)\n2. 목표 캐릭터·화풍의 참고 이미지 5~20장\n3. RunPod 등 클라우드 GPU 계정 보유 여부(없어도 세팅해 드립니다)\n4. 결과물 사용 플랫폼과 필요한 이미지 규격",
+    "revision_policy": "수정은 후하게 드립니다. 배치 생성 방식이라 재렌더 부담이 적어, 스타일·포즈·세팅 조정 요청을 편하게 하셔도 됩니다. 다만 수정은 합의된 납품 범위 내의 조정을 의미하며, 캐릭터 추가·용도 변경 등 새로운 범위의 작업은 별도 협의 후 진행됩니다. 작업 완료 후 패키지별 지원 기간 내 오류 대응을 해 드립니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "커스텀 워크플로우",
+        "price": 300000,
+        "description": "용도 맞춤 ComfyUI 워크플로우 제작 + 테스트 + 사용 문서 납품",
+        "working_days": 4,
+        "revision_count": 3
+      },
+      "DELUXE": {
+        "title": "캐릭터 파이프라인",
+        "price": 800000,
+        "description": "LoRA 학습 + 일관성 워크플로우 + RunPod 구축 + 문서 + 14일 지원",
+        "working_days": 7,
+        "revision_count": 5
+      },
+      "PREMIUM": {
+        "title": "풀 프로덕션 구축",
+        "price": 1800000,
+        "description": "딜럭스 전체 + 파이썬 배치 자동화 + 운영 매뉴얼 + 30일 지원",
+        "working_days": 14,
+        "revision_count": 10
+      }
+    }
+  },
+  {
+    "gigId": 799967,
+    "ranking_order": 25,
+    "title": "기업 데이터에 맞춘 예측 분류 AI 모델을 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/799967",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "김프로랩",
+    "seller_grade": "LEVEL3",
+    "seller_id": 77926,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 290000,
+    "description": "서비스 설명데이터는 이미 쌓여 있습니다이제 데이터가 판단하게 만드세요고객 이탈 가능성, 상품 수요 변화, 문의 유형, 품질 이상, 장비 고장 위험처럼 담당자가 반복적으로 확인하고 판단하는 업무가 있으신가요?\n보유하고 있는 기업 데이터를 분석하여 업무 목적에 맞는 예측·분류 인공지능 모델을 개발해 드립니다.\n단순히 인공지능 모델을 실행해 보는 데서 끝나지 않습니다.\n데이터 구조 확인부터 전처리, 모델 개발, 성능 검증, 결과 해석, 실제 활용 방법까지 하나의 흐름으로 정리해 전달합니다.\n이런 문제를 해결할 수 있습니다이탈 가능성이 높은 고객을 먼저 확인하고 싶은 경우상품이나 서비스의 수요 변화를 예측하고 싶은 경우고객 문의를 내용별로 자동 분류하고 싶은 경우정상 데이터와 이상 데이터를 구분하고 싶은 경우상품·문서·회원 정보를 자동으로 유형화하고 싶은 경우생산·품질 데이터에서 이상 징후를 찾고 싶은 경우기존 모델의 정확도와 전처리 과정을 개선하고 싶은 경우사내 데이터로 인공지능 적용 가능성을 검토하고 싶은 경우\n사람의 경험에만 의존하던 판단 과정을 데이터 기반의 일관된 기준으로 전환할 수 있도록 설계합니다.\n개발 가능한 모델예측 모델과거 데이터의 패턴을 학습하여 앞으로 발생할 가능성이나 수치 변화를 예측합니다.\n고객 이탈 가능성 예측상품 및 서비스 수요 예측재고 소진 가능성 분석품질 이상 가능성 예측설비 고장 위험 예측업무 처리 기간 예측구매 전환 가능성 예측\n분류 모델입력된 데이터의 특징을 분석하여 정해진 기준에 따라 유형을 자동으로 구분합니다.\n고객 문의 내용 자동 분류고객 유형 및 등급 분류상품 카테고리 자동 분류문서 및 게시물 유형 판별정상·이상 데이터 구분검토 우선순위 분류이미지·텍스트·수치 데이터 분류\n서비스 제공 범위프로젝트 목적에 따라 다음 작업을 선택하여 진행할 수 있습니다.\n데이터 구조 및 품질 점검누락값·중복값·이상값 전처리모델 학습용 데이터 구성주요 변수 및 특징값 설계머신러닝 또는 딥러닝 모델 개발복수 알고리즘 비교모델 설정값 최적화검증 데이터 기반 성능 평가주요 변수 영향도 분석예측 또는 분류 결과 데이터 제공모델 실행 코드 제공결과 해석 및 활용 가이드 제공간단한 테스트 화면 또는 연동 구조 개발\n제공 결과물협의된 패키지에 따라 다음 결과물을 제공합니다.\n전처리 및 분석 코드학습된 모델 파일모델 실행 코드입력 데이터 예시예측·분류 결과 데이터모델 성능 평가 자료주요 변수 영향도 분석결과 해석 가이드모델 사용 안내서간단한 테스트 화면 또는 연동 구조\n결과물을 받은 이후에도 담당자가 모델의 입력 방식과 결과 의미를 이해할 수 있도록 정리해 드립니다.\n모든 기업에 같은 모델을 적용하지 않습니다같은 업종이라도 보유 데이터, 예측 대상, 업무 기준과 사용 환경은 모두 다릅니다.\n유행하는 알고리즘을 무조건 적용하는 것이 아니라 다음 내용을 먼저 확인합니다.\n무엇을 예측하거나 분류해야 하는지데이터가 어떤 구조로 저장되어 있는지어떤 기준으로 결과를 평가해야 하는지실제 업무에서 어떤 형태로 사용할 것인지\n기업의 데이터와 목적에 맞는 모델을 선택하고 불필요한 개발 범위는 줄여드립니다.\n검증되지 않은 성능을 약속하지 않습니다인공지능 모델의 결과는 데이터의 양과 품질, 편향, 변수 구성, 목표 정의 및 실제 운영 환경에 따라 달라질 수 있습니다.\n따라서 데이터 확인 전에 특정 정확도나 결과를 보장하지 않습니다.\n제공된 데이터와 협의된 평가 기준을 바탕으로 결과를 검증하고, 확인된 지표와 한계를 함께 설명해 드립니다.\n다음과 같은 의뢰에는 적합하지 않을 수 있습니다학습에 사용할 데이터가 전혀 없는 경우예측 대상이나 분류 기준이 정해지지 않은 경우데이터 사용 권한이 확보되지 않은 경우검증 없이 특정 정확도를 보장해 달라는 경우불법 수집 데이터의 활용을 요청하는 경우개인정보나 민감정보의 무단 처리를 요청하는 경우개발 범위를 확정하지 않고 무제한 기능을 요청하는 경우\n데이터가 부족하거나 목표가 모호한 경우에는 무리하게 주문을 권하지 않고 먼저 가능한 개발 방향을 안내합니다.\n주문 전 상담이 필요한 서비스입니다정확한 견적과 개발 가능 여부를 확인하려면 아래 내용을 메시지로 전달해 주세요.\n해결하고 싶은 업무 문제예측하거나 분류하려는 대상보유 데이터의 종류대략적인 데이터 수량데이터 샘플 또는 컬럼 정보원하는 결과물 형태사용 예정 환경희망 일정\n데이터 샘플과 목표를 확인한 후 적합한 패키지와 작업 범위를 안내해 드립니다.\n쌓여 있는 데이터를실제 업무에 활용할 수 있는 판단 모델로 전환하세요기업 데이터에 맞는 예측·분류 인공지능 모델 개발, 지금 상담해 주세요.",
+    "service_process": "1단계｜사전 상담 및 목표 정의현재 업무에서 해결하고 싶은 문제와 예측·분류 대상을 확인합니다.\n원하는 결과, 활용 부서, 사용 환경과 필요한 결과물 형태를 함께 정리합니다.\n2단계｜데이터 샘플 확인데이터 파일의 형식, 컬럼 구성, 데이터 수량, 누락값과 품질 상태를 확인합니다.\n샘플 확인 후 실제 모델 개발 가능성과 필요한 전처리 범위를 안내합니다.\n3단계｜개발 범위 확정모델 목표, 평가 지표, 제공 결과물, 작업 일정, 수정 범위를 협의하여 확정합니다.\n범위가 확정된 이후 본 작업을 시작합니다.\n4단계｜데이터 전처리 및 분석누락값, 중복값, 이상값을 정리하고 모델 학습에 필요한 형태로 데이터를 가공합니다.\n주요 변수의 분포와 데이터 패턴도 함께 확인합니다.\n5단계｜모델 개발 및 검증업무 목적에 적합한 알고리즘을 적용하고 여러 모델의 결과를 비교합니다.\n검증 데이터를 이용하여 정확도, 정밀도, 재현율, 평균 오차 등 협의된 지표를 평가합니다.\n6단계｜결과물 전달모델 파일, 실행 코드, 결과 데이터, 평가 자료와 사용 안내서를 전달합니다.\n필요한 경우 실행 방법과 결과 해석 기준을 함께 설명합니다.\n7단계｜수정 및 최종 정리협의된 수정 횟수 안에서 오류와 요청 사항을 반영합니다.\n최종 확인 후 확정된 결과물을 전달합니다.",
+    "buyer_preparation": "필수 준비사항해결하고 싶은 업무 문제예측하거나 분류하려는 대상보유 데이터 파일 또는 샘플각 컬럼의 의미와 데이터 설명원하는 결과물 형태모델을 사용할 예정인 환경희망 일정과 우선순위\n데이터 파일 권장 형식엑셀 파일CSV 파일JSON 파일데이터베이스 추출 파일텍스트 또는 이미지 데이터\n다른 형식의 데이터도 상담 후 확인할 수 있습니다.\n상담 시 함께 알려주세요데이터의 대략적인 행과 열 개수정답값 또는 분류 기준의 존재 여부기존에 사용하던 분석 방식기존 모델이나 코드의 존재 여부외부 시스템 연동 필요 여부보안 또는 비밀유지 요구사항\n의뢰인이 반드시 확인할 사항제공하는 데이터에 대한 적법한 사용 권한이 있어야 합니다.\n주민등록번호, 계좌번호, 의료정보 등 불필요한 개인정보와 민감정보는 제거하거나 비식별 처리 후 전달해 주세요.",
+    "revision_policy": "기본 수정 범위\n\n패키지별 수정 횟수 안에서 다음 사항을 반영합니다.\n\n전달된 결과물의 오류 수정\n협의된 기능의 정상 작동 여부 확인\n결과 표시 방식의 간단한 변경\n코드 실행 과정의 오류 보완\n안내 문서의 설명 보완\n협의된 범위 내 모델 설정값 조정\n\n수정 요청은 가능한 한 한 번에 정리하여 전달해 주세요.\n\n수정에 포함되지 않는 사항\n\n다음 요청은 기존 수정이 아닌 추가 작업으로 분류될 수 있습니다.\n\n최초 협의와 다른 예측 대상 추가\n새로운 분류 기준 추가\n새로운 데이터 파일 또는 컬럼 추가\n데이터 구조의 전체 변경\n모델 종류의 전면 변경\n새로운 화면 또는 기능 추가\n외부 시스템·프로그램 연동 추가\n수작업 데이터 라벨링\n신규 서버 구축 또는 배포\n작업 완료 후 장기간이 지난 뒤의 환경 변경 대응\n\n추가 작업이 필요한 경우 범위와 비용을 먼저 안내한 후 진행합니다.\n\n무료 오류 수정\n\n협의된 작업 범위 안에서 발생한 코드 오류나 누락은 최종 전달 후 7일 이내 확인하여 수정해 드립니다.\n\n다만 다음과 같은 경우에는 무료 오류 수정이 적용되지 않을 수 있습니다.\n\n의뢰인이 원본 코드를 직접 변경한 경우\n실행 환경이나 라이브러리 버전이 변경된 경우\n데이터 구조가 변경된 경우\n외부 서비스의 정책이나 접속 방식이 변경된 경우\n서버 또는 계정 권한 문제가 발생한 경우\n재진행 기준\n\n다음 상황에서는 모델을 다시 학습하거나 프로젝트를 재진행해야 할 수 있습니다.\n\n새로운 데이터가 대량으로 추가된 경우\n예측 또는 분류 목표가 변경된 경우\n기존 데이터의 컬럼 구조가 변경된 경우\n실제 운영 데이터의 특성이 크게 달라진 경우\n새로운 업종이나 서비스에 모델을 적용하는 경우\n\n재학습과 재진행은 기존 프로젝트와 별도의 작업으로 견적을 안내합니다.\n\n작업 시작 후 안내\n\n데이터 분석과 모델 개발이 시작된 이후에는 이미 진행된 작업량에 따라 전체 취소나 범위 변경이 제한될 수 있습니다.\n\n요구사항과 데이터 샘플을 충분히 확인한 후 주문해 주세요.\n\n명확한 목표와 정확한 데이터 설명이 좋은 모델 개발의 출발점입니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "5인 이상 30인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "JSP",
+          "Java",
+          "C#",
+          "TypeScript",
+          "HTML",
+          "C",
+          "C++",
+          "Assembly Language",
+          "AutoIt",
+          "Clojure",
+          "PowerShell",
+          "Rust",
+          "Verilog",
+          "Visual Basic",
+          "Visual Basic .NET",
+          "COBOL",
+          "Prolog",
+          "Haskell"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "Oracle",
+          "PostgreSQL",
+          "Cloud Firestore",
+          "FoxPro",
+          "Cassandra",
+          "Redis",
+          "Splunk",
+          "Ceph",
+          "Couchbase",
+          "HBase",
+          "Neo4j"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "5인 이상 30인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "Bootstrap",
+          "DevExpress",
+          "Ember.js",
+          "Emotion",
+          "Gatsby",
+          "Next.js",
+          "NuxtJS",
+          "OpenGL",
+          "React",
+          "RxJS",
+          "Vue.js"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Bazel",
+          "Cordova",
+          "Dagger",
+          "Electron",
+          "React Native",
+          "Retrofit",
+          "SnapKit",
+          "Xamarin",
+          "Swift",
+          "Adalo",
+          "Appgyver",
+          "Draftbit",
+          "Softr"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          ".NET",
+          "전자정부 표준프레임워크",
+          "Angular",
+          "Apache HTTP Server",
+          "ASP.NET",
+          "Celery",
+          "JPA",
+          "Koa",
+          "Laminas",
+          "Laravel",
+          "NestJS",
+          "Socket.io",
+          "Spring Boot",
+          "Thymeleaf",
+          "Tomcat"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "MATLAB",
+          "Solr",
+          "Spark",
+          "SPSS",
+          "Stata",
+          "Superset",
+          "Tableau",
+          "TensorFlow",
+          "Zeppelin"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Apache JMeter",
+          "Argo CD",
+          "Bitrise",
+          "Helm",
+          "Jaeger",
+          "Jenkins",
+          "Karpenter",
+          "Rancher",
+          "Spinnaker",
+          "Sumologic",
+          "Terraform",
+          "Travis CI",
+          "Zabbix",
+          "Thanos"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Amazon API",
+          "Amazon API Gateway",
+          "Amazon Athena",
+          "Amazon AuroraDB",
+          "Amazon Route 53",
+          "Amazon SNS",
+          "AWS Config",
+          "AWS DevOps",
+          "AWS DMS",
+          "AWS IAM",
+          "AWS WAF",
+          "Elastic Load Balancing",
+          "Amazon CloudFront"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 908,
+        "meta": [
+          "Appium",
+          "Enzyme",
+          "Jest",
+          "Karma",
+          "Mockito",
+          "Selenium",
+          "Sinon",
+          "Sonarqube",
+          "Testing Library"
+        ],
+        "title": "테스트"
+      },
+      {
+        "id": 909,
+        "meta": [
+          "Bluetooth",
+          "Chrome Extension",
+          "Swagger UI",
+          "WebRTC",
+          "Winform",
+          "Zendesk",
+          "Emacs",
+          "Airtable",
+          "Zapier"
+        ],
+        "title": "기타·소프트웨어"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본 AI 모델 개발",
+        "price": 290000,
+        "description": "기업 데이터 1종으로 예측·분류 기본 모델을 개발합니다.",
+        "working_days": 2,
+        "revision_count": 5
+      },
+      "DELUXE": {
+        "title": "맞춤 AI 모델 최적화",
+        "price": 590000,
+        "description": "복수 모델 비교와 최적화, 성능 평가 자료를 제공합니다.",
+        "working_days": 3,
+        "revision_count": 7
+      },
+      "PREMIUM": {
+        "title": "실무 적용 AI 패키지",
+        "price": 990000,
+        "description": "고급 전처리부터 모델 검증·활용 구조까지 완성합니다.",
+        "working_days": 5,
+        "revision_count": 10
+      }
+    }
+  },
+  {
+    "gigId": 804168,
+    "ranking_order": 26,
+    "title": "LLM 부터 딥러닝 / AI 모델 일괄 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/804168",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "EunseokEthanYang",
+    "seller_grade": "NEW",
+    "seller_id": 3039293,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 300000,
+    "description": "LLM부터 딥러닝·AI 모델, 한글 오피스 자동화까지 개발합니다\n\n단순히 공개 모델을 연결하는 작업이 아니라, 의뢰 목적과 데이터 특성에 맞춰 AI 모델의 구조를 설계하고 학습·검증하여 실제 업무에서 사용할 수 있는 결과물로 제공합니다.\n컴퓨터 비전, 시계열·생체신호 분석, 자연어 처리, 멀티모달 AI를 중심으로 데이터 전처리부터 모델 구조 설계, Fine-tuning, 학습, 성능 평가, 추론 코드 및 결과 보고서 작성까지 전체 개발 과정이 가능합니다.\nAI 모델 개발뿐만 아니라 한컴오피스 한글 문서의 생성·편집·서식 적용·데이터 입력을 자동화하고, AI 분석 결과를 한글 보고서로 자동 변환하는 업무 시스템도 구현할 수 있습니다.\n기존 모델의 Fine-tuning뿐 아니라 CNN, Transformer, Cross-Attention 등 필요한 구성요소를 조합한 맞춤형 모델 구조도 설계·구현합니다.\n대규모 언어모델의 완전한 사전학습은 데이터 규모와 GPU 환경에 따라 별도 협의가 필요합니다.\n이런 작업을 의뢰할 수 있습니다딥러닝·머신러닝 모델 개발분류, 회귀, 예측 및 이상 탐지 모델CNN, RNN, LSTM, Transformer 기반 모델데이터 특성에 맞춘 맞춤형 신경망 구조 설계PyTorch 기반 학습 및 추론 코드 구현기존 연구 및 논문 모델 재구현모델 구조 개선 및 성능 최적화모델별 성능 비교와 오류 사례 분석학습 모델, 추론 코드 및 결과 보고서 제공\n컴퓨터 비전이미지 분류 및 객체 인식YOLO 기반 객체 탐지 모델 학습영상 데이터 전처리 및 프레임 분석얼굴, 동작, 입 모양 등 특정 영역 인식실시간 카메라 및 영상 파일 기반 추론자체 데이터셋 기반 Transfer Learning 및 Fine-tuning탐지 결과 저장 및 외부 시스템 연동Raspberry Pi 등 소형 장치 기반 비전 기능 구현\nLLM·자연어 처리Hugging Face 기반 언어모델 Fine-tuning문장 분류, 정보 추출, 요약 및 생성 모델한국어 데이터 전처리 및 모델 적용RAG 기반 문서 질의응답 시스템Embedding·Vector DB 기반 검색 기능프롬프트 및 추론 파이프라인 구성문서 분석과 보고서 초안 생성사내 문서 기반 한국어 AI 도우미 구현\n시계열·생체데이터 분석EMG, ECG, EEG 및 센서 신호 전처리필터링, 정규화, 특징 추출 및 구간 분할1D CNN, LSTM, Transformer 기반 시계열 모델영상과 생체신호를 결합한 멀티모달 모델채널별 성능 비교 및 Ablation Test신호 품질 분석과 모델 성능 평가서로 다른 센서 데이터의 시간축 정렬시계열 분석 결과 시각화 및 보고서 작성\n한컴오피스 한글 문서 자동화한글 문서에 내용을 복사하여 반복적으로 입력하는 단순 작업부터, 데이터와 AI 분석 결과를 정해진 양식의 한글 보고서로 자동 생성하는 시스템까지 구현합니다.\n한글 문서 생성 및 편집 자동화한글 문서 자동 생성 및 저장기존 HWP·HWPX 문서 불러오기지정된 위치에 문장과 데이터 자동 입력제목, 본문, 글꼴, 크기 및 문단 정렬 적용표 생성과 행·열 데이터 자동 입력문서 내 특정 문구 검색 및 일괄 변경이미지, 그래프 및 분석 결과 자동 삽입머리말, 꼬리말, 쪽 번호 등 반복 서식 적용완성된 문서를 HWP·HWPX·PDF 형식으로 저장\n엑셀·CSV·데이터베이스 연동Excel·CSV 데이터를 한글 표로 자동 변환여러 사람의 정보를 각각의 문서로 일괄 생성명단을 기반으로 확인서·신청서·보고서 자동 작성데이터베이스 조회 결과를 한글 양식에 자동 입력여러 파일의 내용을 하나의 보고서로 통합파일명과 폴더를 규칙에 따라 자동 생성·정리문서별 서로 다른 값과 이미지를 지정된 위치에 삽입\n양식 기반 문서 자동 생성기존 한글 양식을 템플릿으로 사용보고서, 회의록, 확인서 및 결과서 자동 작성이름, 날짜, 기관명, 결과값 등 지정 항목 자동 치환동일 양식의 문서를 여러 개 일괄 생성표 크기와 내용 길이에 따른 문서 구성 조정조건에 따라 서로 다른 문구와 표 자동 삽입작성 완료된 문서를 PDF로 일괄 변환\nAI와 한글 문서의 연동LLM이 생성한 내용을 한글 문서에 자동 입력긴 문서 요약 후 정해진 보고서 양식으로 변환문서에서 필요한 항목을 추출해 표로 정리AI 분석 결과를 한글 보고서로 자동 작성이미지·그래프·예측 결과가 포함된 분석 보고서 생성여러 자료를 통합해 보고서 초안 자동 생성한국어 맞춤법과 문장 표현 정리RAG 검색 결과를 근거와 함께 문서화\n반복 업무 자동화 프로그램버튼 한 번으로 문서를 생성하는 데스크톱 프로그램여러 문서를 선택해 일괄 처리하는 도구파일 감지 후 자동으로 문서를 생성하는 워크플로사내 양식에 맞춘 문서 작성 보조 프로그램웹 입력 내용을 한글 문서로 변환하는 기능API 분석 결과를 한글 보고서로 저장하는 기능작업 기록과 오류 내역을 확인할 수 있는 로그 기능\n한글 자동화 활용 사례학생별 성적표와 평가서 일괄 생성고객별 계약서·견적서·결과보고서 작성설문조사 결과를 한글 보고서로 변환실험 결과와 그래프를 연구보고서에 자동 삽입회의 내용을 요약해 회의록 양식으로 작성기관별로 내용이 다른 공문과 안내문 일괄 생성AI 모델 예측 결과를 정해진 보고서 양식으로 출력수백 개 문서의 특정 문구와 서식을 일괄 수정\n한글 자동화는 Windows 한컴오피스 자동화 기능, HWPX 문서 구조 처리 또는 의뢰 환경에 적합한 방식을 선택해 구현합니다. 사용하는 한컴오피스 버전, 운영체제, 문서 보안 설정과 파일 형식에 따라 지원 범위가 달라질 수 있으므로 작업 전 예제 파일과 실행 환경 확인이 필요합니다.",
+    "service_process": "상담 및 요구사항 확인\n해결하려는 문제, 보유 데이터, 필요한 기능, 목표 결과물, 실행 환경과 희망 일정을 확인합니다.\n\n자료 및 구현 가능성 검토\n제공받은 데이터·문서·기존 코드의 구조와 품질을 확인합니다. 검토 결과를 바탕으로 구현 방식, 예상 작업 범위와 제한사항을 안내합니다.\n\n작업 범위 확정\n데이터 전처리, 모델 설계, Fine-tuning, 한글 문서 자동화, 성능 평가 등 실제 진행할 항목과 납품 결과물, 작업 기간, 수정 횟수를 확정합니다.\n\n개발 환경 및 데이터 구성\n학습·검증 데이터 구성, 문서 템플릿 분석, 실행 환경 설정 등 본격적인 개발에 필요한 기반 작업을 진행합니다.\n\n모델 또는 자동화 기능 구현\n프로젝트 특성에 맞춰 AI 모델, 데이터 처리 파이프라인, 추론 기능 또는 한글 오피스 자동화 프로그램을 구현합니다.\n\n학습·테스트 및 성능 개선\n모델을 학습하고 적합한 평가지표로 성능을 확인합니다. 자동화 작업은 제공된 예제 파일을 기준으로 문서 생성, 서식 유지 및 데이터 입력 결과를 테스트합니다.\n\n중간 결과 공유\n진행 상황과 중간 결과를 공유하고, 최초 협의 범위 안에서 의뢰인의 피드백을 반영합니다.\n\n최종 검증 및 납품\n소스 코드, 모델 가중치, 실행 프로그램, 결과 문서, 성능 보고서 등 협의한 결과물을 정리해 전달합니다. 필요한 경우 설치 및 실행 방법도 함께 안내합니다.\n\n※ 데이터 품질과 작업 난이도에 따라 결과와 일정이 달라질 수 있으므로 반드시 결제 전 상담을 진행해 주세요.",
+    "buyer_preparation": "원활한 상담과 개발을 위해 다음 자료를 가능한 범위에서 준비해 주세요.\n\n1. 작업 목적\n- 해결하려는 문제\n- 프로그램 또는 모델을 사용할 대상\n- 원하는 입력과 출력의 예시\n- 반드시 필요한 기능\n- 희망 일정과 예산\n\n2. AI 모델 개발 의뢰 시\n- 원본 데이터 또는 일부 샘플\n- 데이터 형식과 대략적인 수량\n- 라벨 또는 정답 데이터\n- 각 파일·폴더·컬럼에 대한 설명\n- 목표 성능 또는 평가 기준\n- 기존에 사용한 모델이나 코드\n\n3. 한글 오피스 자동화 의뢰 시\n- 자동화할 HWP·HWPX 문서 양식\n- 입력에 사용할 Excel·CSV 또는 데이터 예시\n- 자동으로 입력하거나 변경할 항목\n- 완성된 결과 문서의 예시\n- 사용하는 운영체제와 한컴오피스 버전\n- 한 번에 처리할 문서의 대략적인 수량\n- 원하는 저장 형식과 파일명 규칙\n- 연동 작업이 필요한 경우\n\n※ 데이터나 문서 양식이 변경되거나 최초 협의에 없던 기능이 추가되는 경우 작업 기간과 비용이 조정될 수 있습니다.",
+    "revision_policy": "■ 수정 가능한 범위\n\n- 코드 오류 및 실행 오류 수정\n- 협의한 기능이 정상적으로 작동하지 않는 경우\n- 변수명, 출력 형식 및 간단한 문구 변경\n- 최초 요구사항 범위 내 세부 설정 변경\n\n■ 추가 비용이 발생하는 경우\n\n- 최초 협의에 없던 기능 추가\n- 모델 종류 또는 전체 구조 변경\n- 새로운 데이터셋 추가 및 데이터 형식 변경\n- 전체 재학습 또는 추가 모델 학습\n- 목표 지표와 평가 방식 변경\n- 웹·앱·API·서버 연동 추가\n- 한글 문서 양식 또는 자동화 흐름의 대규모 변경\n- 납품 후 실행 환경이나 라이브러리 버전 변경\n- 기본 수정 횟수를 초과한 추가 수정\n\n패키지에 포함된 수정 횟수 안에서 진행되며, 동일한 요청을 여러 번 나누어 전달한 경우 각각의 수정으로 계산될 수 있습니다. 수정사항은 가능한 한 한 번에 정리해 전달해 주세요.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "Node.js",
+          "XML",
+          "Dart",
+          "Kotlin",
+          "Swift"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "Oracle",
+          "PostgreSQL",
+          "MariaDB",
+          "SQLite"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "Next.js",
+          "React",
+          "Three.js",
+          "Vue.js",
+          "WebGL"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Electron",
+          "Flutter",
+          "React Native",
+          "Swift"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "FastAPI",
+          "NestJS"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "BigQuery",
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Amazon API",
+          "GCP"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 908,
+        "meta": [
+          "Selenium",
+          "Testing Library"
+        ],
+        "title": "테스트"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "AI 모델 진단",
+        "price": 300000,
+        "description": "데이터와 기존 모델을 분석하고 개선 방향을 제시합니다",
+        "working_days": 5,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "모델 파인튜닝",
+        "price": 1000000,
+        "description": "사전학습 모델을 데이터에 맞게 학습하고 검증합니다",
+        "working_days": 20,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "맞춤 AI 모델 개발",
+        "price": 3000000,
+        "description": "전처리부터 모델 설계·학습·검증까지 개발합니다",
+        "working_days": 40,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 808457,
+    "ranking_order": 27,
+    "title": "암진단 AI 개발 경력의 AI 모델 개발 또는 연동",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/808457",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "Jwkim968",
+    "seller_grade": "NEW",
+    "seller_id": 5282581,
+    "seller_intro": "",
+    "avg_response_time": "아직 몰라요",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 4000000,
+    "description": "미국소재 공과대학 휴학 후 엔지니어로 스타트업에 있어왔습니다.\n필드에서 다양한 모달리티의 데이터로 다양한 머신러닝 모델을 설계하고 개발해왔습니다.\n현재는 본업으로 규제 인허가를 목적으로 하는 의료용 AI 모델을 개발중에 있고 AI 분야에서 학술 활동도 하고있습니다.\n\nAI를 활용하여 어떠한 문제를 해결하고싶으시다면 어떤 모델과 파이프라인이든 설계 가능합니다.\n구체적인 아이디어나 알고리즘이 없어도 되니 문제만 들고 오시면 되겠습니다. 데이터가 아직 없어도 괜찮습니다.\n\n풀고자 하는 문제만 명확히 해오시면 다음과 같은 과정으로 작업이 진행됩니다.\n\n1. 문제 정의\n2. 데이터 확보\n3. 모델 설계 및 알고리즘 freeze \n4. (대규모 deployment 필요 시) 배포를 위한 규모에 맞는 최적화 및 배포 패키지 개발\n5. (엣지 환경 deplotment 필요 시) 고객의 구동 환경에 맞는 최적화 및 배포 패키지 개발",
+    "service_process": "1단계: 미팅 및 견적 추산, 개발 목표 정의, 선납금 결제\n2단계: 작업 진행 및 지속적인 소통과 피드백\n3단계: 목표 달성 시 잔금 결제, 산출물 정리 및 인계",
+    "buyer_preparation": "어떠한 문제를 해결하려고 하는지 명확히 정의해주시기 바랍니다. 어떠한 형태의 문서든 상관 없습니다.\n\n데이터셋이 아직 없어도 가능합니다. 데이터셋 구축도 서비스에 포함될 수 있습니다.",
+    "revision_policy": "추후 데이터 추가 확보 시 재학습 및 재검증이 3회까지 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "C#",
+          "HTML",
+          "C",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "PostgreSQL",
+          "SQLite",
+          "Redis"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 902,
+        "meta": [
+          "React"
+        ],
+        "title": "프런트엔드"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Django",
+          "FastAPI",
+          "Flask",
+          "Nginx"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "시작가격",
+        "price": 4000000,
+        "description": "데이터셋이 있고 제일 간단한 상용 모델로 개발을 진행할 시 발생하는 비용입니다.",
+        "working_days": 30,
+        "revision_count": 3
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 810759,
+    "ranking_order": 28,
+    "title": "캐릭터 일관성 AI 이미지 생성 파이프라인 구축합니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/810759",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "ITLSOLUTIONS",
+    "seller_grade": "NEW",
+    "seller_id": 743420,
+    "seller_intro": "",
+    "avg_response_time": "6시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 250000,
+    "description": "이미지를 그려드리는 서비스가 아닙니다.\n사진 한 장을 넣으면 같은 인물, 같은 그림체로 여러 장면의 이미지가 반복 생성되는 시스템을 만들어 드립니다.\n한 번 구축해두면 고객이 바뀌어도 레퍼런스 이미지만 교체하면 됩니다.\n이미지를 살 때마다 비용이 나가는 구조에서, 생산 라인을 소유하는 구조로 바꾸는 작업입니다.\n■ 이런 분께 필요합니다\n- 고객마다 같은 스타일의 이미지 세트를 반복 제작해야 하는 분\n- 캐릭터나 모델의 얼굴, 그림체가 매번 달라져서 곤란했던 분\n- 외주로 이미지를 계속 사는 대신 자체 생산 라인을 갖고 싶은 분\n- 상세페이지, 굿즈, 프로필, 인플루언서 콘텐츠를 대량으로 찍어야 하는 분\n■ 일관성은 왜 어려운가\n일반적인 AI 이미지 생성은 매번 다른 얼굴, 다른 그림체가 나옵니다.\n프롬프트를 잘 쓰는 것만으로는 고정되지 않습니다.\n저는 세 층에서 잠급니다.\n1. 인물 고정 - 레퍼런스 이미지를 잠재 공간에 직접 주입해 얼굴, 헤어, 피부톤을 유지합니다\n2. 그림체 고정 - 모든 생성에 동일한 스타일 조건을 강제 적용합니다\n3. 장면만 변수 - 나머지를 전부 불변으로 잠근 채 장면만 교체합니다\n이 방식은 특정 그림체에만 되는 것이 아닙니다.\n수채화, 웹툰, 3D 캐릭터, 기업 프로필, 빈티지 포스터, 사이버펑크.\n서로 다른 6가지 그림체 각각에서, 인물이 바뀌어도 그림체가 그대로 유지되는 것을 확인했습니다.\n(포트폴리오 이미지 참고 - 가로 한 줄이 같은 그림체, 세로 한 줄이 같은 사람입니다)\n중요한 것은 무슨 그림체를 잘 그리느냐가 아니라\n정해진 그림체가 흔들리지 않게 고정하는 구조입니다.\n■ 실제로 어떤 작업인지\n작업 중 겪은 사례 하나를 그대로 공유드립니다.\n3D 캐릭터 그림체로 변환할 때, 한 인물의 수염이 사라지고 얼굴이 젊어지는 문제가 있었습니다.\n수염을 명시적으로 지정해 다시 생성했더니 이번에는 피부톤과 나이가 밀렸습니다.\n결국 피부톤, 연령대, 수염을 각각 따로 잠그고 나서야 원본과 일치했습니다.\n일관성 작업은 프롬프트를 화려하게 쓰는 일이 아니라\n어떤 속성이 흔들리는지 찾아내고 하나씩 잠그는 일입니다.\n스타일 변형 강도가 센 그림체일수록 잠그지 않은 속성이 먼저 무너집니다.\n이 과정을 대신 해드립니다.\n■ 진행 방식\n1. 레퍼런스 이미지와 원하는 장면 목록을 주십니다\n2. 워크플로우를 구축하고 샘플을 만들어 확인받습니다\n3. 일관성이 만족스러울 때까지 조정합니다\n4. 워크플로우 파일과 사용 매뉴얼을 넘겨드립니다\n■ 왜 저인가요\n- 자체 GPU 서버(RTX 5090) 보유\n  클라우드 GPU 대여 비용이 발생하지 않습니다. 구축과 테스트를 제 장비에서 진행하므로 별도 인프라 비용을 청구하지 않습니다.\n- 다년간 실무 경험의 AI 엔지니어\n  스타트업 AI 개발 총괄, 실서비스 운영 경험\n- 이미지 생성뿐 아니라 연동, 배포까지 직접 처리합니다\n■ 자주 묻는 질문\nQ. 생성 비용은 따로 드나요?\nA. 자체 서버 방식은 추가 생성 비용이 없습니다. 고객님 API 계정 연동 방식을 택하시면 해당 서비스의 사용량만큼만 고객님 계정으로 청구됩니다.\nQ. 제 그림체도 가능한가요?\nA. 가능합니다. 포트폴리오에서 보시듯 그림체 자체가 변수입니다. STANDARD에서는 고객님 레퍼런스에 맞춰 그림체 조건을 고정하고, DELUXE 이상에서는 전용 스타일 모델(LoRA)까지 학습시켜 고정 강도를 높입니다.\nQ. 사람이 아닌 캐릭터나 제품도 되나요?\nA. 됩니다. 인물, 2D 캐릭터, 제품 모두 같은 원리로 일관성을 고정합니다.\nQ. 만든 이미지의 권리는 누구에게 있나요?\nA. 고객님께 있습니다. 워크플로우 파일도 함께 드리므로 이후 자유롭게 사용하실 수 있습니다.\nQ. 어떤 이미지를 레퍼런스로 주면 되나요?\nA. 얼굴이 선명한 정면 상반신 사진 1장이면 시작 가능합니다. 그림체 학습(DELUXE 이상)은 원하시는 스타일 이미지 15~30장을 권장합니다.\nQ. 몇 장까지 생성할 수 있나요?\nA. 구축이 끝나면 장수 제한이 없습니다. 자체 서버 방식은 전기요금 외 비용이 들지 않습니다.",
+    "service_process": "1. 상담 및 요구사항 확인 (1일)\n원하시는 그림체 레퍼런스 이미지와, 필요한 장면(씬) 목록을 받습니다.\n결과물 용도(상세페이지, 굿즈, 프로필 등)와 최종 산출 형식을 함께 확인합니다.\n2. 파이프라인 설계 및 1차 구축 (2~5일)\n인물 고정, 그림체 고정, 장면 변수 세 층을 잡아 워크플로우를 구축합니다.\nDELUXE 이상은 이 단계에서 전용 스타일 모델(LoRA) 학습을 함께 진행합니다.\n3. 샘플 생성 및 확인 (1~2일)\n실제 레퍼런스로 샘플을 생성해 보내드립니다.\n얼굴 유사도, 그림체 일치도, 장면 구성을 함께 확인합니다.\n4. 일관성 조정 (수정 횟수 내)\n흔들리는 속성을 찾아 하나씩 고정하며 다듬습니다.\n피드백 주시면 재생성하여 다시 확인받습니다.\n5. 납품 및 인수인계\n워크플로우 파일, 실행 스크립트, 사용 매뉴얼(PDF)을 전달드립니다.\nPREMIUM은 고객 환경 설치와 트리거 연동까지 진행하고 화상으로 인수인계합니다.\n6. 사후 지원\nDELUXE 30일, PREMIUM 60일 동안 기술 문의에 대응합니다.",
+    "buyer_preparation": "아래 두 가지만 준비해 주시면 시작할 수 있습니다.\n1. 레퍼런스 이미지\n- 인물 사진: 얼굴이 선명한 정면 상반신 사진 1장이면 충분합니다. 조명이 밝고 얼굴이 가려지지 않은 사진이 좋습니다.\n- 원하시는 그림체 샘플: 만들고 싶은 그림체를 보여주는 이미지 3~5장. 그림체 학습(DELUXE 이상)을 원하시면 15~30장을 권장합니다.\n- 이미 사용 중인 캐릭터나 브랜드 이미지가 있다면 함께 주시면 좋습니다.\n2. 만들고 싶은 장면 목록\n- 예: 카페에 앉아 있는 모습, 노트북 앞에서 일하는 모습, 정면 프로필 등\n- 장면 설명은 한 줄씩 간단하게 적어주시면 됩니다.\n- 결과물 용도(상세페이지, 굿즈, 프로필, 인플루언서 콘텐츠 등)도 알려주시면 구성에 반영합니다.\n참고사항\n- 실존 인물 사진을 사용하실 경우, 해당 인물의 동의를 확보해 주셔야 합니다.\n- 타인이 제작한 그림체를 그대로 복제하는 작업은 진행하지 않습니다. 고객님이 권리를 가지고 계시거나 사용 허락을 받은 레퍼런스를 주십시오.\n- API 연동 방식을 원하시면 해당 서비스 계정을 준비해 주시면 됩니다.",
+    "revision_policy": "수정에 포함되는 범위\n\n- 얼굴 유사도 조정 (더 닮게 또는 덜 미화되게)\n- 그림체 조정 (선 굵기, 채도, 명암, 배경 밀도 등)\n- 특정 속성 고정 추가 (수염, 안경, 피부톤, 헤어스타일, 의상 등)\n- 장면 구성 조정 (구도, 배경 요소, 소품)\n- 생성 결과 재생성 (같은 설정으로 다른 결과 뽑기)\n\n수정 진행 방식\n결과물을 보시고 수정할 부분을 알려주시면, 워크플로우를 조정해 재생성하여 다시 보내드립니다.\n한 번의 피드백에 여러 항목이 포함되어도 1회로 계산합니다.\n\n수정 횟수를 넘어서는 경우\nSTANDARD 2회, DELUXE 3회, PREMIUM 3회가 기본 제공됩니다.\n추가 수정이 필요하시면 협의 후 별도 진행 가능합니다.\n\n재진행(추가 비용)이 필요한 경우\n\n- 계약 시 합의한 그림체 자체를 다른 그림체로 전면 변경하는 경우\n- 계약 범위를 넘는 장면 수 추가 (STANDARD 4종, DELUXE 10종 기준)\n- 인물 레퍼런스를 다른 사람으로 전면 교체하는 경우 (단, 구축 완료 후에는 고객님이 직접 교체 가능합니다)\n- 최초에 주시지 않은 새로운 요구사항이 추가되는 경우\n\nAI 생성 특성상 안내드리는 부분\n동일한 설정에서도 생성할 때마다 세부 묘사에 미세한 차이가 발생할 수 있습니다.\n저희가 보장하는 것은 인물 특징과 그림체의 일관성이며, 픽셀 단위의 완전 동일성은 아닙니다.\n만족스러운 결과가 나올 때까지 수정 범위 내에서 함께 조정해 드립니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "파이프라인 기본 구축",
+        "price": 250000,
+        "description": "워크플로우 1종 + 장면 4종 + 샘플 20장. 파일과 매뉴얼 일체 제공",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "그림체 학습 + 배치 생성",
+        "price": 750000,
+        "description": "STANDARD 포함 + 전용 그림체 학습(LoRA) + 장면 10종 + 샘플 60장 + 30일 지원",
+        "working_days": 10,
+        "revision_count": 3
+      },
+      "PREMIUM": {
+        "title": "서버 배선 + 운영 인수인계",
+        "price": 1800000,
+        "description": "DELUXE 포함 + 고객 환경 설치 + 트리거 연동 + 장면 무제한 + 60일 지원",
+        "working_days": 15,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 813910,
+    "ranking_order": 29,
+    "title": "데이터와 라벨 재정비로 AI 모델 정확도 높여 드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/813910",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "MOWNZ",
+    "seller_grade": "NEW",
+    "seller_id": 5240518,
+    "seller_intro": "",
+    "avg_response_time": "아직 몰라요",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 1600000,
+    "description": "학습까지 끝낸 모델이 실제 현장에서는 기대만큼 맞지 않아 도입이 멈춰 있지 않으신가요?\n\n시연에서는 잘 되던 모델이 현장에 들어가면 성능이 떨어지는 경우, 원인은 모델 구조보다 학습 데이터와 라벨 쪽에 있는 경우가 많습니다. 촬영 거리나 조명이 학습 데이터와 다르거나, 작업자마다 라벨 기준이 달라 같은 대상이 서로 다르게 표시되어 있거나, 클래스별 데이터 수가 크게 치우쳐 있는 상황입니다. 이 상태에서는 학습을 반복하거나 더 큰 모델로 바꿔도 결과가 크게 달라지지 않습니다.\n\n이 서비스는 새로 개발하는 것이 아니라 이미 만들어 두신 모델을 개선합니다. 객체탐지, 이미지 분류, OCR 모델을 대상으로 하며, 지금 보유하신 데이터셋과 모델을 받아 어디서 어긋나는지 확인하고 데이터와 라벨을 정리한 뒤 다시 학습해 결과를 비교해 드립니다.\n\n진행 방식은 이렇습니다. 먼저 데이터셋과 라벨 파일, 현재 성능 수치와 실패 사례를 확인합니다. 라벨 오류, 클래스 불균형, 학습 데이터와 실제 입력 사이의 차이를 찾아 정리 기준을 세우고 합의한 뒤 데이터셋을 재구성합니다. 이어서 동일한 조건으로 재학습하고, 개선 전후를 같은 평가셋으로 비교해 수치와 남은 오탐 사례를 함께 정리해 전달드립니다. 어떤 라벨을 왜 고쳤는지 내역을 남기므로 이후 데이터가 늘어도 같은 기준으로 이어서 작업하실 수 있습니다.\n\n수행 경험으로는 스마트팜 환경에서 엣지 장비 기반 객체 수 집계 모델, 재활용 선별 현장의 캔과 플라스틱 분류 모델과 로봇 좌표 연동, 자세 추정 기반 동작 비교 기능을 구축한 이력이 있습니다. 학습 환경은 파이토치와 텐서플로, 욜로 계열 모델을 주로 다루며, 추론은 서버와 라즈베리파이 같은 엣지 장비 양쪽 모두 대응합니다.\n\n기본 산출물은 정제된 데이터셋과 라벨 수정 내역, 재학습된 모델 가중치, 개선 전후 성능 비교표, 실행 가능한 추론 코드입니다. 데이터 상태에 따라 개선 폭은 달라지므로 목표 수치를 약속드리지 않으며, 착수 전에 현재 데이터로 어디까지 기대할 수 있는지 먼저 말씀드립니다. 데이터가 부족해 재정비만으로 해결되지 않는 경우에는 추가 수집이나 촬영 기준부터 함께 정리합니다.",
+    "service_process": "1. 상담: 현재 모델의 용도, 성능 수치, 실패 사례를 크몽 메시지로 확인합니다.\n2. 점검: 데이터셋과 라벨 파일을 받아 라벨 오류, 클래스 불균형, 실제 입력과의 차이를 확인합니다.\n3. 범위 합의: 어디까지 정리할지, 무엇을 기준으로 개선을 판단할지 평가셋과 지표를 함께 정합니다.\n4. 구현: 합의한 기준으로 라벨을 정정하고 데이터셋을 재구성한 뒤 동일 조건으로 재학습합니다.\n5. 테스트: 개선 전후를 같은 평가셋으로 비교하고 남은 오탐 사례를 유형별로 정리합니다.\n6. 납품 및 사후대응: 데이터셋, 가중치, 비교표, 추론 코드를 전달하고 납품 후 1개월간 실행 문제에 대응합니다.",
+    "buyer_preparation": "현재 학습에 쓰신 데이터셋과 라벨 파일, 모델 가중치, 학습에 사용한 코드나 설정값을 준비해 주세요. 현재 성능 수치와 실제로 틀리는 사례 이미지가 있으면 원인 파악이 빨라집니다. 실제 운영 환경의 촬영 조건도 알려주시면 도움이 됩니다.\n\n사람 얼굴, 차량 번호판, 문서의 개인정보가 포함된 데이터는 익명화하거나 비식별 처리 후 전달해 주세요. 클라우드 계정 정보나 API 키는 작업에 필요한 최소 권한으로 발급해 주시고, 종료 후 폐기하시기를 권해 드립니다.",
+    "revision_policy": "기본 수정은 합의한 범위 안에서 라벨 정정 기준을 조정하거나, 정리된 데이터셋의 분할 비율과 평가셋 구성을 다시 잡는 작업까지 포함합니다. 재학습이 포함된 패키지에서는 같은 데이터로 학습 조건을 바꿔 다시 돌리는 것도 수정 범위에 들어갑니다.\n\n다음은 추가 작업으로 분류됩니다. 대상 클래스가 새로 늘어나는 경우, 촬영 조건이 다른 데이터가 추가로 들어오는 경우, 모델 구조나 프레임워크를 교체하는 경우, 착수 후 평가 지표 자체가 바뀌는 경우, 추론 환경이 서버에서 엣지 장비로 바뀌는 경우입니다. 이 경우 범위와 일정을 다시 산정해 안내드립니다.\n\n납품 후 1개월 동안은 전달해 드린 코드가 명시된 환경에서 실행되지 않거나, 산출물에 누락이 있는 경우 무상으로 대응합니다. 새로운 데이터로 다시 학습하는 작업은 이 범위에 포함되지 않습니다.\n\n수정을 요청하실 때는 어떤 입력에서 어떤 결과가 나왔는지, 기대한 결과는 무엇인지, 실행 환경과 오류 메시지를 함께 보내주시면 확인이 빠릅니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "FastAPI",
+          "Flask"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "데이터셋 정비",
+        "price": 1600000,
+        "description": "라벨 오류를 정정하고 학습용 데이터셋을 다시 구성해 드립니다",
+        "working_days": 10,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "정비 + 재학습·성능 비교",
+        "price": 2700000,
+        "description": "정비한 데이터로 재학습하고 개선 전후를 같은 기준으로 비교해 드립니다",
+        "working_days": 17,
+        "revision_count": 3
+      },
+      "PREMIUM": {
+        "title": "정비 + 재학습 + 추론 최적화",
+        "price": 4800000,
+        "description": "재학습에 더해 추론 코드와 실행 환경까지 정리해 전달해 드립니다",
+        "working_days": 30,
+        "revision_count": 4
+      }
+    }
+  },
+  {
+    "gigId": 818728,
+    "ranking_order": 30,
+    "title": "AI 학습용 데이터셋 구축해드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/818728",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "디알소프트",
+    "seller_grade": "NEW",
+    "seller_id": 734743,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 400000,
+    "description": "머신러닝·딥러닝 모델 학습에 활용할 수 있는 데이터셋을 수집·정제·구축해드립니다.\n\n원본 데이터 수집(또는 보유 데이터 활용), 라벨링 기준 설계, 학습·검증·테스트 데이터 분할, 클래스 불균형 점검 등 학습 데이터셋 구축에 필요한 전 과정을 진행합니다.\n\n결과물은 목적에 맞는 형식(CSV, JSON, 이미지+어노테이션 등)으로 정리하여 전달해드리며, 데이터 구축 기준 문서도 함께 제공해드립니다.\n\n작업 방식 안내\n- 모든 작업은 원격(비대면) 진행을 기준으로 합니다\n- 방문이 필요한 경우 출장비가 별도 청구되며, 방문 작업은 1일 70만원(부가세 별도)입니다\n- 상품 가격은 협의 후 산정하여 진행됩니다 (안내된 금액은 참고용 기준가입니다)",
+    "service_process": "1) 요구사항 확인: 현재 인프라 구조와 목표를 함께 점검합니다.\n2) 설계: 서비스 특성에 맞는 구성 방안을 설계합니다.\n3) 구축: 설계안에 따라 실제 환경을 구축합니다.\n4) 테스트: 정상 동작 여부와 예외 상황을 점검합니다.\n5) 전달 및 안내: 결과물과 운영 가이드를 전달해드립니다.",
+    "buyer_preparation": "원활한 작업 진행을 위해 아래 정보를 미리 준비해 주시면 좋습니다.\n- 해당 클라우드 콘솔 접속 권한 또는 임시 계정\n- 도메인/DNS 관리 권한 (필요한 경우)\n- 기존 시스템 구성 정보나 접속 방법\n- 담당자 연락 가능 시간대",
+    "revision_policy": "각 패키지에 안내된 수정 횟수 내에서 진행되며, 초과 시 별도 협의 후 진행됩니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "소규모 데이터셋 구축",
+        "price": 400000,
+        "description": "소규모 데이터셋 구축 패키지입니다.",
+        "working_days": 5,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "중규모 데이터셋+라벨링",
+        "price": 900000,
+        "description": "중규모 데이터셋+라벨링 패키지입니다.",
+        "working_days": 10,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "대규모 데이터셋 구축",
+        "price": 1800000,
+        "description": "대규모 데이터셋 구축 패키지입니다.",
+        "working_days": 20,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 600736,
+    "ranking_order": 31,
+    "title": "머신러닝, 딥러닝 모델 개발 가능합니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/600736",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "저스틴쪼",
+    "seller_grade": "NEW",
+    "seller_id": 3535703,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 300000,
+    "description": "혁신적인 AI 기술로 농업과 헬스케어의 미래를 선도합니다\n안녕하세요, 범아이 대표 조승범입니다. \n저희는 최첨단 AI 기술을 활용하여 스마트팜과 헬스케어 분야에 혁신적인 솔루션을 제공합니다.\n\n전문성과 경력\n학력: 성균관대학교 박사 (토마토 잎 질병 분류를 위한 GAN 알고리즘 연구)\n현 직책: 스마트팜 전문 서비스 기업 '범아이' 대표 (www.beomai.kr)\n주요 연구:\n삼성서울병원 환자 삶의 질 연구소: 암환자를 위한 AI 모델 개발\n스마트팜 환경제어 및 생육 상태 진단 알고리즘 개발\n환자 상담 데이터 기반 챗봇 개발 연구\n수상 실적: 2022년 날씨 빅데이터 콘테스트 환경부 장관상\n\n제공 서비스\nAI 기반 스마트팜 솔루션: \n - 작물 생육 최적화를 위한 환경 제어 시스템\n - 실시간 작물 상태 모니터링 및 질병 조기 진단\n - 수확량 예측 및 품질 관리 시스템\n헬스케어 AI 솔루션\n  - 환자 삶의 질 향상을 위한 데이터 분석 및 예측 모델\n  - AI 기반 환자 상담 챗봇 개발\n빅데이터 분석 및 AI 모델 개발\n  - 기상 데이터 분석 및 예측 모델 구축\n  - Feature Engineering을 통한 산업별 맞춤형 AI 솔루션 개발\n\n왜 저희 서비스를 선택해야 할까요?\n검증된 전문성: 박사 학위와 다수의 연구 경험을 바탕으로 한 깊이 있는 기술력\n다양한 분야의 융합: 농업과 의료 분야를 아우르는 폭넓은 AI 적용 경험\n맞춤형 솔루션: 고객의 요구사항과 데이터 특성에 맞춘 최적의 AI 모델 제공\n지속적인 혁신: 최신 AI 기술을 적용한 끊임없는 서비스 개선 및 업데이트\n\n서비스 비용 안내\n프로젝트의 난이도, 데이터 규모, 개발 기간 등을 종합적으로 고려하여 맞춤형 견적을 제공해 드립니다. 고객님의 프로젝트에 대한 자세한 상담 후, 최적의 솔루션과 합리적인 비용을 제안해 드리겠습니다.\n초기 상담 및 견적 제안: 무료\n세부 비용: 프로젝트 범위 확정 후 협의\n결제 조건: 단계별 결과 검토 후 진행\n혁신적인 AI 기술로 여러분의 비즈니스에 새로운 가치를 더하겠습니다. 지금 바로 상담을 신청하세요! \n견적서 문의 대환영!!!",
+    "service_process": "1. 의뢰인 의뢰 및 샘플 데이터 확인\n2. 데이터 검토 결과 및 견적서 송부\n - 머신러닝 vs 딥러닝 모델 적용 여부 검토\n - 딥러닝 모델 알고리즘 최적화 필요 여부 검토\n - Feature Engineering 적용 필요 여부 검토\n3. 견적서 협의 (검토 의뢰서만 받고 진행 하지 않아도 무관입니다.)\n4. 결과물 검토 후 비용 집행\n5. 최종 결과물 제출",
+    "buyer_preparation": "프로젝트 목표, 보유 데이터, 현재 시스템 정보, 일정 및 예산 범위를 간략히 정리해 주세요. \n법적 요구사항이나 보안 관련 사항이 있다면 함께 알려주시면 더욱 효율적인 상담이 가능합니다.",
+    "revision_policy": "원하는 결과를 위해 최선을 다하겠습니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "소규모 데이터 분석",
+        "price": 300000,
+        "description": "데이터 상관 관계 분석 및 최적의 머신러닝 모델 제안",
+        "working_days": 2,
+        "revision_count": 3
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 255699,
+    "ranking_order": 32,
+    "title": "인공지능 기반 자동화/수동화 학습모형 및 운영체계 구축",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/255699",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "shlee1990",
+    "seller_grade": "NEW",
+    "seller_id": 190589,
+    "seller_intro": "",
+    "avg_response_time": "3시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 50000,
+    "description": "[소개]\n- 데이터산업진흥원 데이터 가공 공급기업 선정\n- 정보통신산업 진흥원 데이터 가공 공급기업 선정\n- 다년간 축적된 경험 노하우를 바탕으로 개개인에게 맞춤형 솔루션을 수행할 수 있습니다.\n\n\t1. 아스키 형식의 텍스트 (text) 파일부터 과학자료 형식 (HDF, H5, NetCDF, Grib, Grb) 및 Data (DB) 자료까지 다양한 형태의 자료를 이용하여 데이터의 수집, 전처리, 분석, 시각화해 드립니다.\n\t2. 웹 사이트에 대한 정보를 이용하여 엑셀 및 DB 구축도 가능합니다.\n\t3. 기초 통계 (빈도분포, Prired t-test, Wilcoxn 등)에서 지도/비지도 학습을 통한 회귀모형 구축에 이르기 까지 효율적인 통계 정보를 제공합니다.\n\t4. 대한민국의 후속위성인 천리안위성 2A호 웹 서비스 서브시스템 및 환경위성 2B호 통합 자료처리 서브시스템에 대한 웹 개발 수행\n\n[경력사항] 주요 업무 및 성과\n- 2020.06~현재 : 프리랜서 자문 활동\n\t+ 2020-2022 (3년) 정부지원 데이터 바우처 사업 지원/자문\n\t+ 2022 태양광 발전소 모니터링 업체에서 인공지능 예측 시스템 구축/자문\n\t+ 2022 한국농어촌공사 수문기상 융합데이터 체계 구축/자문\n\t+ 2021-2022 한국건설기술연구원 레이더 유출량 산정 프로그램 최적화/자문\n\t+ 2021~2022 유튜버 (sumin park) 식분도 이미지 수치화, 평균 식분도 시각화, 몬테카를로 시뮬레이션을 통한 유의성 검정\n\t+ 2021 공공데이터 기업매칭 사업 지원/자문\n\n- 2020.07~현재 : 재능플랫폼 (크몽, 네이버 expert, 오투잡, 해피캠퍼스)\n\t+ 누적 판매수 : 400건\n\t+ 누적 만족도 : 98점\n  \t+ 누적 판매액 : 2,000만원 이상\n\n- 2019.09~현재 : 블로그 (티스토리, 네이버)\n\t+ 콘텐츠 : 대기과학 데이터 가공/인공지능 학습, 웹 개발, 엑셀, 통계 이론 \n\t+ 일 방문자 : 2,500~3,500명\n\n- 관련 프로젝트\n\t+ LSH0371. Python을 이용한 아프리카 빈민가 딥러닝 예측\n\t+ LSH0367. R, Fortran을 이용한 레이더 유출량 산정 프로그램 변환\n\t+ LSH0363. R을 이용한 판매량 회귀분석 및 시계열 예측\n\t+ LSH0350. R을 이용한 일식 식분도 이미지 데이터 추출 및 중첩 일식 식분도 빈도수 시각화 (후기신라(9), 최종(8), 남송(57))\n\t+ LSH0349. Python을 이용한 기상정보를 활용한 수문기상 융합 데이터 체계 구축\n\t+ LSH0335. 기술조사 (드론 데이터 활용 수확량 예측 시스템)\n\t+ LSH0327. Python을 이용한 좋아하는 화가의 화풍 (style transfer) 및 CycleGAN 학습\n\t+ LSH0318. Python을 이용한 앙상블 모델 구축, 과거대비 변화율 산정, 연 강수량 및 평균온도 계산\n\t+ LSH0315. R을 이용한 광학 및 화학 시정 시각화 (2D 빈도분포 산점도, 시계열, 박스플롯, 시정예측, 영향도)\n\t+ LSH0306. R을 이용한 서울시 아파트 실거래가 회귀분석 및 주택 가격 결정 요인\n\t+ LSH0284. R을 이용한 격자별 유출모형을 Fortran으로 코드 변환 그리고 전문가 활용 보고서\n\t+\tLSH0255. R, Python, Shell Script을 이용한 태양광 발전량 예측 시스템\n\t+ LSH0250. Python을 이용한 부동산 데이터 분석 및 가격 예측 (+Google Data Studio를 이용한 데이터 분석 그리고 가격 예측 플랫폼)\n\t+ LSH0208. R을 이용한 머신러닝 기반으로 클러스터링 모형 개발 및 구글 시각화\n\t+ LSH0177. Python을 이용한 코로나 예측 및 시각화 (보고서 포함)",
+    "service_process": "[제공 절차]\n- [준비사항] 전달 및 문의\n- 작업 일정 및 견적서 전달\n- 1차 작업물 전달\n- 결재\n- 수정 및 보완\n- 최종 작업물 전달",
+    "buyer_preparation": "[준비 사항]\n- 요구사항 : 태양광 발전량 예측 시스템 개발\n- 데이터 설명 : 주요 태양광 발전량 \n + 기간 : 2020~2022년\n + 시간해상도 : 매 1시간\n + 공간 해상도 : 특정 지점\n\n- 프로그래밍 언어 : R, Python, Shell Script 등\n- OS 환경 : Windows 또는 Linux\n- 작업 기한 : 2022.12.28 (수)까지\n- 원격지원 여부 : Yes 또는 No",
+    "revision_policy": "[무상 제공 가능한 수정 범위]\n- 딥러닝/머신러닝 : 학습모형 변경 등\n- 시각화 : 텍스트 변경 등\n\n[기타]\n- 학습 대상 자료가 아닐 경우 즉시 수정해 드립니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "R",
+          "Fortran"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "소규모 학습",
+        "price": 50000,
+        "description": "통계분석,  딥러닝/머신러닝 모형\n크기 : 10 GB\n형식 : txt, bin, nc 등",
+        "working_days": 2,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "중규모 학습",
+        "price": 100000,
+        "description": "통계분석, 딥러닝/머신러닝 모형 적용, 시각화\n크기 : 100 GB\n형식 : txt , bin, nc 등",
+        "working_days": 4,
+        "revision_count": 1
+      },
+      "PREMIUM": {
+        "title": "대규모 학습",
+        "price": 150000,
+        "description": "위촉 연구 및 사업 서비스에 필요한 고도화 기술\n크기 : 1 TB\n형식 : txt , bin, nc 등",
+        "working_days": 6,
+        "revision_count": 1
+      }
+    }
+  },
+  {
+    "gigId": 262102,
+    "ranking_order": 33,
+    "title": "컴퓨터비전 AI 소프트웨어 개발해 드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/262102",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "PN15",
+    "seller_grade": "NEW",
+    "seller_id": 84033,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 100000,
+    "description": "이미지와 영상 데이터를 분석하여 객체탐지, 분류, 결함 검출, OCR, VLM 등이 포함된 AI 모델과 실행 소프트웨어를 개발합니다.\n영상 취득, 영상 인식, Object Detection, Tracking, API, 3D data Recognition, 문서 분석, VLM과 같은 알고리즘 개발이 가능하고, 일상적인 도메인의 영상 객체 인식 및 머신비전 결함 검출도 가능합니다.\n\n개발은 다음과 같은 방식으로 진행됩니다.\n\n1. 요구사항 분석\n: 고객님의 요구사항을 듣고 개발 범위 구상 (상주는 불가능하나 필요시 미팅 가능합니다)\n\n2. 모델 선정 및 학습 데이터 구축 (필요시)\n: 개발 도메인 및 범주에 따른 모델 설계\n기본적으로 CNN, RNN(LSTM), Transformer, VLM 등의 모델 개발이 가능하고 Detection, Segmentation, OCR, Document Understanding, Action Recogntion, AI 에이전트와 같은 응용 구현이 가능합니다.\n\n3. 모델 구현\n: 성능을 높일 수 있는 모델 설계 및 최적화\n필요시 GPU없이 돌릴 수 있도록 경량화 제공 가능합니다. 연산량이 작은 모델 설계, Quantization, Pruning 등의 경량화 뿐만 아니라 ExecuTorch, TensorRT도 가능합니다.\n\n4. 모델 학습 및 테스트\n: 설계된 모델 학습(학습할 PC 선정 : 제 개인환경 PC or 보안상 데이터 반출이 불가하다면 별도로 마련된 PC에서도 학습 가능)\n\n5. 서비스화\n: REST API, 영상 스트리밍 서비스, 솔루션 개발/구축, 에이전트 연동",
+    "service_process": "다음과 같은 과정을 거쳐서 의뢰를 맡고 해결해드립니다.\n\n상담 - 협의 - 결제 - 1차 결과물 - 중간 수정 반영 - 최종산출물 - 구매확정",
+    "buyer_preparation": "개발 지향점(연구 및 서비스) 및 목표. AI 학습이 필요한 경우 데이터가 필요할 수 있습니다.",
+    "revision_policy": "무상 수정 범위는 다음과 같습니다.\n1. 버튼, 글자 색상과 같은 단순한 GUI 변경\n2. 완료된 시점에서 소량의 데이터를 추가하여 fine tuning하는 경우 (3회)\n3. 모델 Parameter 변경 (1회)\n\n이외의 초기 합의한 범위에서 벗어난 새로운 기능 추가, 인식대상 클래스 추가, 성능 개선이 필요한 경우 추가적으로 협의후 유상으로 진행해드립니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "Oracle",
+          "MongoDB"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Apache JMeter",
+          "Docker",
+          "Git",
+          "Rancher"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "AWS"
+        ],
+        "title": "클라우드"
+      },
+      {
+        "id": 909,
+        "meta": [
+          "Jira"
+        ],
+        "title": "기타·소프트웨어"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "알고리즘 모듈 단위 작업",
+        "price": 100000,
+        "description": "CNN(Classification, Detection), Transformer 알고리즘 모듈 단위 개발",
+        "working_days": 3,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "단일 솔루션 및 고성능 알고리즘",
+        "price": 500000,
+        "description": "단일 솔루션  및 Segmentation, Pose estimation, multi-task 모델 개발",
+        "working_days": 15,
+        "revision_count": 3
+      },
+      "PREMIUM": {
+        "title": "서비스 프로젝트 S/W",
+        "price": 1000000,
+        "description": "서비스 프로젝트로 요구사항에 적합한 딥러닝 모델(OCR, 머신비전, VLM) 설계 및 알고리즘 최적화",
+        "working_days": 30,
+        "revision_count": 5
+      }
+    }
+  },
+  {
+    "gigId": 438002,
+    "ranking_order": 34,
+    "title": "AI 인공지능 개발 진행해드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/438002",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "단발머리아침4042",
+    "seller_grade": "NEW",
+    "seller_id": 821116,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 500000,
+    "description": "소개\n안녕하세요. 팀 파이토오치입니다.\n이미지, 객체탐지, 자연어처리 각각의 전문가들이 배치되어 프로젝트를 진행중입니다.\nAI 기능이 탑재된 웹 & 앱도 진행합니다.\n\n작업기간\n기본적인 작업은 의뢰 후 14일이내 작업완료를 목표로 하고 의뢰인과 상담후 수정 2회 제공해드립니다.\n\n대표프로젝트\n깃허브를 통해 제공해드리겠습니다.",
+    "service_process": "쪽지를 통한 1차 상담\n\n프로젝트 개요, 목적, 현재 상황을 간단히 파악합니다.\n\n필요한 데이터 및 자료 수집\n\n분석·제작에 필요한 데이터, 참고 자료, 요구사항을 전달받아 정리합니다.\n\n기간 및 금액 협의\n\n작업 범위에 따라 예상 소요 기간과 비용을 안내드리고 상호 합의합니다.\n\n프로젝트 진행 및 중간 공유\n\n일정에 맞춰 프로젝트를 진행하며, 필요 시 중간 결과물을 공유하고 피드백을 반영합니다.\n\n최종 결과물 전달 및 마무리\n\n최종 산출물을 전달드리고, 간단한 수정 및 마무리 작업을 진행합니다.",
+    "buyer_preparation": "데이터 분석 의뢰 목적\n데이터(제공가능시)\n원하시는 결과물(스토리보드 및 기획서, 인공지능 학습모델)",
+    "revision_policy": "각 수정 회는 한 항목 수정을 의미합니다.(예: 3회 수정은 세개 항목 수정을 의미)\n\n수정은 최초 기본 작업 의뢰사항에 해당하는 작업내에서 수정이 가능합니다.  ex) 파라미터 단순 수정, 차트 색깔 수정 등",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "인공지능 모델 구현 및 학습 전처리",
+        "price": 500000,
+        "description": "의뢰자분이 원하시는 인공지능 모델 및 적합한 모델 선정, 논문 기반 코드 구현, 학습 데이터 전처리",
+        "working_days": 20,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 465721,
+    "ranking_order": 35,
+    "title": "인공지능 모델 서빙",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/465721",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "육각형",
+    "seller_grade": "NEW",
+    "seller_id": 2424350,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 500000,
+    "description": "인공지능 모델을 개발하는 것만큼 중요한 것은 이를 적용하는 것입니다. \n모델을 개발했다면, 그것을 실제로 사용하여 문제를 해결하거나 비즈니스 성과를 창출할 수 있는 방법을 고민해야 합니다.\n\n그러나 인공지능 모델의 배포는 쉽지 않은 일입니다. 모델의 복잡성, 스케일 및 확장성을 고려하여 클라우드 서비스를 활용하여 배포하는 것이 일반적입니다. 이를 위해서는 클라우드 기술과 도구에 대한 이해와 능력이 필요합니다.\n\n이에 따라, 인공지능 모델을 서버에 넣어 배포하는 일은 전문적인 기술과 노하우가 필요합니다. 따라서, 이를 도와드릴 수 있는 전문가나 팀과 협력하여 적용할 수 있는 방법을 탐구하고 구현하는 것이 좋습니다. \n\n이를 통해 인공지능 모델을 실제로 사용할 수 있는 기회를 얻을 수 있습니다.",
+    "service_process": "인공지능 모델 서빙\n- flask 서버 이용\n- AWS EC2 또는 GCP 배포 가능\n- 의뢰인 본인 서버 이용 가능",
+    "buyer_preparation": "- 적용하기를 원하는 모델\n- 적절한 모델을 찾거나 추천을 원한다면 추가 비용 발생합니다.\n- AWS EC2 또는 GCP 이용 시, 필요한 서버 아이디 공유 \n- 의뢰인 자체 서버 이용 시, 계정 공유 필요",
+    "revision_policy": "작업물을 발송한 후 (구매 확정 전)\n수정 1회\n- 모델 종류 변경 1회\n- URL 변경 1회",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "인공지능 모델 서빙해드립니다.",
+        "price": 500000,
+        "description": "본인이 가지고 있는 인공지능 모델을 실제 서비스에 적용하고 싶을 때,\n모델 서버에 띄어드립니다.",
+        "working_days": 7,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 471516,
+    "ranking_order": 36,
+    "title": "인공지능 머신러닝 딥러닝",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/471516",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "훈훈한키위",
+    "seller_grade": "NEW",
+    "seller_id": 2065091,
+    "seller_intro": "",
+    "avg_response_time": "3시간 이내",
+    "review_count": 1,
+    "rating_score": 5.0,
+    "weighted_score": 5.0,
+    "base_price": 201000,
+    "description": "Python은 인공지능 개발에 많이 사용되는 언어입니다. TensorFlow, PyTorch 등의 라이브러리를 활용하여 머신러닝 및 딥러닝 모델을 구축하고 학습시킬 수 있습니다. 이미지 분류, 텍스트 분석, 음성 인식, 추천 시스템 등 다양한 AI 기술을 개발할 수 있습니다. (데이터 제공 필요)\n\n데이터의 제공이 불가한 경우 데이터 수집을 위한 기간이 증가 할 수 있습니다.",
+    "service_process": "요구사항 분석부터 개발, 테스트까지 진행하여 프로그램을 제공하는 서비스를 제공합니다. 또한, 간단 코드나 다른 학술적인 코드에 대해서도 분석과 개발을 수행하고 소스 코드를 전달하는 서비스를 제공합니다.\n\n1. 프로그램 개발: 요구사항 분석을 통해 프로그램의 목적과 기능을 파악한 후, Python 등의 프로그래밍 언어를 사용하여 프로그램을 개발합니다. 요구사항에 맞는 솔루션을 설계하고 구현하여 사용자가 원하는 기능을 충족시키는 프로그램을 제작합니다.\n\n2. 테스트: 개발된 프로그램을 테스트하여 오류를 발견하고 수정하는 작업을 수행합니다. 다양한 테스트 기법과 도구를 활용하여 프로그램의 신뢰성과 안정성을 확인합니다. 테스트를 통해 사용자가 원하는 기능이 정확하게 동작하며, 예상치 못한 문제가 발생하지 않도록 보장합니다.\n\n3. 프로그램 전달: 개발된 프로그램을 사용자에게 전달합니다. 이때, 프로그램의 소스 코드는 별도 비용으로 제공될 수 있습니다. 소스 코드는 개발한 프로그램을 수정하거나 확장할 수 있는 유용한 자료가 될 수 있습니다.\n\n간단한 코드나 다른 학술적인 코드에 대해서도 내용을 분석하고 요구되는 기능을 개발하여 소스 코드를 전달할 수 있습니다. 필요한 알고리즘 설계, 데이터 분석, 시뮬레이션 등의 작업을 수행하며, 요구사항을 충족시키는 솔루션을 제공합니다.\n\n요구사항 분석, 개발, 소스 코드 전달 등의 단계를 포함한 프로그램 및 코드 해결 서비스를 제공하고 있으니, 자세한 요구사항이나 알고리즘 내용을 알려주시면 보다 구체적인 지원이 가능합니다.",
+    "buyer_preparation": "프로젝트의 성공적인 진행과 결과물의 품질을 위해 상세한 요구사항 설명서가 필요합니다. 아래는 요구사항 상세 설명서 작성을 위해 고려해야 할 사항입니다. \n\n1. 프로젝트 개요:\n프로젝트의 목적과 목표를 설명합니다.\n프로젝트의 범위를 정의합니다. 어떤 기능이 포함되는지, 어떤 기능이 제외되는지 명확하게 기술합니다.\n\n2. 기능 요구사항:\n프로그램의 필수적인 기능을 명시합니다.\n각 기능의 동작 방식, 입력과 출력의 형식, 예상되는 동작 결과 등을 정확하게 기술합니다.\n\n3. 비기능 요구사항:\n성능: 프로그램의 응답 시간, 처리량 등의 성능 요구사항을 명시합니다.\n안정성: 프로그램의 오류 처리, 예외 상황 대응 등 안정성 요구사항을 기술합니다.\n사용성: 사용자 인터페이스의 직관성, 편의성 등 사용성 요구사항을 명시합니다.\n보안: 데이터 보호, 접근 제어 등 보안 요구사항을 설명합니다.\n\n4. 데이터 요구사항:\n프로그램에 사용되는 데이터의 형식, 크기, 속성 등을 명시합니다.\n데이터의 입출력 방식과 저장소에 대한 요구사항을 기술합니다.\n\n5. 환경 요구사항:\n프로그램 실행을 위해 필요한 하드웨어, 소프트웨어, 네트워크 환경 등을 명시합니다.\n필요한 특정 라이브러리, 프레임워크, 운영체제 등의 버전 요구사항을 기술합니다.\n\n6. 개발 방법론 및 일정:\n프로젝트의 개발 방법론을 정의하고, 작업 단계와 일정을 계획합니다.\n각 단계의 시작일과 마감일, 중간 결과물의 제출 일정 등을 포함시킵니다.\n\n7. 기타 사항:\n기술적인 제약사항이나 제한사항을 명시합니다.\n프로젝트에 영향을 미치는 외부 요소나 제3자와의 협업에 대한 사항을 기술합니다.",
+    "revision_policy": "제공하는 서비스는 요구사항에 따라 프로그램을 개발하고 전달하는 것이기 때문에, 요구사항이 제대로 적용되지 않았을 경우에 수정 및 재진행을  작업물 발송 후 2회 요청할 수 있습니다. 그러나 요구사항에 없던 변경사항이 추가될 경우 추가 과금이 필요할 수 있습니다. 이는 다음과 같은 이유로 인해 발생할 수 있습니다.\n1. 범위 변경:\n요구사항에 명시된 범위를 벗어난 변경사항이 요청될 경우, 추가 작업이 필요하게 됩니다. 이는 기존의 작업 범위를 초과하는 경우로 간주될 수 있습니다.\n\n2. 복잡도 증가:\n추가된 요구사항으로 인해 프로그램이나 알고리즘의 복잡도가 증가하는 경우, 추가적인 노력과 리소스가 필요할 수 있습니다.\n\n3. 작업량 증가:\n요구사항 변경으로 인해 작업량이 예상보다 증가하는 경우, 해당 작업에 대한 추가 시간과 노력이 필요할 수 있습니다.\n\n추가 과금은 요구사항 변경으로 인해 발생하는 작업의 복잡성과 추가 작업량에 따라 결정됩니다. 변경사항을 분석하고 추가적인 작업의 시간과 리소스를 산정한 후, 그에 따른 추가 비용을 제안해 드릴 수 있습니다. 이를 통해 변경사항을 수용하고 원활한 프로젝트 진행을 지원할 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "오픈소스 기반 AI 개발",
+        "price": 201000,
+        "description": "기존 오픈 소스들을 활용하여 AI 모델을 만들어 드립니다.",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "오픈소스 기반 AI 개발 및 최적화",
+        "price": 501000,
+        "description": "기존 오픈 소스들을 활용하여 AI 모델을 만들어 드리며 환경 세팅 및 최적화 작업까지 해드립니다.",
+        "working_days": 10,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "논문 구현 AI 개발",
+        "price": 2001000,
+        "description": "논문에 있는 알고리즘을 구현해 드립니다.",
+        "working_days": 20,
+        "revision_count": 2
+      }
+    }
+  },
+  {
+    "gigId": 476423,
+    "ranking_order": 37,
+    "title": "AI기반 객체검출 등 컴퓨터비전 솔루션 제공드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/476423",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "StartUp",
+    "seller_grade": "NEW",
+    "seller_id": 1309194,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 14,
+    "rating_score": 5.0,
+    "weighted_score": 70.0,
+    "base_price": 50000,
+    "description": "인공지능 현업자가\n컴퓨터 비전 관련\n\n데이터 전처리\n에서부터\n\nAI 모델 설계, 구현, 검증\n까지 도와드립니다.\n\n간단한 문제부터  팀프로젝트까지 요구사항에 적합한 결과물을 제공합니다.\n\n다음은 외주 진행사항입니다.\n\n1. 요구사항분석\n\n2. 모델선정\n\n3. 모델구현\n\n4. 모델학습 및 테스트\n\n메세지 문의를 통해 요구사항을 알려주세요.",
+    "service_process": "1. 쪽지 또는 대면을 통한 상담\n\n2. 필요데이터 선정 및 수집\n\n3. 기간 및 금액 합의\n\n4. 프로젝트 시작",
+    "buyer_preparation": "프로젝트의 목적\n\n데이터(제공가능시)\n\n원하시는 결과물\nex) 이미지 객체탐지, 이미지 고해상화, 이미지 객체분할",
+    "revision_policy": "- 초기의뢰한 작업물이 변하지 않는선에서 라벨 클래스 이름변경 가능\n\n    - 다른 데이터셋 보유시 테스트 데이터로 추론한 결과 제공가능",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "Visual Basic"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "인공지능 모델 구현 및 학습",
+        "price": 50000,
+        "description": "요구사항에 적합한 모델 구현 및 학습",
+        "working_days": 7,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 520102,
+    "ranking_order": 38,
+    "title": "간단한 머신러닝, 딥러닝 모델 개발해 드립니다",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/520102",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "AIEngineer",
+    "seller_grade": "NEW",
+    "seller_id": 3072662,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 19,
+    "rating_score": 5.0,
+    "weighted_score": 95.0,
+    "base_price": 5000,
+    "description": "안녕하세요, \n데이터 수집부터 모델링까지 필요한 부분 도와드립니다. \n문의 주시면 프로젝트 규모, 목표, 기간 협의 후 진행합니다. \n아이디어 단계라도 함께 고민해 드릴 수 있으니 편하게 문의주세요^^\n간단한 프로젝트도 환영입니다:)\n \n데이터 수집/정제/시각화\n예측/회귀/분류/추천시스템\n오디오/이미지/자연어/생성AI ; 협의 후 진행 가능",
+    "service_process": "상담 후 24시간 이내 견적서 발송드리겠습니다.\n최소 1회이상 중간 보고드리며, 결과물에 만족하실 수 있게 최대한 맞춰 드리겠습니다.",
+    "buyer_preparation": "1.  프로젝트 내용, 목표, 기간\n2. 희망금액\n3. 학습 데이터(보유시)\n최대한 자세할수록 좋습니다:)",
+    "revision_policy": "의뢰한 범위 내에서 무상으로 수정 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "머신러닝, 딥러닝 모델 개발",
+        "price": 5000,
+        "description": "-데이터 분석\n-모델 코드\n-성능 결과",
+        "working_days": 1,
+        "revision_count": 3
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 540403,
+    "ranking_order": 39,
+    "title": "인공지능 프로젝트 부터 서비스까지 구현해 드립니다.",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/540403",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "릿지라쏘",
+    "seller_grade": "NEW",
+    "seller_id": 2690141,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 30000,
+    "description": "머신러닝, 딥러닝 서비스를 구현하고 싶은 분들이나 간단한 프로젝트, 혹은 장기 프로젝트 도중 어려움을 겪고 계신 분들을 위한 서비스로 이미지, 영상, 자연어, 정형 데이터 까지 필요한 분야에 맞게 모델을 개발해 드립니다.\n\n-Tensorflow, PyTorch 모두 사용 가능 합니다.(원하는 프레임워크를 골라 주세요)\n-머신, 딥러닝 솔루션 제공 및 설명\n- 코드 수정, 분석\n- 프로젝트 상담\n\n공부나 구현에 관해서 궁금하신 부분 편하게 문의 주세요\n\n절대 먼저 결제 진행하지 마시고 문의 주세요 원하시는 기간에 진행할 수 있는 프로젝트인지 확인해야 합니다.\n\n프로젝트, 서비스 구현에 따라 비용이 달라집니다.",
+    "service_process": "1. 상담 및 가격 협의(원하는 내용을 최대한 자세히 이야기해 주시고 데이터셋 유무를 알려주세요)\n\n2. 모델 개발\n\n3. 모델 전달\n\n4. 수정",
+    "buyer_preparation": "원하시는 내용을 최대한 자세히 이야기해 주세요. \n데이터셋 이름과 유무를 알려주세요.(데이터셋이 없으면 추가 비용 또는 진행이 어려울 수 있습니다.)",
+    "revision_policy": "최초 1회는 무상으로 수정이 가능합니다만 기존 내용과 다른 기능 또는 내용을 추가하는 작업은 어렵습니다.(내용이나 기능 구현 난이도에 따라 가능할 수도 있습니다.)",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "머신, 딥러닝 프로젝트, 서비스 구현",
+        "price": 30000,
+        "description": "머신, 딥러닝 서비스를 도입하고 싶은 사람부터 입문자, 프로젝트 도중 어려움을 겪고 있는 분들을 위한 서비스",
+        "working_days": 3,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 591790,
+    "ranking_order": 40,
+    "title": "파이썬 머신런닝 프로그램",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/591790",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "렛미",
+    "seller_grade": "LEVEL2",
+    "seller_id": 2388414,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 4,
+    "rating_score": 5.0,
+    "weighted_score": 20.0,
+    "base_price": 100000,
+    "description": "파이썬 텐서플로우를 이용한 프로그램입니다.\n\n제공되는 샘플을 통해 학습을 하고 학습된 가중치을 활용하여 결과를 판정합니다.\n\n제공된느 샘플이 많을수록 정제된 샘플일수록 인식률은 향상됩니다.\n\n문자인식 및 이미지 인식등에 활용할 수 있습니다.",
+    "service_process": "프로그램 작성 방향에 대해 1차 협의 후 프로토타입 프로그램을 제작해드립니다.\n\n프로토타입 프로그램을 통해 수정사항을 확인 및 반영해드리고\n\n최종 완성된 프로그램은 윈도우 실행파일로 전달해드립니다.",
+    "buyer_preparation": "머신런닝에 필요한 샘플을 제공해주셔야합니다.\n\n빠른 응답속도를 위해서는 고사양의 GPU가 필요합니다.",
+    "revision_policy": "프로그램 오류로 인한 비정상 작동이 확인되는 경우 무료 수정을 해드립니다.\n\n다만 처음 협의 내용과 다른 방향성의 수정을 원하는 경우,\n\n정상 작동이 확인 된 후 이후 환경변화로 인한 비정상 작동으로 인한 수정은 비용이 발생합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "파이썬 머신런닝 프로그램",
+        "price": 100000,
+        "description": "파이썬을 통해 학습을 하고 학습된 가중치를 통해 결과를 판정하는 프로그램",
+        "working_days": 3,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 716118,
+    "ranking_order": 41,
+    "title": "기업 맞춤형 AI 개발 · GPT·RAG·딥러닝 시스템",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/716118",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "드리미인터네셔널",
+    "seller_grade": "NEW",
+    "seller_id": 1953903,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 390000,
+    "description": "— “대표님, 원하는 AI 기능… 정확히 만들어 드립니다.”\n\n안녕하세요.\nAI · 영상처리 · 자동화 시스템 개발을 전문으로 하는 드리미 인터내셔널입니다.\n저는 선린인터넷고등학교 정보보호과를 졸업한 뒤,\n1년 동안 실제 스타트업에서 영상 기반 AI 프로젝트 5개를 직접 개발하며\n실제 현장에서 검증된 AI 시스템들을 만들어 왔습니다.\n연구 중심의 AI가 아니라,\n\n “진짜 돌아가는 AI”,\n실제 비즈니스에 바로 적용 가능한 실전형 AI 시스템을 개발합니다.\n\n 드리미 인터내셔널에서 만들어 드릴 수 있는 AI 서비스\n\n 1) 영상·이미지 기반 AI 시스템 개발\n\n실제 스타트업에서 아래와 같은 AI를 직접 개발했습니다:\n실시간 객체 인식(YOLOv5 기반)\n마커 인식 AR 시스템\n영상 분석 기반 자동 제어 시스템\n세그먼테이션/클래시피케이션 기반 이미지 분류\nEdge Detection, 템플릿 매칭 등 영상처리 응용\n🟦 예: 카메라만 비추면 자동으로 동작하는 IoT 제어 AI\n🟦 예: 영상 속 특정 위치에 도달하면 자동 격발되는 AI 시스템\n🟦 예: 실제 사격판을 인식하여 자동 점수 계산하는 AR 앱\n이런 기술력은 쇼핑몰·제조·보안·교육·콘텐츠 분야 등\n어떤 산업에도 맞춤형으로 재구성할 수 있습니다.\n\n 2) GPT·RAG 기반 AI 챗봇·대화형 서비스 개발\n\nGPT 연동 상담 챗봇\n사내 문서 기반 RAG 검색 시스템\nFAQ 자동화 챗봇\n업무 보고서 자동 작성 AI\n맞춤형 LLM API 연동\n실제 업무에 바로 적용되는 실전 AI 업무도구를 만들어 드립니다.\n\n 3) 자동화 + AI가 결합된 “실전 자동화 솔루션”\n\n너는 영상 처리 기반 자동화, 시리얼 통신, UI 인식 자동화까지 다뤄본 경험이 있기 때문에\n다른 판매자보다 훨씬 고급 수준의 자동화까지 개발 가능해.\n웹 자동화 + AI 판단 기능\n영상 기반 자동 클릭 / 자동 녹화\n스마트 디바이스 제어\nIoT + AI 융합 자동화\n조건 기반 반복 업무 자동화\n단순 매크로 수준이 아니라,\nAI로 판단하고 자동화가 실행되는 지능형 프로그램까지 가능합니다.\n\n 드리미 인터내셔널의 강점\n\n 실제로 “동작하는” AI를 만드는 실전형 기술력\n영상 처리 + AI 모델 + 자동 제어 + 서버 연동까지\n단독으로 전체 파이프라인을 구축해본 실무 경험을 가지고 있습니다.\n\n 요구사항 기획 개발 테스트까지 원스톱\n복잡한 용어 몰라도 됩니다.\n원하시는 기능을 말하면 제가 전체 구조를 설계해드립니다.\n\n 빠른 개발 속도 & 정확한 구현\n스타트업에서 실제로\n\"3~4주 단위의 AI 프로젝트\" 를 연속으로 수행했던 경험을 기반으로\n단기간 고품질 개발이 가능합니다.\n\n 문제 해결 능력\n현장에서 직접 디버깅하고 개선해온 경험 덕분에\n예상치 못한 문제에도 빠르게 대응할 수 있습니다.\n\n 실제 경험 기반 주요 개발 사례 요약\n\n 실시간 영상 인식 기반 자동 제어 시스템 개발\nYOLOv5, OpenCV 기반 객체 인식 시리얼 통신으로 IoT 장비 자동 제어\n\n 템플릿 매칭 기반 자동 녹화 프로그램 개발\nOBS UI를 이미지 기반으로 감지해 자동 녹화 시작\n(부팅만 하면 녹화 자동 시작)\n AR + AI 기반 실시간 사격 게임 시스템 개발\nKeras 세그먼테이션 + Android 앱 + 서버 영상 분석으로\n실제 점수 계산과 리플레이 기능 구현\n\n 실시간 마커 인식 기반 시야 전환 시스템\nClassification 모델로 3면 마커 인식 웹 UI로 실시간 화면 전환\n\n “이런 AI가 필요하다면 개발 가능합니다”\n영상 인식 AI\n물체 감지·추적 AI\n제조·보안 자동화 AI\nAR 기반 인식 앱\nGPT 기반 챗봇\nRAG 검색 시스템\nIoT + AI 제어 시스템\n웹/앱 AI 기능 개발\n데이터 기반 머신러닝 모델링\n이미지·영상 자동 분석\n\n 개발이 처음이어도 괜찮습니다.\n제 고객 중 많은 분들은\n AI 개발이 처음이었지만,\n 상담만으로도 “내가 만들고 싶었던 게 명확해졌다”고 하셨습니다.\n원하시는 기능만 알려주시면\n 제가 전체 구조를 설계하고 구현까지 책임지겠습니다.\n\n대표님, AI는 어렵지만, 만드는 건 제가 대신하겠습니다.\n지금 문의 주세요!\n당신의 아이디어를 가장 빠르고 정확하게 현실로 만들어 드립니다.",
+    "service_process": "🧩 드리미 인터내셔널 AI 개발 · 구축 서비스 제공 절차\n\n1️⃣ 1차 상담 · 문제 정의 (무료 상담)\n크몽 메시지 또는 안심전화로 원하시는 서비스·아이디어·업무 환경을 편하게 말씀해 주세요.\n전문 용어나 기획서가 없어도 괜찮습니다.\n“어떤 일을 AI로 자동화/고도화하고 싶은지” 기준으로\n실제 구현 가능 여부, 대략적인 난이도, 필요 기술 스택을 먼저 안내드립니다.\n\n2️⃣ 요구사항 정리 · 기획 정리\n상담 내용을 바탕으로\n어떤 입력 데이터를 쓰는지 (영상/이미지/텍스트/센서 등)\n어떤 출력 결과를 기대하는지 (탐지, 분류, 자동 제어, 리포트 등)\nPC/웹/앱/IoT 중 어디에서 동작할지\n를 정리하여, 이해하기 쉬운 형태로 간단 기획서 수준까지 정리해드립니다.\n필요하신 경우\n텍스트 설명, 예시 영상, 기존 시스템 캡처만 보내주셔도 제가 구조를 잡습니다.\n\n3️⃣ 견적 · 일정 · 범위 확정\n정리된 요구사항을 기준으로\n예상 개발 기간\n개발 범위 (필수 기능 / 선택 기능)\n비용 구간\n데이터 준비 필요 여부(고객 보유 vs 새로 수집)\n를 투명하게 안내드리고, 서로 동의된 범위 내에서만 진행합니다.\n이 단계에서 STANDARD / DELUXE / PREMIUM 중 적합한 구간도 함께 추천드립니다.\n\n4️⃣ 모델 개발 · 기능 구현 · 중간 점검\n이제 본격 개발 단계입니다.\nPython · OpenCV · YOLO 계열 · Keras 등 적합한 스택으로 AI/딥러닝 모델 설계 및 구현\n필요 시 웹/앱/PC 실행 프로그램 형태로 실제 사용 가능한 형태로 연동\n중간 단계에서 데모 영상 / 화면 캡처 / 테스트 결과를 공유하며\n요청하신 방향과 맞는지 계속 확인합니다.\n“완성 후 한 번에 보여주는” 방식이 아니라\n중간 결과를 보면서 함께 조정하는 방식으로 진행합니다.\n\n5️⃣ 최종 테스트 · 전달 · 설치 지원\n개발 완료 후에는 실제 사용 환경을 최대한 반영하여\n테스트 데이터 / 실제 업무용 데이터로 최종 테스트\n문제 없는 것을 함께 확인한 뒤\n실행 파일(exe) 또는 웹/서버 주소\n필요 시 기본 사용 매뉴얼(텍스트/이미지 위주)\n옵션 선택 시 소스 코드 및 간단 구조 설명\n까지 함께 전달드립니다.\n원격이 필요하신 경우, 화면 공유/원격 접속으로 설치 및 사용법 안내도 지원합니다.\n\n6️⃣ 사후 지원 · 추가 개선(옵션)\n기본적으로는 약속된 무상 수정 범위 내에서 버그·오류는 책임 보수합니다.\n실제 사용 중 “아이디어가 더 떠오른 경우”\n기능 추가 / 고도화는 별도 옵션으로 재협의 후 진행 가능합니다.\n단발성으로 끝나는 개발이 아니라,\n“처음 만든 버전에서 점점 완성도를 올려가는 파트너십”을 지향합니다.",
+    "buyer_preparation": "의뢰인 준비사항 (드리미 인터내셔널)\nAI·자동화 개발은 어렵게 준비할 필요 없습니다.\n 아래 4가지 중 한 가지만 준비하셔도 충분히 상담 진행이 가능합니다.\n\n1️⃣ 현재 하고 있는 업무 또는 해결하고 싶은 문제 설명\n간단한 문장, 음성메모, 영상, 캡처 모두 가능합니다.\n예)\n“매일 수백 개의 엑셀을 정리하는 업무를 자동화하고 싶어요.”\n“카메라로 특정 객체를 인식해서 제어하고 싶어요.”\n“우리 서비스에 챗봇을 붙이고 싶어요.”\n“영상에서 위치만 잡아내는 기능이 필요해요.”\n전문 용어 필요 X\n 그냥 원하는 결과만 말씀해주시면 제가 기술적으로 풀어서 정리해드립니다.\n\n2️⃣ 참고 자료 1개 이상\n형식 제한 없이 어떤 자료든 환영합니다.\n영상(업무 흐름, UI 흐름, 작업 과정 촬영)\n스크린샷\n기존 프로그램 사용 모습\n참고하고 싶은 서비스 링크\n간단한 텍스트 메모\n“자료가 전혀 없는 경우”에도\n원격 또는 전화로 설명해주시면 제가 대체 자료를 작성해 드립니다.\n\n3️⃣ 사용 환경 정보\nAI·자동화가 동작해야 하는 실제 환경을 알려주세요.\nWindows / Mac / Android / iOS 중 무엇인지\nPC 사양\n사용 중인 웹사이트·앱 종류\n내부망인지 외부망인지(기업 고객의 경우)\n이 정보는 속도·정확도·구현 방식을 정확하게 잡는 데 꼭 필요합니다.\n\n4️⃣ 우선순위 or 목표\n어떤 부분이 가장 중요한지 알려주시면 개발 성능을 그쪽에 맞춰 최적화합니다.\n예)\n“정확도가 제일 중요합니다.”\n“속도가 빠른 쪽이 더 좋아요.”\n“손이 하나도 안 가는 자동화를 원해요.”\n“MVP 형태로 빨리 결과를 보고 싶어요.”\n\n5️⃣ 예산 범위 또는 개발 기간 (선택사항)\n필수는 아니지만, 미리 알려주시면\n가장 효율적인 패키지(STANDARD / DELUXE / PREMIUM)를 추천해드립니다.\n예)\n“2주 안에 완성되면 좋겠어요.”\n“1달 안에는 어떤 형태든 결과물이 필요해요.”\n“대략 100~200 사이에서 가능할까요?”\n\n 준비 사항이 없어도 괜찮습니다.\n정말 많은 의뢰인들이\n“제가 준비한 게 거의 없어요… 괜찮을까요?”\n라고 물어보시는데,\n\n드리미 인터내셔널은\n 설명 분석 기획 정리까지 대신 해주는 서비스라서\n 자료 없이 상담부터 바로 시작해도 문제 없습니다.",
+    "revision_policy": "✅ 수정 및 재진행 안내 (드리미 인터내셔널)\n본 서비스의 무상 수정은 가격 설정 > 수정 횟수에서 지정된 범위 내에서만 제공되며, 아래 기준에 따라 진행됩니다.\n\n✅ 1. 무상 수정 범위\n무상 수정은 다음과 같은 “기능 변경을 수반하지 않는 작업”에 한하여 제공됩니다.\n모델 출력 형식, 파일 구조 등 간단한 사용성 개선\n기존 기능의 오작동·버그·요구사항 미반영에 대한 오류 수정\n학습 데이터나 요구사항 자체가 바뀌지 않는 범위에서의 소규모 파라미터 보정\n리포트 문구·표현 등 문서 수정\n※ 단, 학습 데이터 추가, 모델 구조 변경, 성능 목표 상향, 완전히 새로운 기능 요구는 무상 수정 범위에 포함되지 않습니다.\n\n✅ 2. 유상 수정 및 재진행이 필요한 경우\n다음 사례는 초기 견적 범위를 벗어나는 경우로 유상 재작업이 발생합니다.\n모델 구조 재설계 / 아키텍처 변경 요청\n새로운 기능 추가 또는 기존 모델의 목적 변경\n학습 데이터 변경·추가·라벨 수정 요구\n성능 목표치 상향(예: “정확도 80%→95%로 올려주세요”)\n개발 완료 후 새로운 조건, 추가 요구사항, 업무 범위 확대 발생 시\n이러한 작업은 가격 설정 > 추가 옵션에서 선택하거나 별도 견적이 제공됩니다.\n\n✅ 3. 버그·오류 관련 안내\n명확한 버그(오작동, 예외 발생, 요구 명세 미반영)는\n무상 수정으로 처리합니다.\n단, 사용 환경 변화(새 OS, 새 장비, 고객의 자체 코드 변경 등)로 인해 발생한 오류는 무상 범위에서 제외됩니다.\n\n✅ 4. 수정 가능 시점\n작업물 전달 후 ~ 구매 확정 전까지 무상 수정이 가능합니다.\n구매 확정 후 발생하는 추가 수정은 유상 옵션을 통해 진행됩니다.\n\n✅ 5. 취소·환불 규정\n취소 및 환불 기준은 크몽/플랫폼 정책 및 관련 법령을 따르며,\n본 서비스 고유 조건은 적용되지 않습니다.\n\n⚡ 드리미 인터내셔널 원칙\n개발 과정 중 중요한 변경·추가가 필요한 경우,\n사전에 반드시 안내 후 상호 동의하에 진행합니다.\n고객과의 분쟁을 방지하고, 투명한 서비스 제공을 위해\n모든 작업 범위는 문서화된 요구사항 기준으로 판단합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "5인 이상 30인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "5인 이상 30인 미만"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "기본 AI 모델 개발",
+        "price": 390000,
+        "description": "소규모 데이터 기반 기본 머신러닝·딥러닝 모델 개발. 단순 예측·분류·검출 작업에 적합.",
+        "working_days": 7,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "맞춤형 AI 모델 고도화 개발",
+        "price": 1100000,
+        "description": "중·대형 데이터 기반의 AI 모델 개발. 정확도 향상을 위한 고급 튜닝 및 분석 포함.",
+        "working_days": 14,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "AI 서비스 수준 모델 개발 패키지",
+        "price": 2200000,
+        "description": "고성능 모델 학습 + 평가 + 리포트 + API 또는 프로그램 형태로 제공되는 서비스급 모델 개발.",
+        "working_days": 30,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 648658,
+    "ranking_order": 42,
+    "title": "ML, DL 맞춤형 솔루션",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/648658",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "109",
+    "seller_grade": "NEW",
+    "seller_id": 4236809,
+    "seller_intro": "",
+    "avg_response_time": "5시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 500000,
+    "description": "저는 인공지능(AI)과 공간정보 분야에 특화된 데이터 분석 전문가로, 이미지 분석 및 객체 탐지 솔루션을 제공합니다.\n현재 AI 스타트업 연구원으로 재직 중이며, 한국건설기술연구원, LH토지주택연구원 등 정부출연연구기관에서의 경험을 바탕으로 전문성을 키워왔습니다.\n\n한양대학교에서 학사, 석사를 마치고 박사과정을 수료하여 이론과 실무를 겸비하고 있습니다.\n\n주요 포트폴리오로는:\n• 위성/드론 영상 기반 건물 객체탐지 및 벡터 추출 시스템 개발 (CES 혁신상 수상)\n• 360° 파노라마 이미지 기반 전신주 검출 및 위치 추정 (동유럽 국가 지적사업 프로젝트)\n• 데이터 분석 관련 SCI 및 국내 학술지 논문 발표\n\n고객의 데이터 특성과 요구사항에 맞춘 맞춤형 AI 모델을 설계하고, 데이터 수집부터 전처리, 모델 학습, 결과물 도출까지 전 과정을 체계적으로 진행합니다.\n특히 위성영상, 드론 이미지, 360° 파노라마 등 특수 이미지 데이터 분석에 강점이 있으며, 객체 탐지, 세그멘테이션, 이미지 분류 등 다양한 컴퓨터 비전 기술을 활용한 솔루션을 제공합니다.\n프로젝트 시작 전 충분한 상담을 통해 최적의 접근 방법을 함께 모색하고, 중간 결과물 공유와 피드백 반영을 통해 고객 만족도 높은 결과물을 제공해 드립니다.",
+    "service_process": "1. 요구사항 분석 및 상담\n- 데이터 현황 확인 및 분석 요구사항 파악\n- AI 모델 학습 시나리오 및 최종 산출물 형태 협의\n- 프로젝트 기간 및 비용 견적 제안\n2. 솔루션 설계 및 계획\n- 데이터 수집 및 전처리(정제) 방안 수립\n- 프로젝트 유형별 최적 모델 선정 및 알고리즘 설계\n- AI 모델 성능 평가 기준 협의\n3. 개발 및 중간 검토\n- 데이터 수집 및 라벨링(필요 시)\n- AI 모델 학습 및 최적화\n- 중간 결과물 전달 및 피드백 수렴(클라이언트 요청 시)\n4. 솔루션 완성 및 제공\n- 최종 산출물 및 관련 소스 코드 제공\n- 클라이언트 피드백 반영 및 수정 보완\n- 최종 결과물 사용 방법 안내",
+    "buyer_preparation": "* 원천 데이터 및 라벨(어노테이션) 보유 여부 확인\n\n* 구체적인 프로젝트 목표(ex. 위성영상에서 건물 식별 및 윤곽선 추출 솔루션 개발)\n\n* 명확한 요구 사항이 없는 경우에도! 상담을 통해 함께 가이드라인을 정의하고\n최적의 솔루션 아이디어를 제공해 드립니다.",
+    "revision_policy": "STANDARD,  DELUXE , PREMIUM 모두 작업물 전달 이후는 1회의 수정이 가능합니다. \n수정 범위는 아래와 같습니다.\n\n- 추가 데이터가 생긴 경우, 해당 데이터를 포함한 추가 학습\n- 모델 성능 지표가 추가적으로 필요한 경우, 해당하는 성능 지표 차트 추가\n\n프로젝트 진행 도중의 수정사항은 구매 옵션에 기재된 수정 횟수만큼 진행해 드립니다. \n모델 자체 변경 또는 학습 방법을 변경하는 등 큰 범위의 사항은 수정 범위에 해당하지 않습니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "인공지능 솔루션",
+        "price": 500000,
+        "description": "함수 단위 인공지능 솔루션 제공",
+        "working_days": 7,
+        "revision_count": 3
+      },
+      "DELUXE": {
+        "title": "인공지능 솔루션 패키지",
+        "price": 1000000,
+        "description": "패키지 단위 인공지능 솔루션 제공",
+        "working_days": 14,
+        "revision_count": 3
+      },
+      "PREMIUM": {
+        "title": "인공지능 솔루션 프로젝트",
+        "price": 2000000,
+        "description": "프로젝트 단위 인공지능 솔루션 제공",
+        "working_days": 21,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 648894,
+    "ranking_order": 43,
+    "title": "머신러닝 딥러닝 알파 솔루션",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/648894",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "알파코더",
+    "seller_grade": "NEW",
+    "seller_id": 3674906,
+    "seller_intro": "",
+    "avg_response_time": "4시간 이내",
+    "review_count": 4,
+    "rating_score": 4.9,
+    "weighted_score": 19.6,
+    "base_price": 100000,
+    "description": "서비스 설명\n실전 맞춤형 인공지능 솔루션을 제공해 드립니다.\n\n개인프로젝트부터 회사 프로젝트에 필요한 솔루션까지\n고객이 원하는 수준의 인공지능을 만들어 드립니다.\n\n저희팀은 데이터로부터 필요한 정보를 추출해내는 인공지능 개발 전문가 집단으로서\n100건 이상의 인공지능 프로젝트를 진행한 경험이 있습니다.\n\n어떠한 솔루션이든 부담 없이 의뢰 상담 신청해주시면 감사하겠습니다.\n\n주요 member 소개\n명문대 석사, 글로벌 대기업 및 AI 스타트업 출신 최고의 전문가팀이 개발해드립니다.\n실제 전세계에 판매되는 제품들에 활용되는 최고의 AI 솔루션 제작 경험으로\n고객의 요구사항을 만족시켜 드립니다.\n\n서강대 컴퓨터 공학과 석사 출신 데이터 엔지니어 n명 / 대기업 연구원\n- 데이터 분석, AI 전문\n한양대 공학과 석사 출신 AI 알고리즘 엔지니어 n명/ 대기업, 스타트업 연구원\n- 영상, 이미지 기반 AI Solution 전문, Web, App 전문\n\n주요 작업\n- 머신러닝, 딥러닝 등을 활용한 객체인식, 음성인식, Segmentation\n- GPT를 활용한 Application 개발\n- AI Solution이 탑재된 Web, App Application 개발\n- 카메라, 레이더, 라이다 센서를 활용한 객체 인식, 트레킹 알고리즘\n- ROS, ROS2를 활용한 로봇 알고리즘 개발\n- 인식, 판단, 제어 종합 자율주행 알고리즘 개발\n- Python, C++, C, Cuda 알고리즘 최적화 작업\n- 기타 AI Application",
+    "service_process": "부담 없이 연락 주세요.\n원하시는 제품 수준을 같이 고민해보고,\n소요 시간, 비용을 산정해 드립니다.",
+    "buyer_preparation": "원하는 결과물에 대한 요구사항\n작업 완료 날짜\n의뢰 가능한 비용\n\n등 고민해보시고 상담 요청 주세요",
+    "revision_policy": "기본적으로는 의뢰인의 요청사항에 맞게 최종 산출물을 제공해드리고,\n결과물 보시고 부족한 부분이 있다면 1차 추가 수정해드립니다.\n추가 요청 사항이 있다면 추가 비용 발생 할 수 있습니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C",
+          "C++",
+          "Swift"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 903,
+        "meta": [
+          "Flutter",
+          "Swift"
+        ],
+        "title": "앱"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Flask"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 906,
+        "meta": [
+          "Docker",
+          "Docker compose",
+          "Git",
+          "Github",
+          "Github Action",
+          "Gitlab",
+          "k9s",
+          "Kubernetes"
+        ],
+        "title": "데브옵스"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Azure",
+          "AWS"
+        ],
+        "title": "클라우드"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "인공지능 솔루션",
+        "price": 100000,
+        "description": "최고의 전문가팀이 함수 단위의 인공지능 알파 솔루션을 제공 해 드립니다.",
+        "working_days": 2,
+        "revision_count": 1
+      },
+      "DELUXE": {
+        "title": "인공지능 솔루션 패키지",
+        "price": 500000,
+        "description": "최고의 전문가팀이 패키지 단위의 인공지능 알파 솔루션을 제공 해 드립니다.",
+        "working_days": 5,
+        "revision_count": 2
+      },
+      "PREMIUM": {
+        "title": "인공지능 솔루션 프로젝트",
+        "price": 2000000,
+        "description": "최고의 전문가팀이 프로젝트 단위의 인공지능 알파 솔루션을 제공 해 드립니다.",
+        "working_days": 20,
+        "revision_count": 3
+      }
+    }
+  },
+  {
+    "gigId": 655285,
+    "ranking_order": 44,
+    "title": "딥러닝 머신러닝 솔루션 개발",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/655285",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "류스카이SKAI",
+    "seller_grade": "NEW",
+    "seller_id": 4286384,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 440000,
+    "description": "안녕하세요. 딥러닝/머신러닝 개발 전문가 스카이(SKAI) 입니다.\n2020년도부터 약 5년 이상 딥러닝 개발을 해오고 있으며, 다양한 분야에서 Image, Video, Audio, Text 등 각종 데이터를 기반으로 한 인공지능 개발을 수행해 왔습니다.\n\n주기적인 커뮤니케이션을 통해 데이터 분석과 딥러닝 프로그램 개발이 필요한 모든 분야에서 고객님이 원하시는 최적의 솔루션을 제공해 드릴 수 있도록 최선을 다하겠습니다.\n\n서비스 비용은 개발의 난이도, 데이터의 규모 등에 따라 조정될 수 있으며,  개발 시작 전 사전협의를 통해 말씀드립니다. 만족스러운 결과를 보여드리고 비용을 받도록 하겠습니다.",
+    "service_process": "1. 의뢰내용 및 샘플데이터 확인\n   - 의뢰하시는 내용을 간단히 정리해 주세요.\n   - 분석하고자 하는 샘플데이터를 보내주시면 검토에 많은 도움이 됩니다.\n\n2. 모델, 인터페이스, 시스템구성 등 최종결과물 형태 확인\n   - 사전 검토를 통해 최종결과물의 구조를 간단히 정리해 드리고\n   - 고객님이 원하시는 내용이 맞는지 확인 받습니다.\n\n3. 비용협의\n   - 공수 및 비용을 말씀드리고, 고객님과 조율합니다.\n\n4. 프로젝트 수행 및 결과물 제공\n   - 주기적인 커뮤니케이션을 통해 진행 현황을 말씀드리고,\n   - 최종 결과물을 보내드립니다.\n\n5. 검수완료 후 비용지급\n   - 고객님의 검수가 완료된 후, 비용을 지급 받습니다. (크몽 에스크로서비스)",
+    "buyer_preparation": "1. 의뢰하시는 내용에 대한 간단한 설명\n   - 전반적인 흐름도 등 도식화가 되어 있으면 더욱 좋습니다.\n\n2. 분석하고자 하는 샘플데이터 \n   - 주제만 제시해 주시고, 제가 알아서 데이터를 수집하는 방식의 진행은 어렵습니다.",
+    "revision_policy": "최초 협의한 내용과 결과물이 상이한 경우 수정 및 재진행 해 드립니다.\n(이를 방지하기 위해 중간보고 및 지속적인 커뮤니케이션을 진행합니다.)",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "SQL"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "MariaDB"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Flask"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Pytorch"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "소규모 데이터 분석 및 모델 개발",
+        "price": 440000,
+        "description": "머신러닝/딥러닝 모델 1개 개발 또는 소규모 데이터 분석 (상담후 결정)",
+        "working_days": 7,
+        "revision_count": 2
+      },
+      "DELUXE": {
+        "title": "2~3개 멀티 모델 연동 기능 개발",
+        "price": 880000,
+        "description": "2~3개 모델 연동이 필요한 솔루션 개발 또는 중규모 데이터 분석 (상담후 결정)",
+        "working_days": 15,
+        "revision_count": 3
+      },
+      "PREMIUM": {
+        "title": "고난도 데이터 분석 및 멀티모델 연동",
+        "price": 1650000,
+        "description": "데이터 사전 분석 필요, 멀티 모델 연동, 시연용 GUI프로그램 개발 등 (상담후 결정)",
+        "working_days": 30,
+        "revision_count": 5
+      }
+    }
+  },
+  {
+    "gigId": 679366,
+    "ranking_order": 45,
+    "title": "LLM언어모델의 전문분야, 특정분야 학습-파인튜닝",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/679366",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "hyper7cloud",
+    "seller_grade": "NEW",
+    "seller_id": 1762057,
+    "seller_intro": "",
+    "avg_response_time": "2시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 6000000,
+    "description": "[클라우드 전문가]\n- 24년간의 IT환경에서 설계,개발,테스트,운영의 경험을 보유하고 있습니다.\n- AI/ML/LLM의 학습및 서빙환경에 알맞는 자원(GPU, 메모리, 저장소 등)을 선정하여 작업합니다.\n- AWS, GCP, Azure, Oracle Cloud 등 클라우드 환경에서의 AI/BigData 경험을 다수보유 하고 있습니다.\n\n[보유자격증]\n- AWS Certified Specialty - Machine Learning\n- 정보처리기사1급\n\n[서비스 설명]\n- GPT같은 언어모델을 직접 서비스 할 수 있도록 특정분야, 전문분야의 지식을 공개언어모델에 학습(파인튜닝) 하여 드립니다.\n\n- 기본 언어모델은 무료 공개용 언어모델로 추천하여 드립니다.\n* Llama, Qwen, Deepseek, Mistral, GPT 기타등등\n\n- 목적에 맞는 GPU를 사용하여 목표 시간내에 학습이 완료되도록 합니다.\n* RTX, L40, A40, A100, P100, H100, B200 기타등등\n\n- 학습 완료시 산업계 표준에 맞게 패키징 하여 가이드및 사용법 문서를 전달하여 드립니다.\n* 서비스 가능한 도커 이미지 또는 허깅페이스 모델\n* 가이드 또는 사용법\n\n- 실제 운영 단계에서 서빙환경 상담및 가이드 가능합니다.(별도 문의)\n* AWS, GCP, Azure등의 환경에서 서빙및 운영하는 방법\n* 컨테이너 기반(Kubernetes) 에서의 서빙및 운영하는 방법\n* 기존 On-premise 환경에서의 서빙및 운영하는 방법\n* 학습된 모델로 다른 AI Agent나 기타 외부 시스템과의 연동 방법\n\n- 학습된 언어모델은 다음과 같은 전문분야를 예시로 서비스가 가능합니다.\n* 법률/사내내규/조례/회칙/판례/기타 전문 법률정보\n* 전문 의료정보\n* 메뉴및 식음료 조리 및 비법\n* 판매제품의 정보및 질의 답변, 추천, 상담\n* 기타 사내 기밀 데이터",
+    "service_process": "- 사전 요구사항 공유\n- 작업자 질의 및 검토 리뷰\n- 작업 방안및 계획서 검토 요청\n- 결제\n- 1차 작업완료및 작업상세내역 제출\n- 요청자 검토및 피드백 반영\n- 2차 테스트및 검토\n- 최종 작업완료\n- 산출물 인계(프로그램및 기타 문서)",
+    "buyer_preparation": "- 구축하고자 하는 언어모델의 분야 및 간단한 설명\n- 희망하는 공개 LLM 선정 또는 추천가능\n- 학습 데이터 제공\n- 학습후 예상 질의/응답 샘플",
+    "revision_policy": "* 구매확정전 2회 수정 가능 합니다.\n예) 추가 학습데이터 반영, 1차 테스트후 불만족스러운 답변에 대한 보충 학습데이터 반영",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Django",
+          "FastAPI",
+          "Flask"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Airflow"
+        ],
+        "title": "데이터·ML·DL"
+      },
+      {
+        "id": 907,
+        "meta": [
+          "Azure",
+          "AWS",
+          "GCP"
+        ],
+        "title": "클라우드"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "언어모델 미세조정 - 파인튜닝",
+        "price": 6000000,
+        "description": "- 공개용 LLM(대규모언어모델) 선정\n- 특정분야및 전문분야 데이터를 이용하여 미세조정 학습\n- 모델 패키",
+        "working_days": 14,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 681132,
+    "ranking_order": 46,
+    "title": "생성형 AI 기반 서비스 구축",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/681132",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "InsightAI",
+    "seller_grade": "NEW",
+    "seller_id": 1835316,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 500000,
+    "description": "본 서비스는 AI도입을 필요로 하는 기업 및 개인 고객의 프로젝트 요구사항에 맞추어 서비스를 제공합니다. AI 모델 설계, 데이터 준비, 모델 학습, 모델 모듈화에 이르기까지 프로젝트의 전 과정을 체계적으로 지원하며, 고객의 목표를 달성할 수 있는 맞춤형 솔루션을 제공합니다.",
+    "service_process": "1. 요구사항 분석\n고객님께서 원하시는 요구사항이 무엇인지 정의합니다. \n2. 프로젝트 계약 및 착수\n상세 견적과 일정에 대한 합의를 거친 후, 계약을 체결하고 프로젝트를 시작합니다.\n3. 프로젝트 수행\nAI 모델 기획부터 데이터 수집·가공, 학습, 테스트, 배포까지 프로젝트 전 과정을 체계적으로 수행합니다. 진행 과정 중  중간 결과물 보고 및 전달합니다. \n4. 결과 검수 및 전달\n프로젝트 완료 후, 산출물을 고객과 함께 검수하여 최종 결과물을 전달합니다.",
+    "buyer_preparation": "요구사항 명세서가 필요합니다. 의뢰인이 구현하고자 하는 기능, 서비스 목표, 예상 일정, 예산 범위 등을 구체적으로 정리한 문서로, 프로젝트의 정확한 범위와 방향성을 설정하는 데 필수적인 준비자료가 됩니다.",
+    "revision_policy": "일정 기간 무상 유지보수와 성능 검수를 제공하여 \n프로젝트 성과가 안정적으로 유지되도록 지원합니다.",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "MATLAB",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "생성형AI 모델 개발 및 서비스 구축",
+        "price": 500000,
+        "description": "AI 개발이 필요로 하신 분들을 위한 서비스 입니다.",
+        "working_days": 10,
+        "revision_count": 2
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 696255,
+    "ranking_order": 47,
+    "title": "데이터 기반 맞춤형 AI 모델 제작",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/696255",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "KHH0618",
+    "seller_grade": "NEW",
+    "seller_id": 4613394,
+    "seller_intro": "",
+    "avg_response_time": "1시간 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 70000,
+    "description": "안녕하세요, AI 개발자 KHH0618입니다.\nYOLOv8 객체 감지와 EfficientNet 속성 검지를 활용해 CCTV 영상 분석 모델을 개발했으며, 하이퍼파라미터 최적화 전에도 Precision·Recall 0.92, mAP50 0.96을 달성한 경험이 있습니다. 또한 강수 여부 예측 프로젝트(RainScanner)에서는 DNN과 LSTM 모델을 활용하여 각각 최대 정확도 72%, 81%를 기록하며 기상 데이터 기반 예측 모델링을 수행한 경험이 있습니다.\n\n저는 수치형 데이터를 기반으로 간단하고 가볍게 시작할 수 있는 AI 모델(DNN)을 제작합니다.\n\n데이터만 주시면, 빠르게 학습시켜 결과를 확인할 수 있도록 맞춤형 모델과 코드, 간단한 사용 가이드를 제공합니다. AI를 직접 구현하기 어려운 분들이나, 빠른 테스트(PoC) 용도로 모델이 필요하신 분들께 적합한 서비스입니다. \n\n----------작업 범위----------\n* 데이터 전처리 (결측치/정규화 등 기본 처리)\n* DNN 기반 모델 설계 및 학습\n* 성능 지표(Precision, Recall 등) 보고\n* 학습된 모델 파일(.h5 or .pt) 제공\n* 간단한 실행 가이드 문서 제공\n\n----------제공 형태----------\n* 모델 파일 (학습 완료본)\n* 학습 코드 (Python, Jupyter Notebook)\n* 결과 리포트(성능 수치)  \n\n----------예상 납기----------\n* 약 5일 (데이터 크기에 따라 변동 가능)\n\n----------유의 사항----------\n* 모델 성능은 데이터 품질·수량에 따라 달라질 수 있습니다.\n* 기본 패키지는 수치형 데이터 전용이며, 이미지 데이터 확장은 상위 패키지에서 지원됩니다.\n* 작업 전 데이터 샘플을 꼭 확인해야 정확한 견적과 기간 안내가 가능합니다.",
+    "service_process": "1. 데이터 전달 및 확인\n고객님께서 제공하신 수치형 데이터를 검토합니다.\n데이터 품질 및 크기에 따라 예상 작업 범위와 결과를 안내드립니다.\n2. 데이터 전처리\n결측치 처리, 정규화 등 기본 전처리를 진행합니다.\n3. 모델 설계 및 학습\nDNN 기반 모델을 구축하여 고객님의 데이터를 학습합니다.\nPrecision, Recall 등 주요 성능 지표를 측정합니다.\n4. 결과 정리 및 납품\n학습된 모델 파일(.h5 or .pt)과 학습 코드, 성능 결과 리포트를 제공합니다.\n간단한 실행 가이드 문서를 함께 전달합니다.",
+    "buyer_preparation": "1. 데이터 파일\nCSV, Excel 등 수치형 데이터 파일\n최소 100개 이상의 샘플 데이터 권장\n2. 데이터 설명\n각 컬럼(변수)이 의미하는 바 (예: 나이, 소득, 점수 등)\n예측하고자 하는 목표 변수(타깃)\n3. 요구사항\n원하는 출력 형태 (예: 분류 / 회귀 예측)\n모델 적용 목적 (예: 단순 테스트, PoC, 분석 참고용 등)\n4. 기타 (선택사항)\n데이터 보안 관련 요구사항\n원하는 성능 목표치(있을 경우)",
+    "revision_policy": "[기본 규정]\n1. 용역 제공이 개시되기 전: 취소 및 환불 가능\n2. 용역 제공이 개시된 후\n　· 가분적 용역: 개시되지 않은 범위에 대한 취소 및 환불 가능\n　· 불가분적 용역: 취소 및 환불 불가\n3. 제공된 용역이 구매 확정된 경우: 거래 금액을 정산 받은 전문가와 직접 취소 및 환불 협의\n\n[참고 사항]\n· 다음의 경우에는 해당 기준을 따릅니다.\n　- 전문가가 제시한 취소 조건이 기본 규정보다 의뢰인에게 유리한 경우\n　- 전문가가 별도로 명시한 사전 준비 사항(상담, 출장, 예약 등)과 이에 대한 취소 조건이 있는 경우\n· 제공받은 용역이 표시·광고의 내용과 다르거나 계약 내용과 다르게 이행된 경우 용역을 공급받은 날부터 3개월 이내 또는 그 사실을 안 날 또는 알 수 있었던 날부터 30일 이내에 취소 및 환불이 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 104,
+        "meta": [
+          "MySQL",
+          "MariaDB"
+        ],
+        "title": "데이터베이스"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 904,
+        "meta": [
+          "Django",
+          "FastAPI"
+        ],
+        "title": "백엔드"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "데이터 기반 맞춤형 AI 모델 제작",
+        "price": 70000,
+        "description": "빠른 테스트용 수치형 데이터 AI 모델 제작 및 성능 리포트 제공",
+        "working_days": 5,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 178433,
+    "ranking_order": 48,
+    "title": "딥러닝/머신러닝/AI프로젝트 스타트업 기술지원",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/178433",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "ITLSOLUTIONS",
+    "seller_grade": "NEW",
+    "seller_id": 743420,
+    "seller_intro": "",
+    "avg_response_time": "6시간 이내",
+    "review_count": 12,
+    "rating_score": 5.0,
+    "weighted_score": 60.0,
+    "base_price": 200000,
+    "description": "안녕하세요,\n\n시니어 머신러닝, 딥러닝 엔지니어 / 리서처 / 데이터 사이언티스트 입니다.\n\n딥러닝 코딩을 통한 기술 개발부터, 오픈소스 적용을 통한 Agile 프로젝트, MLOps, Serving, 정부과제, 스타트업 기술 개발 진원 등 딥러닝 / 머신러닝 관련 전반을 서비스 합니다. \n\n직접 뉴럴넷 레이어를 기초부터 쌓고, 데이터를 가공하고, 모델을 학습시키고, 파인튜닝하는 등 성능을 튜닝 하는 일부터 시작했기 때문에, AI원리에 대한 깊은 이해를 가지고 기술을 개발합니다.\n\n기술의 발전에 따라 최근 프로젝트는 LLM, SLM, VLM 모델의 파인튜닝, 임베딩, 멀티 에이전트 시스템 개발, RAG 시스템 개발 까지 기술 개발 및 프로덕션 경험을 가지고 있습니다. \n\n그 과정에서 수십억 이상의 파라미터를 가진 LLM/VLM의 추론을 최적화하고 시간당 수백만 건의 요청을 안정적으로 처리하는 파이프라인을 개발하여 서비스 한 경험을 가지고 있습니다. \n\n스타트업 CTO 일 한 경험이 있습니다. \n\n서비스가 기획되고 기술이 개발되며 서비스가 런칭되고 운영하는 전 과정에 대한 다양한 경험을 토대로, 기술 개발에 대한 폭넓은 관점의 컨설팅을 제공합니다. \n\n- AI에이전트도 LLM을 직접 학습시켜 본 사람이, 그리고 RAG 를 E2E 로 설계하고 개발해 본 사람이 더 잘 만듭니다. \n- LLM 도 토크나이저와 각종 NLP모델을 직접 학습 시켜 본 사람이 더 잘 다룹니다. \n- 머신러닝 레이어의 활성화 함수와 Normalization 까지 직접 튜닝해서 성능을 끌어 올려 본 사람이 작은 기술 격차가 가져올 프로덕션의 차별성을 더 잘 이해합니다. \n\n제공하는 서비스는 아래와 같습니다.\n\n1. 딥러닝 / 머신러닝 연구 개발\n\t리서치를 통해 문제 해결에 적합한 방법과 뉴럴넷 아키텍처, 모델 선정\n\t모델링, 코딩, 데이터 파이프라인 구축\n\t전처리, 학습, Finetuning\n\n2. 딥러닝 / 머신러닝 학습 및 고도화\n\tTraining / Validation\n \tData Augmentation\n \tRobustness 개선\n \tPrecision 개선\n\n3. 딥러닝 연산 효율화\n\t다중 GPU 연산\n\tMixed Precision 을 통한 학습 시간 단축\n\t모델 구조 개선을 통한 학습 시간 단축\n\t데이터 구조 개선, 전처리 코드 효율화\n\n4. 배포 (Deploy)\n\tAWS, GCP, Naver Cloud 배포 및 MLOps\n\t백엔드와 연동, Onnx 런타임을 활용한 기존 서비스와 연계, \n\tREST API 서버 구축\n\n5. 경량화\n\tTFlite, ONNX, TensorRT\n\tQuantization, Distilation, Compression\n\n6. 문서화\n\t필요시, 실행방법, 설치방법, 모델 설명 등에 대한 상세한 문서 제공.\n\t필요시, 주석 또는 수도코드 제공\n\n7. 가격 경쟁력 확보\n\tGPU 워크스테이션 보유\n\tCloud 대비 10배 합리적인 비용의 온프레미스 워크스테이션 보유\n\t비용 절감을 통한 경쟁력 있는 가격 제공\n\n8. 기타 AI / 딥러닝 / 머신러닝 관련 프로젝트.\n\n과거 프로젝트 내역은 아래와 같습니다.\n\n1. 국내 5대 그룹 딥러닝 SI 세 건 개발\n\t생산 공정용 Object detection / Classification / Anomaly detection\n \tPytorch, Tensorflow\n \tONNX, TensorRT, Quantization, Tensorflow Lite\n \tAutoML Deep learning Core\n\n2. 스타트업 다섯 곳 딥러닝 기술 개발\n\tNLP\n \tVideo Recognition\n \tImage classification\n \tOCR ( 글씨 인식 )\n \tObject detection / tracking\n \tSTT ( 음성인식 )\n \tLanguage Model ( 언어 교정 )\n \t고장 진단 / 예측 기술\n \tFast API - 해당 기업 백엔드 / 프론트엔드에 AI 서비스 연동\n\n3. 긱워커 플랫폼 기술지원 70회 이상\n\n4. KCI 등재 논문 3저자\n\t연구 기획\n \tPM\n \t머신러닝 개발\n \t머신러닝 실험, 연구\n\n5. 인공지능 관련 과목 모두 A 학점 이상.\n\n다년간의 머신러닝/딥러닝 연구 개발 경험을 토대로 만족스러운 결과를 안겨 드리겠습니다.",
+    "service_process": "1. 구매자의 개발 의뢰\n2. 구체적인 작업 범위 및 개발기간과 단가 협의\n3. 작업 진행\n4. 판매자의 결과물 인도\n5. 구매자의 개발 의뢰 내용과 결과물의 일치 여부 검토 후 수정 또는 프로젝트 종료",
+    "buyer_preparation": "1. 딥러닝 프로그램으로 수행하고자 하는 기능\n2. 상업용 프로젝트인지, 정부 과제인지, 개인적인 목적의 프로젝트인지, 프로젝트 성격에 대한 안내 부탁드립니다.\n3. 데이터 수집, 전처리, 딥러닝 모델링, 딥러닝 학습, 파인튜닝, 백엔드 개발, DB연동, Deployment 등 딥러닝 개발 및 응용 전 범위에 걸쳐 작업이 필요한 부분에 대한 안내 부탁드립니다.",
+    "revision_policy": "시점 : 총 작업량의 1/3 경과 전\n횟수 : 1회\n\n진행이 가능한 범위 및 난이도 : 데이터 라벨링 형식(라벨의 개수가 변경되지 않는 경우에 한하여), 데이터 출력 포멧(칼럼 수가 변경되지 않는 경우에 한하여), 모델 레이어 개수 추가 밎 감축",
+    "ai_tools": [],
+    "tech_level": "고급:최적화 설계",
+    "team_size": "1인",
+    "work_location": "상주 가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "JavaScript",
+          "Python",
+          "Java",
+          "C#",
+          "C",
+          "C++",
+          "R"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "고급:최적화 설계"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "딥러닝 프로그램 개발",
+        "price": 200000,
+        "description": "- 딥러닝 프로그램 개발 (파라미터 100M미만)\n- 데이터셋 (10,000개 이하) 전처리 및 딥러닝 학습",
+        "working_days": 7,
+        "revision_count": 1
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  },
+  {
+    "gigId": 702857,
+    "ranking_order": 49,
+    "title": "예측, 자연어처리, 머신러닝, AI 솔루션",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/702857",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "노바마인드",
+    "seller_grade": "NEW",
+    "seller_id": 4002380,
+    "seller_intro": "",
+    "avg_response_time": "10분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 200000,
+    "description": "안녕하세요!\n\n비즈니스에 필요한 데이터 사이언스·머신러닝 모델이나 AI 솔루션을 구축하고 싶으신가요?\n\n저는 7년 이상의 데이터 사이언스, 머신러닝, 딥러닝 실무 경험을 가지고 있으며,\n탄탄한 수학적 기반과 최신 기술을 바탕으로 안정적이고 효율적인 모델을 제공합니다.\n\n제공 서비스\n1. 데이터 사이언스 & 전처리\n데이터 클리닝, 변환, 인코딩, 증강\nEDA(탐색적 데이터 분석) 및 시각화로 인사이트 도출\n\n2. 시계열 분석 & 예측\nARIMA, SARIMAX, Prophet\nLSTM, GRU, DeepAR\n모델 비교·튜닝으로 최적 성능 달성\n\n3. 머신러닝 & AI 솔루션\n분류, 군집화, 회귀 모델 구축\n모델 학습, 평가, 최적화\n예측 결과를 이해하기 쉬운 시각화 제공\n\n4. 딥러닝 서비스\n신경망(단일·멀티모달) 설계\nPyTorch, TensorFlow, Keras 기반 모델 개발\n이미지 처리 및 객체 감지(Object Detection)\n\n저를 선택해야 하는 이유\n\n기술 전문성: Python, R, SQL, Colab, Amazon SageMaker 숙련\n프레임워크 & 도구: Scikit-learn, PyTorch, TensorFlow, Keras, OpenCV, Jupyter Notebook\n품질 & 납기: 정리된 문서·주석 포함, 시각화 리포트 제공, 제시간에 고품질 결과물 전달\n단순 예측 모델부터 고급 시계열 분석, AI 기반 솔루션, 엔드투엔드 프로젝트까지\n비즈니스 목표 달성을 위한 최적의 솔루션을 제공합니다.",
+    "service_process": "1. 요구사항 명확화\n의뢰인의 구체적인 데이터, 문제 정의, 목표(KPI)를 확인하고 정리\n\n2. 최종 범위 협의\n소통을 통해 프로젝트 범위, 일정, 결과물 형태 확정\n\n3. 1차 결과물 전달\n데이터 분석·모델링 후 초안 결과 및 시각화 보고서 제공\n\n4. 피드백 반영\n의뢰인의 의견을 반영해 모델 성능 및 리포트 개선\n\n5. 최종 산출물 및 수정 지원\n최종 결과물 전달, 추후 요청 시 소규모 수정·업데이트 지원",
+    "buyer_preparation": "- 데이터셋: CSV/Excel + 컬럼 설명 + 기간/단위\n- 문제 정의 & 목표: 해결하고 싶은 문제, 예측 범위, KPI\n- 비즈니스 맥락: 시즌·이벤트·프로모션 등 참고 정보\n- 결과물 형태: 코드, 리포트, 대시보드 등 원하는 출력 방식",
+    "revision_policy": "[기본 규정]\n1. 용역 제공이 개시되기 전: 취소 및 환불 가능\n2. 용역 제공이 개시된 후\n　· 가분적 용역: 개시되지 않은 범위에 대한 취소 및 환불 가능\n　· 불가분적 용역: 취소 및 환불 불가\n3. 제공된 용역이 구매 확정된 경우: 거래 금액을 정산 받은 전문가와 직접 취소 및 환불 협의\n\n[참고 사항]\n· 다음의 경우에는 해당 기준을 따릅니다.\n　- 전문가가 제시한 취소 조건이 기본 규정보다 의뢰인에게 유리한 경우\n　- 전문가가 별도로 명시한 사전 준비 사항(상담, 출장, 예약 등)과 이에 대한 취소 조건이 있는 경우\n· 제공받은 용역이 표시·광고의 내용과 다르거나 계약 내용과 다르게 이행된 경우 용역을 공급받은 날부터 3개월 이내 또는 그 사실을 안 날 또는 알 수 있었던 날부터 30일 이내에 취소 및 환불이 가능합니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "2인 이상 5인 미만",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python",
+          "Java",
+          "HTML",
+          "C++"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "2인 이상 5인 미만"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Airflow",
+          "Pytorch",
+          "TensorFlow"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "Bronze",
+        "price": 200000,
+        "description": "- 기본적인 시계열 데이터 분석과 예측\n- 복잡한 튜닝이나 고급 모델 적용 없이 가볍게 시작",
+        "working_days": 3,
+        "revision_count": 0
+      },
+      "DELUXE": {
+        "title": "Silver",
+        "price": 700000,
+        "description": "고급 시계열 모델과 AI 기반 예측 솔루션을 활용해 더 높은 정확도와 깊이 있는 분석을 제공",
+        "working_days": 5,
+        "revision_count": 1
+      },
+      "PREMIUM": {
+        "title": "Gold",
+        "price": 1800000,
+        "description": "고급 시계열 모델과 신경망(Neural Networks)**을 활용한 End-to-End 프로젝트를 수행",
+        "working_days": 7,
+        "revision_count": 2
+      }
+    }
+  },
+  {
+    "gigId": 705482,
+    "ranking_order": 50,
+    "title": "딥러닝 모델 개발고성능 GPU 보유",
+    "category_id": 649,
+    "url": "https://kmong.com/gig/705482",
+    "advertisement_type": "",
+    "is_ad": false,
+    "is_prime": false,
+    "is_quality_guaranteed": false,
+    "seller_nickname": "Wooks",
+    "seller_grade": "NEW",
+    "seller_id": 4580961,
+    "seller_intro": "",
+    "avg_response_time": "30분 이내",
+    "review_count": 0,
+    "rating_score": 0,
+    "weighted_score": 0,
+    "base_price": 5000,
+    "description": "안녕하세요, 저는 vision 분야 석사과정 졸업 후 현재 기업부설 연구소의 주임 연구원으로 근무하고 있습니다.\n국내 AI 논문 1편, 의료 저널 논문 1편\n\n경험 Task : Classification, Object Detection, Facial Landmark Detection, Image2Image translation, Image restoration, Adversarial Attack etc.\n\n- Jetson 환경에서의 Facial Landmark detection을 통한 졸음운전방지 시스템(경량모델 활용)\n- 악천후 환경 날씨 개선을 통한 객체 검출률 향상(국책과제 단독 진행)\n- 위성 이미지를 활용한 segmentation(국방 AI 경진대회, class imbalance 문제 해결)\n- 데이터셋 수집 후 대학 내 건물 분류\n\n위와 같은 다양한 task 경험을 통해, 문의주신 다양한 task에 대한 빠른 이해 및 학습 결과물 제공이 가능합니다.\n\n상담 후 가격 책정할 예정이며, 의뢰인 준비사항의 내용과 같이 내용 정리하여 문의 주시면 더 원활한 작업 진행이 가능합니다.!",
+    "service_process": "1. 문의 프로젝트 파악 및 요구사항 정의\n\n2. 데이터셋 파악\n\n3. 모델 학습 및 검증\n\n4. 학습된 모델 weight, 수정된 모델 structure 제공(필요 시 주석)",
+    "buyer_preparation": "1. 진행할 Task\n2. 데이터 유무\n3. 원하는 성능 목표치\n\n위의 내용이 필수는 아니지만, 준비하여 상담 요청주시면 더 빠른 결과물 제공이 가능합니다.",
+    "revision_policy": "상담 후 원하는 결과까지 수정 가능합니다. 최대한 맞춰드릴 예정입니다.",
+    "ai_tools": [],
+    "tech_level": "중급:설계 / 코딩",
+    "team_size": "1인",
+    "work_location": "상주 불가능",
+    "metadata_raw": [
+      {
+        "id": 76,
+        "meta": [
+          "Python"
+        ],
+        "title": "개발 언어"
+      },
+      {
+        "id": 639,
+        "meta": [
+          "상주 불가능"
+        ],
+        "title": "상주 여부"
+      },
+      {
+        "id": 659,
+        "meta": [
+          "중급:설계 / 코딩"
+        ],
+        "title": "기술 수준"
+      },
+      {
+        "id": 660,
+        "meta": [
+          "1인"
+        ],
+        "title": "팀 규모"
+      },
+      {
+        "id": 905,
+        "meta": [
+          "Keras",
+          "Pytorch",
+          "TensorFlow",
+          "OpenCV"
+        ],
+        "title": "데이터·ML·DL"
+      }
+    ],
+    "packages": {
+      "STANDARD": {
+        "title": "상담 후 결정",
+        "price": 5000,
+        "description": "높은 가격 받을 생각없고, 여유 시간이 많이 남아 상담 후 저렴한 가격으로 응대할 예정입니다.",
+        "working_days": 7,
+        "revision_count": 99
+      },
+      "DELUXE": {},
+      "PREMIUM": {}
+    }
+  }
+]

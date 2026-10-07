@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GEAR VISION QA | 톱니바퀴 치형 산(Teeth Peaks) 자동 검출 시스템</title>
+  
+  <!-- Fonts: Pretendard & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css">
+  
+  <!-- Lucide Icons (Monochrome SVG only) -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Global Header (GNB) -->
+  <header class="main-header">
+    <div class="header-container">
+      <div class="header-left">
+        <div class="brand-box">G</div>
+        <div class="brand-info">
+          <div class="brand-title-row">
+            <span class="brand-name">GEAR_VISION_INSPECTOR</span>
+            <span class="tag-mono">v4.2.0-PROD</span>
+            <span class="status-indicator">
+              <span class="status-dot"></span>
+              <span>SYSTEM_OPERATIONAL</span>
+            </span>
+          </div>
+          <div class="brand-desc">컴퓨터 비전 기반 톱니바퀴 치형 산(Teeth Peaks) 자동 추출 및 품질 검증 시스템</div>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <div class="header-meta-group">
+          <div class="meta-item">
+            <span class="meta-label">INFERENCE_SPEED</span>
+            <span class="meta-value">18.4ms</span>
+          </div>
+          <div class="meta-divider"></div>
+          <div class="meta-item">
+            <span class="meta-label">ALGORITHM</span>
+            <span class="meta-value text-blue">POLAR_PEAK_DETECTOR</span>
+          </div>
+          <div class="meta-divider"></div>
+          <div class="meta-item">
+            <span class="meta-label">TARGET_SPEC</span>
+            <span class="meta-value">27 TEETH ±0</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <div class="content-wrapper">
+
+    <!-- KPI Summary Section (3 High-Density Cards) -->
+    <section class="kpi-section">
+      <div class="kpi-grid">
+        
+        <!-- KPI 1: Teeth Count -->
+        <div class="kpi-card" id="kpiTeethCard">
+          <div class="kpi-header">
+            <span class="kpi-label">DETECTED_TEETH_COUNT</span>
+            <span class="kpi-badge neutral" id="kpiTeethBadge">[WAITING_EXECUTION]</span>
+          </div>
+          <div class="kpi-value-row">
+            <span class="kpi-number" id="teethCountDisplay">--</span>
+            <span class="kpi-unit">EA</span>
+          </div>
+          <div class="kpi-footer" id="teethSubText">기준 규격: 27 Teeth (오차 허용: 0)</div>
+        </div>
+
+        <!-- KPI 2: Target Standard -->
+        <div class="kpi-card">
+          <div class="kpi-header">
+            <span class="kpi-label">SPECIFICATION_STANDARD</span>
+            <span class="kpi-badge blue">[STANDARD_SPEC]</span>
+          </div>
+          <div class="kpi-value-row">
+            <span class="kpi-number">27</span>
+            <span class="kpi-unit">EA</span>
+          </div>
+          <div class="kpi-footer">검사 기준: 누락/과다 치형 발생 시 FAIL 판정</div>
+        </div>
+
+        <!-- KPI 3: Final Quality Verdict -->
+        <div class="kpi-card" id="kpiVerdictCard">
+          <div class="kpi-header">
+            <span class="kpi-label">FINAL_QUALITY_VERDICT</span>
+            <span class="kpi-badge neutral" id="verdictBadgeText">[STANDBY]</span>
+          </div>
+          <div class="kpi-value-row">
+            <span class="kpi-verdict" id="verdictDisplay">대기중</span>
+          </div>
+          <div class="kpi-footer" id="verdictSubText">분석 실행 버튼을 클릭하여 검사를 시작하십시오.</div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Inspection Workspace (Dual Image Panels + Action Bridge) -->
+    <main class="workspace-section">
+      <div class="workspace-grid">
+        
+        <!-- Left Panel: Raw Input Image -->
+        <div class="vision-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <span class="tag-panel-input">[INPUT_RAW_IMAGE]</span>
+              <span class="panel-heading">1. 톱니바퀴 원본 영상 (27_45.bmp)</span>
+            </div>
+            <div class="panel-controls">
+              <span class="tag-meta">1920x1080 BMP</span>
+              <label class="btn-secondary" title="다른 원본 이미지 파일 불러오기">
+                <i data-lucide="upload" class="icon-xs"></i>
+                <span>파일 변경</span>
+                <input type="file" id="imageFileInput" accept="image/*" style="display: none;">
+              </label>
+            </div>
+          </div>
+
+          <div class="viewport-box" id="rawViewport">
+            <div class="hud-guide-box"></div>
+            <div class="img-container">
+              <img src="27_45.bmp" alt="톱니바퀴 원본 영상" id="rawImage" class="viewport-img">
+            </div>
+            <div class="viewport-overlay-tag">
+              <span class="tag-mono">[STATUS: LOADED] 27_45.bmp</span>
+            </div>
+          </div>
+
+          <div class="panel-footer">
+            <div class="spec-row">
+              <span class="spec-name">SOURCE_FILE:</span>
+              <span class="spec-val" id="rawFilename">27_45.bmp</span>
+            </div>
+            <div class="spec-row">
+              <span class="spec-name">PREPROCESSING:</span>
+              <span class="spec-val text-slate">Grayscale / Gaussian Smoothing</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Center Controller Bridge -->
+        <div class="center-bridge">
+          <div class="bridge-line"></div>
+          <div class="bridge-actions">
+            <button class="btn-primary-action" id="btnExtractTeeth">
+              <i data-lucide="play" class="icon-xs"></i>
+              <span id="extractBtnText">산 개수 추출</span>
+            </button>
+            <button class="btn-reset-action" id="btnReset">
+              <i data-lucide="rotate-ccw" class="icon-xs"></i>
+              <span>초기화</span>
+            </button>
+          </div>
+          <div class="bridge-line"></div>
+        </div>
+
+        <!-- Right Panel: Extraction Output Result -->
+        <div class="vision-panel">
+          <div class="panel-header">
+            <div class="panel-title">
+              <span class="tag-panel-output">[OUTPUT_ANALYSIS]</span>
+              <span class="panel-heading">2. 치형 산(Peaks) 검출 결과</span>
+            </div>
+            <div class="panel-controls">
+              <span class="tag-status" id="resultStatusBadge">[STANDBY]</span>
+            </div>
+          </div>
+
+          <div class="viewport-box" id="resultViewport">
+            <!-- Standby Placeholder -->
+            <div class="standby-placeholder" id="resultPlaceholder">
+              <i data-lucide="crosshair" class="icon-placeholder"></i>
+              <div class="placeholder-text">분석 실행 대기중</div>
+              <div class="placeholder-sub">중앙의 [산 개수 추출] 버튼을 실행하면 27개의 치형 피크가 산출됩니다.</div>
+            </div>
+
+            <!-- Result Image Container -->
+            <div class="img-container" id="resultImgWrapper" style="display: none;">
+              <img src="산_개수_추출.png" alt="산 개수 추출 결과 영상" id="resultImage" class="viewport-img">
+              
+              <!-- Result Tag Box -->
+              <div class="result-info-box" id="resultInfoBox">
+                <div class="result-info-row">
+                  <span class="result-info-label">DETECTED_COUNT:</span>
+                  <span class="result-info-val text-emerald">27 EA</span>
+                </div>
+                <div class="result-info-row">
+                  <span class="result-info-label">MISSING_TEETH:</span>
+                  <span class="result-info-val">0 EA</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="viewport-overlay-tag">
+              <span class="tag-mono" id="hudResultTag">[ALGORITHM: RADIAL_POLAR_PEAK_CONTOUR]</span>
+            </div>
+          </div>
+
+          <div class="panel-footer">
+            <div class="spec-row">
+              <span class="spec-name">DETECTED_PEAKS:</span>
+              <span class="spec-val" id="footerTeethCount">-- EA</span>
+            </div>
+            <div class="spec-row">
+              <span class="spec-name">VALIDATION_STATUS:</span>
+              <span class="spec-val text-slate" id="footerValidationStatus">대기중</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- Multi-Step Pipeline Section (High-Density Engineering Grid) -->
+    <section class="pipeline-section">
+      <div class="pipeline-header-bar">
+        <div class="pipeline-title-group">
+          <span class="tag-mono">[VISION_PIPELINE]</span>
+          <h3 class="pipeline-heading">비전 검사 단계별 파이프라인 (Vision Inspection Stages)</h3>
+        </div>
+        <div class="pipeline-header-right">
+          <span class="tag-meta">6 ASSETS ARCHIVED</span>
+        </div>
+      </div>
+
+      <div class="pipeline-grid">
+        <!-- Stage 1 -->
+        <div class="pipeline-card" data-step="1" data-img="27_45.bmp" data-title="Stage 1. 원본 톱니바퀴 영상 로드 (27_45.bmp)" data-desc="산업용 비전 카메라로 획득한 비가공 원본 BMP 영상">
+          <div class="card-head">
+            <span class="stage-tag">[STAGE_01]</span>
+            <span class="stage-type">RAW_INPUT</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="27_45.bmp" alt="원본 영상">
+          </div>
+          <div class="card-body">
+            <div class="card-title">1. 원본 영상 로드</div>
+            <div class="card-desc">27_45.bmp</div>
+          </div>
+        </div>
+
+        <!-- Stage 2 -->
+        <div class="pipeline-card" data-step="2" data-img="중점_찾기.png" data-title="Stage 2. 회전 중심점 탐색 (중점_찾기.png)" data-desc="모멘트 분석 및 원형 피팅을 통한 기어 회전 중심 좌표 연산">
+          <div class="card-head">
+            <span class="stage-tag">[STAGE_02]</span>
+            <span class="stage-type">LOCALIZATION</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="중점_찾기.png" alt="중점 찾기">
+          </div>
+          <div class="card-body">
+            <div class="card-title">2. 회전 중심점 탐색</div>
+            <div class="card-desc">중점_찾기.png</div>
+          </div>
+        </div>
+
+        <!-- Stage 3 -->
+        <div class="pipeline-card" data-step="3" data-img="중점_결과.png" data-title="Stage 3. 중심 좌표 보정 (중점_결과.png)" data-desc="치선원 및 치저원 기준축 오차 보정">
+          <div class="card-head">
+            <span class="stage-tag">[STAGE_03]</span>
+            <span class="stage-type">CALIBRATION</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="중점_결과.png" alt="중점 결과">
+          </div>
+          <div class="card-body">
+            <div class="card-title">3. 중심 좌표 보정</div>
+            <div class="card-desc">중점_결과.png</div>
+          </div>
+        </div>
+
+        <!-- Stage 4 -->
+        <div class="pipeline-card" data-step="4" data-img="톱니바퀴_이진화.png" data-title="Stage 4. 적응형 이진화 & 외곽선 추출 (톱니바퀴_이진화.png)" data-desc="조명 편차 보정 및 치형 윤곽선 분리 (Adaptive Thresholding)">
+          <div class="card-head">
+            <span class="stage-tag">[STAGE_04]</span>
+            <span class="stage-type">THRESHOLDING</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="톱니바퀴_이진화.png" alt="톱니바퀴 이진화">
+          </div>
+          <div class="card-body">
+            <div class="card-title">4. 적응형 이진화</div>
+            <div class="card-desc">톱니바퀴_이진화.png</div>
+          </div>
+        </div>
+
+        <!-- Stage 5 -->
+        <div class="pipeline-card highlight" data-step="5" data-img="산_개수_추출.png" data-title="Stage 5. 치형 산 27개 검출 (산_개수_추출.png)" data-desc="극좌표계 피크 검출을 통해 톱니바퀴 산 27개 완벽 카운팅">
+          <div class="card-head">
+            <span class="stage-tag text-emerald">[STAGE_05]</span>
+            <span class="stage-type text-emerald">FINAL_EXTRACTION</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="산_개수_추출.png" alt="산 개수 추출">
+          </div>
+          <div class="card-body">
+            <div class="card-title">5. 산 27개 검출</div>
+            <div class="card-desc">산_개수_추출.png</div>
+          </div>
+        </div>
+
+        <!-- Stage 6 -->
+        <div class="pipeline-card" data-step="6" data-img="학습_지표.png" data-title="Stage 6. 검사 신뢰도 및 손실 지표 (학습_지표.png)" data-desc="비전 알고리즘 수렴 지표 및 신뢰도 분석">
+          <div class="card-head">
+            <span class="stage-tag">[STAGE_06]</span>
+            <span class="stage-type">METRICS</span>
+          </div>
+          <div class="card-img-wrap">
+            <img src="학습_지표.png" alt="학습 지표">
+          </div>
+          <div class="card-body">
+            <div class="card-title">6. 신뢰도 지표</div>
+            <div class="card-desc">학습_지표.png</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Detail Modal (Anti-Bubble, 2px border-radius) -->
+  <div class="modal-overlay" id="pipelineModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <span class="tag-mono" id="modalStepBadge">[STAGE_DETAIL]</span>
+          <span class="modal-heading" id="modalStepTitle">파이프라인 상세 보기</span>
+        </div>
+        <button class="btn-modal-close" id="btnCloseModal">
+          <i data-lucide="x" class="icon-xs"></i>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-viewport">
+          <img src="" alt="상세 영상" id="modalImg">
+        </div>
+        <div class="modal-desc" id="modalStepDesc">
+          상세 설명 내용
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification (Monochrome Engineering Toast) -->
+  <div class="toast-box" id="toast">
+    <span class="tag-mono text-emerald">[INFO]</span>
+    <span id="toastMsg">산 개수 27개 추출 완료</span>
+  </div>
+
+  <!-- Footer -->
+  <footer class="system-footer">
+    <div class="footer-inner">
+      <div class="footer-left">
+        <span class="tag-mono">[SYSTEM: INDUSTRIAL_VISION_QA_ENGINEERING]</span>
+        <span class="footer-text">OPENCV / PYTHON PIPELINE ARCHITECTURE</span>
+      </div>
+      <div class="footer-right">
+        <span class="footer-text">KMONG PORTFOLIO SPECIFICATION</span>
+        <span class="footer-divider">|</span>
+        <span class="tag-mono text-emerald">[VERIFIED_SPEC]</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Logic Script -->
+  <script src="app.js"></script>
+</body>
+</html>
